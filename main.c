@@ -3,11 +3,11 @@
 
 #define ll long long
 
-void runFromFile(char *filename) {
+void runFromFile(char *inputFilename, char *outputFilename) {
     ll int i, j;
 
     // Loads input file.
-    FILE *fRead = fopen(filename, "rt");
+    FILE *fRead = fopen(inputFilename, "rt");
     if(!fRead) {
         printf("Input file could not be opened.\n");
         exit(-1);
@@ -24,7 +24,7 @@ void runFromFile(char *filename) {
     }
 
     // Loads output file.
-    FILE *fWrite = fopen("output/output.out", "wt");
+    FILE *fWrite = fopen(outputFilename, "wt");
     if(!fWrite) {
         printf("Could not create output file.\n");
         exit(-1);
@@ -92,7 +92,33 @@ void runFromFile(char *filename) {
 }
 
 int main() {
-    runFromFile("input/inputAB.in");
+    int choice;
+
+    while(choice<1 || choice >5) {
+        system("clear");
+        printf("  1- Example\n  2- Small\n  3- Medium\n  4- Quite Big\n  5- Also Big\n\nChoose input file to run: ");
+        scanf("%d", &choice);
+    }
+
+    switch(choice) {
+        case 1:
+            runFromFile("input/inputE.in", "output/outputE.out");
+        break;
+        case 2:
+            runFromFile("input/inputS.in", "output/outputS.out");
+        break;
+        case 3:
+            runFromFile("input/inputM.in", "output/outputM.out");            
+        break;
+        case 4:
+            runFromFile("input/inputQB.in", "output/outputQB.out");
+        break;
+        case 5:
+            runFromFile("input/inputAB.in", "output/outputAB.out");
+        break;
+    }
+
+    printf("\nOutput file generated.\nTask completed.\n");
 
     return 0;
 }
