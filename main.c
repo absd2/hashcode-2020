@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
 #define ll long long
 
@@ -40,7 +41,7 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
     // Processes the answer.
     ll int *currentIndexes=NULL, *maxIndexes=NULL;
     ll int currentSum=0, currentAnswers=0, start=nPizzas-1, maxSum=0, maxAnswers=0;
-    
+
     while(start>1) {
         // Looks for an answers by searching from the very last element to the back, and moves the startpoint step to the left as it iterates.
         for(i=start; i>=0; i--) {
@@ -96,8 +97,9 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
 }
 
 int main() {
-    // Menu.
     int choice;
+    
+    // Menu.
     while(choice<0 || choice >5) {
         system("clear");
         printf("  1- Example\n  2- Small\n  3- Medium\n  4- Quite Big\n  5- Also Big\n\n  0- All of them.\n\nChoose input file to run: ");
@@ -112,9 +114,11 @@ int main() {
             runFromFile("input/inputS.in", "output/outputS.out", "logs/logOutputS.out");
         break;
         case 3:
-            runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputM.out");            
+
+            runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputM.out"); 
         break;
         case 4:
+
             runFromFile("input/inputQB.in", "output/outputQB.out", "logs/logOutputQB.out");
         break;
         case 5:
@@ -126,7 +130,7 @@ int main() {
             runFromFile("input/inputS.in", "output/outputS.out", "logs/logOutputS.out");
             runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputM.out");    
             runFromFile("input/inputQB.in", "output/outputQB.out", "logs/logOutputQB.out");    
-            runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputAB.out");    
+            runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputAB.out");
         break;
     }
 
