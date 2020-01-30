@@ -90,6 +90,7 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
     // Releases all alocated memory.
     fclose(fRead);
     fclose(fWrite);
+    fclose(fLog);
     free(slices);
     free(currentIndexes);
     free(maxIndexes);
