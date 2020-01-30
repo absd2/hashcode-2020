@@ -52,7 +52,7 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
             }
         }
 
-        fprintf(fLog, "cSum=%lld | maxSum=%lld\n", currentSum, maxSum);
+        fprintf(fLog, "currentSum=%lld | maxSum=%lld\n", currentSum, maxSum);
 
         // If the answer now found is bigger than the maximum answer, replaces it.
         if(currentSum>maxSum) {
@@ -94,9 +94,9 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
 int main() {
     int choice;
 
-    while(choice<1 || choice >5) {
+    while(choice<0 || choice >5) {
         system("clear");
-        printf("  1- Example\n  2- Small\n  3- Medium\n  4- Quite Big\n  5- Also Big\n\nChoose input file to run: ");
+        printf("  1- Example\n  2- Small\n  3- Medium\n  4- Quite Big\n  5- Also Big\n\n  0- All of them.\n\nChoose input file to run: ");
         scanf("%d", &choice);
     }
 
@@ -116,9 +116,18 @@ int main() {
         case 5:
             runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputAB.out");
         break;
+
+        case 0:
+            runFromFile("input/inputE.in", "output/outputE.out", "logs/logOutputE.out");
+            runFromFile("input/inputS.in", "output/outputS.out", "logs/logOutputS.out");
+            runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputM.out");    
+            runFromFile("input/inputQB.in", "output/outputQB.out", "logs/logOutputQB.out");    
+            runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputAB.out");    
+        break;
     }
 
     printf("\nOutput file generated.\nLog generated.\nTask completed.\n");
+
 
     return 0;
 }

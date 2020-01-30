@@ -1,2 +1,2 @@
-cSum=16 | maxSum=0
-cSum=13 | maxSum=16
+currentSum=16 | maxSum=0
+currentSum=13 | maxSum=16
