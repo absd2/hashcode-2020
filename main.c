@@ -4,7 +4,7 @@
 #define ll long long
 
 void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
-    ll int i, j;
+    ll int i;
 
     // Loads input file.
     FILE *fRead = fopen(inputFilename, "rt");
@@ -15,10 +15,10 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
 
     // Reads input from file.
     ll int maxSlices, nPizzas;
-    
+
     fscanf(fRead, "%lld %lld", &maxSlices, &nPizzas);
     ll int *slices=(ll int *)malloc(sizeof(ll int)*nPizzas);
-    
+
     for(i=0; i<nPizzas; i++) {
         fscanf(fRead, "%lld", &slices[i]);
     }
@@ -40,8 +40,9 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
     // Processes the answer.
     ll int *currentIndexes=NULL, *maxIndexes=NULL;
     ll int currentSum=0, currentAnswers=0, start=nPizzas-1, maxSum=0, maxAnswers=0;
+    
     while(start>1) {
-        // Looks for an answers by searching from the very last element to the back, and moves the beggining point one step to the left every iteration.
+        // Looks for an answers by searching from the very last element to the back, and moves the startpoint step to the left as it iterates.
         for(i=start; i>=0; i--) {
             if(slices[i]+currentSum<=maxSlices) {
                 currentSum+=slices[i];
@@ -52,6 +53,7 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
             }
         }
 
+        // Save step on the logfile.
         fprintf(fLog, "currentSum=%lld | maxSum=%lld\n", currentSum, maxSum);
 
         // If the answer now found is bigger than the maximum answer, replaces it.
@@ -65,11 +67,13 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
             }
         }
 
+        // Resets variables for next iteration.
         currentSum=0;
         currentAnswers=0;
         currentIndexes=NULL;
         free(currentIndexes);
-
+        
+        // Moves startpoint one step to the left.
         start--;
     }
 
@@ -83,7 +87,7 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
         }
     }
 
-
+    // Releases all alocated memory.
     fclose(fRead);
     fclose(fWrite);
     free(slices);
@@ -92,8 +96,8 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
 }
 
 int main() {
+    // Menu.
     int choice;
-
     while(choice<0 || choice >5) {
         system("clear");
         printf("  1- Example\n  2- Small\n  3- Medium\n  4- Quite Big\n  5- Also Big\n\n  0- All of them.\n\nChoose input file to run: ");
@@ -127,7 +131,5 @@ int main() {
     }
 
     printf("\nOutput file generated.\nLog generated.\nTask completed.\n");
-
-
     return 0;
 }
