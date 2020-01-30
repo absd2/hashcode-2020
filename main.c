@@ -105,20 +105,20 @@ int main() {
             runFromFile("input/inputE.in", "output/outputE.out", "logs/logOutputE.out");
         break;
         case 2:
-            runFromFile("input/inputS.in", "output/outputS.out", "logs/logOutputE.out");
+            runFromFile("input/inputS.in", "output/outputS.out", "logs/logOutputS.out");
         break;
         case 3:
-            runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputE.out");            
+            runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputM.out");            
         break;
         case 4:
-            runFromFile("input/inputQB.in", "output/outputQB.out", "logs/logOutputE.out");
+            runFromFile("input/inputQB.in", "output/outputQB.out", "logs/logOutputQB.out");
         break;
         case 5:
-            runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputE.out");
+            runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputAB.out");
         break;
     }
 
-    printf("\nOutput file generated.\nTask completed.\n");
+    printf("\nOutput file generated.\nLog generated.\nTask completed.\n");
 
     return 0;
 }
