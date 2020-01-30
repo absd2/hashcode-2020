@@ -3,7 +3,7 @@
 
 #define ll long long
 
-void runFromFile(char *inputFilename, char *outputFilename) {
+void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
     ll int i, j;
 
     // Loads input file.
@@ -31,7 +31,7 @@ void runFromFile(char *inputFilename, char *outputFilename) {
     }
 
     // Loads log file.
-    FILE *fLog = fopen("log/log.out", "wt");
+    FILE *fLog = fopen(logFilename, "wt");
     if(!fLog) {
         printf("Could not create log file.\n");
         exit(-1);
@@ -102,19 +102,19 @@ int main() {
 
     switch(choice) {
         case 1:
-            runFromFile("input/inputE.in", "output/outputE.out");
+            runFromFile("input/inputE.in", "output/outputE.out", "logs/logOutputE.out");
         break;
         case 2:
-            runFromFile("input/inputS.in", "output/outputS.out");
+            runFromFile("input/inputS.in", "output/outputS.out", "logs/logOutputE.out");
         break;
         case 3:
-            runFromFile("input/inputM.in", "output/outputM.out");            
+            runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputE.out");            
         break;
         case 4:
-            runFromFile("input/inputQB.in", "output/outputQB.out");
+            runFromFile("input/inputQB.in", "output/outputQB.out", "logs/logOutputE.out");
         break;
         case 5:
-            runFromFile("input/inputAB.in", "output/outputAB.out");
+            runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputE.out");
         break;
     }
 
