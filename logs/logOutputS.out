@@ -1,8 +1,8 @@
-currentSum=99 | maxSum=0
-currentSum=99 | maxSum=99
-currentSum=100 | maxSum=99
-currentSum=97 | maxSum=100
-currentSum=98 | maxSum=100
-currentSum=80 | maxSum=100
-currentSum=51 | maxSum=100
-currentSum=33 | maxSum=100
+(slices[9]) currentSum=99 | maxSum=0
+(slices[8]) currentSum=99 | maxSum=99
+(slices[7]) currentSum=100 | maxSum=99
+(slices[6]) currentSum=97 | maxSum=100
+(slices[5]) currentSum=98 | maxSum=100
+(slices[4]) currentSum=80 | maxSum=100
+(slices[3]) currentSum=51 | maxSum=100
+(slices[2]) currentSum=33 | maxSum=100

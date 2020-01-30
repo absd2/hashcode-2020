@@ -1,1998 +1,1998 @@
-currentSum=999999725 | maxSum=0
-currentSum=999999856 | maxSum=999999725
-currentSum=999999910 | maxSum=999999856
-currentSum=999999770 | maxSum=999999910
-currentSum=999999849 | maxSum=999999910
-currentSum=999999917 | maxSum=999999910
-currentSum=999999932 | maxSum=999999917
-currentSum=999999619 | maxSum=999999932
-currentSum=999999921 | maxSum=999999932
-currentSum=999999877 | maxSum=999999932
-currentSum=999854624 | maxSum=999999932
-currentSum=998858833 | maxSum=999999932
-currentSum=997863285 | maxSum=999999932
-currentSum=996868004 | maxSum=999999932
-currentSum=995872844 | maxSum=999999932
-currentSum=994877826 | maxSum=999999932
-currentSum=993883660 | maxSum=999999932
-currentSum=992889814 | maxSum=999999932
-currentSum=991896143 | maxSum=999999932
-currentSum=990903027 | maxSum=999999932
-currentSum=989910028 | maxSum=999999932
-currentSum=988917135 | maxSum=999999932
-currentSum=987924857 | maxSum=999999932
-currentSum=986932789 | maxSum=999999932
-currentSum=985940813 | maxSum=999999932
-currentSum=984949422 | maxSum=999999932
-currentSum=983958220 | maxSum=999999932
-currentSum=982967062 | maxSum=999999932
-currentSum=981976054 | maxSum=999999932
-currentSum=980985951 | maxSum=999999932
-currentSum=979995951 | maxSum=999999932
-currentSum=979006916 | maxSum=999999932
-currentSum=978018153 | maxSum=999999932
-currentSum=977029566 | maxSum=999999932
-currentSum=976041048 | maxSum=999999932
-currentSum=975052787 | maxSum=999999932
-currentSum=974065401 | maxSum=999999932
-currentSum=973078147 | maxSum=999999932
-currentSum=972091320 | maxSum=999999932
-currentSum=971105227 | maxSum=999999932
-currentSum=970119209 | maxSum=999999932
-currentSum=969133221 | maxSum=999999932
-currentSum=968148309 | maxSum=999999932
-currentSum=967163590 | maxSum=999999932
-currentSum=966179000 | maxSum=999999932
-currentSum=965196796 | maxSum=999999932
-currentSum=964215557 | maxSum=999999932
-currentSum=963234549 | maxSum=999999932
-currentSum=962254388 | maxSum=999999932
-currentSum=961274315 | maxSum=999999932
-currentSum=960294634 | maxSum=999999932
-currentSum=959315561 | maxSum=999999932
-currentSum=958336917 | maxSum=999999932
-currentSum=957358453 | maxSum=999999932
-currentSum=956380236 | maxSum=999999932
-currentSum=955402228 | maxSum=999999932
-currentSum=954425160 | maxSum=999999932
-currentSum=953449078 | maxSum=999999932
-currentSum=952473977 | maxSum=999999932
-currentSum=951499696 | maxSum=999999932
-currentSum=950525499 | maxSum=999999932
-currentSum=949551412 | maxSum=999999932
-currentSum=948577353 | maxSum=999999932
-currentSum=947604567 | maxSum=999999932
-currentSum=946632992 | maxSum=999999932
-currentSum=945661575 | maxSum=999999932
-currentSum=944690791 | maxSum=999999932
-currentSum=943720205 | maxSum=999999932
-currentSum=942749812 | maxSum=999999932
-currentSum=941780366 | maxSum=999999932
-currentSum=940811525 | maxSum=999999932
-currentSum=939843360 | maxSum=999999932
-currentSum=938876067 | maxSum=999999932
-currentSum=937908920 | maxSum=999999932
-currentSum=936942221 | maxSum=999999932
-currentSum=935976230 | maxSum=999999932
-currentSum=935010515 | maxSum=999999932
-currentSum=934044966 | maxSum=999999932
-currentSum=933080626 | maxSum=999999932
-currentSum=932116366 | maxSum=999999932
-currentSum=931152268 | maxSum=999999932
-currentSum=930189107 | maxSum=999999932
-currentSum=929225990 | maxSum=999999932
-currentSum=928263902 | maxSum=999999932
-currentSum=927303280 | maxSum=999999932
-currentSum=926343514 | maxSum=999999932
-currentSum=925384491 | maxSum=999999932
-currentSum=924425991 | maxSum=999999932
-currentSum=923468080 | maxSum=999999932
-currentSum=922510229 | maxSum=999999932
-currentSum=921552686 | maxSum=999999932
-currentSum=920595359 | maxSum=999999932
-currentSum=919638138 | maxSum=999999932
-currentSum=918681128 | maxSum=999999932
-currentSum=917726226 | maxSum=999999932
-currentSum=916771508 | maxSum=999999932
-currentSum=915817644 | maxSum=999999932
-currentSum=914864031 | maxSum=999999932
-currentSum=913911345 | maxSum=999999932
-currentSum=912958756 | maxSum=999999932
-currentSum=912006432 | maxSum=999999932
-currentSum=911054247 | maxSum=999999932
-currentSum=910103213 | maxSum=999999932
-currentSum=909152256 | maxSum=999999932
-currentSum=908202804 | maxSum=999999932
-currentSum=907253439 | maxSum=999999932
-currentSum=906304597 | maxSum=999999932
-currentSum=905356471 | maxSum=999999932
-currentSum=904408583 | maxSum=999999932
-currentSum=903461224 | maxSum=999999932
-currentSum=902513886 | maxSum=999999932
-currentSum=901567040 | maxSum=999999932
-currentSum=900620329 | maxSum=999999932
-currentSum=899673999 | maxSum=999999932
-currentSum=898728451 | maxSum=999999932
-currentSum=897783414 | maxSum=999999932
-currentSum=896838407 | maxSum=999999932
-currentSum=895894081 | maxSum=999999932
-currentSum=894950263 | maxSum=999999932
-currentSum=894006899 | maxSum=999999932
-currentSum=893063649 | maxSum=999999932
-currentSum=892120948 | maxSum=999999932
-currentSum=891178307 | maxSum=999999932
-currentSum=890235683 | maxSum=999999932
-currentSum=889294197 | maxSum=999999932
-currentSum=888352723 | maxSum=999999932
-currentSum=887411882 | maxSum=999999932
-currentSum=886475425 | maxSum=999999932
-currentSum=885539353 | maxSum=999999932
-currentSum=884603784 | maxSum=999999932
-currentSum=883668382 | maxSum=999999932
-currentSum=882733378 | maxSum=999999932
-currentSum=881798443 | maxSum=999999932
-currentSum=880863665 | maxSum=999999932
-currentSum=879930081 | maxSum=999999932
-currentSum=878997099 | maxSum=999999932
-currentSum=878064421 | maxSum=999999932
-currentSum=877133824 | maxSum=999999932
-currentSum=876203415 | maxSum=999999932
-currentSum=875274183 | maxSum=999999932
-currentSum=874345655 | maxSum=999999932
-currentSum=873417141 | maxSum=999999932
-currentSum=872488667 | maxSum=999999932
-currentSum=871560849 | maxSum=999999932
-currentSum=870633141 | maxSum=999999932
-currentSum=869705903 | maxSum=999999932
-currentSum=868778770 | maxSum=999999932
-currentSum=867852715 | maxSum=999999932
-currentSum=866927419 | maxSum=999999932
-currentSum=866002911 | maxSum=999999932
-currentSum=865078629 | maxSum=999999932
-currentSum=864154925 | maxSum=999999932
-currentSum=863231240 | maxSum=999999932
-currentSum=862307754 | maxSum=999999932
-currentSum=861384621 | maxSum=999999932
-currentSum=860461711 | maxSum=999999932
-currentSum=859539291 | maxSum=999999932
-currentSum=858617200 | maxSum=999999932
-currentSum=857695168 | maxSum=999999932
-currentSum=856773711 | maxSum=999999932
-currentSum=855852878 | maxSum=999999932
-currentSum=854932168 | maxSum=999999932
-currentSum=854012476 | maxSum=999999932
-currentSum=853093390 | maxSum=999999932
-currentSum=852174401 | maxSum=999999932
-currentSum=851255952 | maxSum=999999932
-currentSum=850338699 | maxSum=999999932
-currentSum=849421684 | maxSum=999999932
-currentSum=848504978 | maxSum=999999932
-currentSum=847589815 | maxSum=999999932
-currentSum=846674799 | maxSum=999999932
-currentSum=845759936 | maxSum=999999932
-currentSum=844845126 | maxSum=999999932
-currentSum=843930542 | maxSum=999999932
-currentSum=843016843 | maxSum=999999932
-currentSum=842103553 | maxSum=999999932
-currentSum=841190361 | maxSum=999999932
-currentSum=840277506 | maxSum=999999932
-currentSum=839364778 | maxSum=999999932
-currentSum=838452781 | maxSum=999999932
-currentSum=837540789 | maxSum=999999932
-currentSum=836628895 | maxSum=999999932
-currentSum=835717247 | maxSum=999999932
-currentSum=834805669 | maxSum=999999932
-currentSum=833894971 | maxSum=999999932
-currentSum=832985961 | maxSum=999999932
-currentSum=832077337 | maxSum=999999932
-currentSum=831168750 | maxSum=999999932
-currentSum=830261408 | maxSum=999999932
-currentSum=829354269 | maxSum=999999932
-currentSum=828447294 | maxSum=999999932
-currentSum=827540592 | maxSum=999999932
-currentSum=826633937 | maxSum=999999932
-currentSum=825727547 | maxSum=999999932
-currentSum=824821460 | maxSum=999999932
-currentSum=823915412 | maxSum=999999932
-currentSum=823009563 | maxSum=999999932
-currentSum=822105830 | maxSum=999999932
-currentSum=821202197 | maxSum=999999932
-currentSum=820298581 | maxSum=999999932
-currentSum=819395001 | maxSum=999999932
-currentSum=818491608 | maxSum=999999932
-currentSum=817588368 | maxSum=999999932
-currentSum=816685386 | maxSum=999999932
-currentSum=815782743 | maxSum=999999932
-currentSum=814880180 | maxSum=999999932
-currentSum=813977812 | maxSum=999999932
-currentSum=813075524 | maxSum=999999932
-currentSum=812173523 | maxSum=999999932
-currentSum=811271550 | maxSum=999999932
-currentSum=810370106 | maxSum=999999932
-currentSum=809468693 | maxSum=999999932
-currentSum=808567557 | maxSum=999999932
-currentSum=807667206 | maxSum=999999932
-currentSum=806767051 | maxSum=999999932
-currentSum=805867602 | maxSum=999999932
-currentSum=804969203 | maxSum=999999932
-currentSum=804071558 | maxSum=999999932
-currentSum=803173961 | maxSum=999999932
-currentSum=802276906 | maxSum=999999932
-currentSum=801379990 | maxSum=999999932
-currentSum=800484023 | maxSum=999999932
-currentSum=799589067 | maxSum=999999932
-currentSum=798694229 | maxSum=999999932
-currentSum=797799835 | maxSum=999999932
-currentSum=796905643 | maxSum=999999932
-currentSum=796011848 | maxSum=999999932
-currentSum=795118657 | maxSum=999999932
-currentSum=794225521 | maxSum=999999932
-currentSum=793332773 | maxSum=999999932
-currentSum=792440434 | maxSum=999999932
-currentSum=791548786 | maxSum=999999932
-currentSum=790657721 | maxSum=999999932
-currentSum=789766826 | maxSum=999999932
-currentSum=788876854 | maxSum=999999932
-currentSum=787987258 | maxSum=999999932
-currentSum=787097980 | maxSum=999999932
-currentSum=786208721 | maxSum=999999932
-currentSum=785320008 | maxSum=999999932
-currentSum=784432753 | maxSum=999999932
-currentSum=783545875 | maxSum=999999932
-currentSum=782659459 | maxSum=999999932
-currentSum=781773320 | maxSum=999999932
-currentSum=780888627 | maxSum=999999932
-currentSum=780004782 | maxSum=999999932
-currentSum=779122177 | maxSum=999999932
-currentSum=778239849 | maxSum=999999932
-currentSum=777358464 | maxSum=999999932
-currentSum=776477753 | maxSum=999999932
-currentSum=775597707 | maxSum=999999932
-currentSum=774718596 | maxSum=999999932
-currentSum=773840388 | maxSum=999999932
-currentSum=772963699 | maxSum=999999932
-currentSum=772087082 | maxSum=999999932
-currentSum=771210706 | maxSum=999999932
-currentSum=770335188 | maxSum=999999932
-currentSum=769459866 | maxSum=999999932
-currentSum=768584679 | maxSum=999999932
-currentSum=767710000 | maxSum=999999932
-currentSum=766835705 | maxSum=999999932
-currentSum=765961430 | maxSum=999999932
-currentSum=765087189 | maxSum=999999932
-currentSum=764213789 | maxSum=999999932
-currentSum=763340444 | maxSum=999999932
-currentSum=762467319 | maxSum=999999932
-currentSum=761594703 | maxSum=999999932
-currentSum=760722317 | maxSum=999999932
-currentSum=759850202 | maxSum=999999932
-currentSum=758979067 | maxSum=999999932
-currentSum=758108099 | maxSum=999999932
-currentSum=757237134 | maxSum=999999932
-currentSum=756366270 | maxSum=999999932
-currentSum=755495862 | maxSum=999999932
-currentSum=754625684 | maxSum=999999932
-currentSum=753755940 | maxSum=999999932
-currentSum=752886255 | maxSum=999999932
-currentSum=752017242 | maxSum=999999932
-currentSum=751150406 | maxSum=999999932
-currentSum=750284510 | maxSum=999999932
-currentSum=749419461 | maxSum=999999932
-currentSum=748554661 | maxSum=999999932
-currentSum=747690332 | maxSum=999999932
-currentSum=746826055 | maxSum=999999932
-currentSum=745962130 | maxSum=999999932
-currentSum=745099712 | maxSum=999999932
-currentSum=744237385 | maxSum=999999932
-currentSum=743375284 | maxSum=999999932
-currentSum=742513511 | maxSum=999999932
-currentSum=741652138 | maxSum=999999932
-currentSum=740791471 | maxSum=999999932
-currentSum=739931012 | maxSum=999999932
-currentSum=739070567 | maxSum=999999932
-currentSum=738211417 | maxSum=999999932
-currentSum=737353187 | maxSum=999999932
-currentSum=736496341 | maxSum=999999932
-currentSum=735640037 | maxSum=999999932
-currentSum=734784324 | maxSum=999999932
-currentSum=733929677 | maxSum=999999932
-currentSum=733075829 | maxSum=999999932
-currentSum=732222693 | maxSum=999999932
-currentSum=731370095 | maxSum=999999932
-currentSum=730519221 | maxSum=999999932
-currentSum=729668626 | maxSum=999999932
-currentSum=728818420 | maxSum=999999932
-currentSum=727968237 | maxSum=999999932
-currentSum=727119437 | maxSum=999999932
-currentSum=726271928 | maxSum=999999932
-currentSum=725424605 | maxSum=999999932
-currentSum=724577833 | maxSum=999999932
-currentSum=723731447 | maxSum=999999932
-currentSum=722885091 | maxSum=999999932
-currentSum=722039076 | maxSum=999999932
-currentSum=721193283 | maxSum=999999932
-currentSum=720347545 | maxSum=999999932
-currentSum=719501830 | maxSum=999999932
-currentSum=718656817 | maxSum=999999932
-currentSum=717812109 | maxSum=999999932
-currentSum=716967907 | maxSum=999999932
-currentSum=716124138 | maxSum=999999932
-currentSum=715280416 | maxSum=999999932
-currentSum=714437067 | maxSum=999999932
-currentSum=713593846 | maxSum=999999932
-currentSum=712750839 | maxSum=999999932
-currentSum=711909584 | maxSum=999999932
-currentSum=711068647 | maxSum=999999932
-currentSum=710228250 | maxSum=999999932
-currentSum=709388717 | maxSum=999999932
-currentSum=708549924 | maxSum=999999932
-currentSum=707711151 | maxSum=999999932
-currentSum=706872959 | maxSum=999999932
-currentSum=706035243 | maxSum=999999932
-currentSum=705197890 | maxSum=999999932
-currentSum=704360927 | maxSum=999999932
-currentSum=703524289 | maxSum=999999932
-currentSum=702689334 | maxSum=999999932
-currentSum=701854467 | maxSum=999999932
-currentSum=701019622 | maxSum=999999932
-currentSum=700184879 | maxSum=999999932
-currentSum=699350848 | maxSum=999999932
-currentSum=698518506 | maxSum=999999932
-currentSum=697687005 | maxSum=999999932
-currentSum=696855823 | maxSum=999999932
-currentSum=696024756 | maxSum=999999932
-currentSum=695193821 | maxSum=999999932
-currentSum=694363215 | maxSum=999999932
-currentSum=693533481 | maxSum=999999932
-currentSum=692704279 | maxSum=999999932
-currentSum=691875138 | maxSum=999999932
-currentSum=691046706 | maxSum=999999932
-currentSum=690218297 | maxSum=999999932
-currentSum=689391294 | maxSum=999999932
-currentSum=688564325 | maxSum=999999932
-currentSum=687737544 | maxSum=999999932
-currentSum=686911396 | maxSum=999999932
-currentSum=686085364 | maxSum=999999932
-currentSum=685259691 | maxSum=999999932
-currentSum=684434434 | maxSum=999999932
-currentSum=683609370 | maxSum=999999932
-currentSum=682784601 | maxSum=999999932
-currentSum=681959921 | maxSum=999999932
-currentSum=681135943 | maxSum=999999932
-currentSum=680312625 | maxSum=999999932
-currentSum=679489841 | maxSum=999999932
-currentSum=678667633 | maxSum=999999932
-currentSum=677846168 | maxSum=999999932
-currentSum=677025465 | maxSum=999999932
-currentSum=676205023 | maxSum=999999932
-currentSum=675385484 | maxSum=999999932
-currentSum=674566251 | maxSum=999999932
-currentSum=673748189 | maxSum=999999932
-currentSum=672931689 | maxSum=999999932
-currentSum=672115406 | maxSum=999999932
-currentSum=671299237 | maxSum=999999932
-currentSum=670483377 | maxSum=999999932
-currentSum=669667753 | maxSum=999999932
-currentSum=668852251 | maxSum=999999932
-currentSum=668038506 | maxSum=999999932
-currentSum=667225032 | maxSum=999999932
-currentSum=666411608 | maxSum=999999932
-currentSum=665598340 | maxSum=999999932
-currentSum=664786019 | maxSum=999999932
-currentSum=663973984 | maxSum=999999932
-currentSum=663163042 | maxSum=999999932
-currentSum=662352371 | maxSum=999999932
-currentSum=661542112 | maxSum=999999932
-currentSum=660731986 | maxSum=999999932
-currentSum=659921931 | maxSum=999999932
-currentSum=659113303 | maxSum=999999932
-currentSum=658305801 | maxSum=999999932
-currentSum=657498561 | maxSum=999999932
-currentSum=656692576 | maxSum=999999932
-currentSum=655886706 | maxSum=999999932
-currentSum=655081020 | maxSum=999999932
-currentSum=654276218 | maxSum=999999932
-currentSum=653472017 | maxSum=999999932
-currentSum=652668931 | maxSum=999999932
-currentSum=651865867 | maxSum=999999932
-currentSum=651063032 | maxSum=999999932
-currentSum=650260656 | maxSum=999999932
-currentSum=649458696 | maxSum=999999932
-currentSum=648657068 | maxSum=999999932
-currentSum=647856436 | maxSum=999999932
-currentSum=647056208 | maxSum=999999932
-currentSum=646256228 | maxSum=999999932
-currentSum=645456390 | maxSum=999999932
-currentSum=644656789 | maxSum=999999932
-currentSum=643857525 | maxSum=999999932
-currentSum=643058499 | maxSum=999999932
-currentSum=642260241 | maxSum=999999932
-currentSum=641462641 | maxSum=999999932
-currentSum=640665149 | maxSum=999999932
-currentSum=639867793 | maxSum=999999932
-currentSum=639070607 | maxSum=999999932
-currentSum=638273649 | maxSum=999999932
-currentSum=637477308 | maxSum=999999932
-currentSum=636681590 | maxSum=999999932
-currentSum=635886546 | maxSum=999999932
-currentSum=635093307 | maxSum=999999932
-currentSum=634300251 | maxSum=999999932
-currentSum=633507705 | maxSum=999999932
-currentSum=632715374 | maxSum=999999932
-currentSum=631923371 | maxSum=999999932
-currentSum=631131383 | maxSum=999999932
-currentSum=630340462 | maxSum=999999932
-currentSum=629549626 | maxSum=999999932
-currentSum=628759405 | maxSum=999999932
-currentSum=627969279 | maxSum=999999932
-currentSum=627179869 | maxSum=999999932
-currentSum=626391279 | maxSum=999999932
-currentSum=625602841 | maxSum=999999932
-currentSum=624814495 | maxSum=999999932
-currentSum=624026819 | maxSum=999999932
-currentSum=623239325 | maxSum=999999932
-currentSum=622451922 | maxSum=999999932
-currentSum=621664940 | maxSum=999999932
-currentSum=620879005 | maxSum=999999932
-currentSum=620093546 | maxSum=999999932
-currentSum=619308100 | maxSum=999999932
-currentSum=618522710 | maxSum=999999932
-currentSum=617738184 | maxSum=999999932
-currentSum=616953824 | maxSum=999999932
-currentSum=616169517 | maxSum=999999932
-currentSum=615385640 | maxSum=999999932
-currentSum=614601799 | maxSum=999999932
-currentSum=613818448 | maxSum=999999932
-currentSum=613035356 | maxSum=999999932
-currentSum=612252481 | maxSum=999999932
-currentSum=611469886 | maxSum=999999932
-currentSum=610687666 | maxSum=999999932
-currentSum=609905729 | maxSum=999999932
-currentSum=609124309 | maxSum=999999932
-currentSum=608343081 | maxSum=999999932
-currentSum=607562151 | maxSum=999999932
-currentSum=606781259 | maxSum=999999932
-currentSum=606001429 | maxSum=999999932
-currentSum=605222140 | maxSum=999999932
-currentSum=604443122 | maxSum=999999932
-currentSum=603664591 | maxSum=999999932
-currentSum=602886215 | maxSum=999999932
-currentSum=602108173 | maxSum=999999932
-currentSum=601330375 | maxSum=999999932
-currentSum=600552752 | maxSum=999999932
-currentSum=599775465 | maxSum=999999932
-currentSum=598998768 | maxSum=999999932
-currentSum=598222678 | maxSum=999999932
-currentSum=597448144 | maxSum=999999932
-currentSum=596675253 | maxSum=999999932
-currentSum=595902859 | maxSum=999999932
-currentSum=595130562 | maxSum=999999932
-currentSum=594358800 | maxSum=999999932
-currentSum=593587273 | maxSum=999999932
-currentSum=592816459 | maxSum=999999932
-currentSum=592046089 | maxSum=999999932
-currentSum=591275824 | maxSum=999999932
-currentSum=590506333 | maxSum=999999932
-currentSum=589738348 | maxSum=999999932
-currentSum=588970837 | maxSum=999999932
-currentSum=588204250 | maxSum=999999932
-currentSum=587438209 | maxSum=999999932
-currentSum=586672770 | maxSum=999999932
-currentSum=585907540 | maxSum=999999932
-currentSum=585142945 | maxSum=999999932
-currentSum=584378403 | maxSum=999999932
-currentSum=583614418 | maxSum=999999932
-currentSum=582850780 | maxSum=999999932
-currentSum=582088835 | maxSum=999999932
-currentSum=581327465 | maxSum=999999932
-currentSum=580567632 | maxSum=999999932
-currentSum=579808185 | maxSum=999999932
-currentSum=579048775 | maxSum=999999932
-currentSum=578290234 | maxSum=999999932
-currentSum=577532646 | maxSum=999999932
-currentSum=576775427 | maxSum=999999932
-currentSum=576019055 | maxSum=999999932
-currentSum=575263056 | maxSum=999999932
-currentSum=574507274 | maxSum=999999932
-currentSum=573752170 | maxSum=999999932
-currentSum=572997402 | maxSum=999999932
-currentSum=572242712 | maxSum=999999932
-currentSum=571488284 | maxSum=999999932
-currentSum=570734020 | maxSum=999999932
-currentSum=569980340 | maxSum=999999932
-currentSum=569226984 | maxSum=999999932
-currentSum=568473681 | maxSum=999999932
-currentSum=567720390 | maxSum=999999932
-currentSum=566967552 | maxSum=999999932
-currentSum=566215031 | maxSum=999999932
-currentSum=565463567 | maxSum=999999932
-currentSum=564712535 | maxSum=999999932
-currentSum=563961684 | maxSum=999999932
-currentSum=563211886 | maxSum=999999932
-currentSum=562463629 | maxSum=999999932
-currentSum=561715997 | maxSum=999999932
-currentSum=560969526 | maxSum=999999932
-currentSum=560225214 | maxSum=999999932
-currentSum=559481948 | maxSum=999999932
-currentSum=558739486 | maxSum=999999932
-currentSum=557997210 | maxSum=999999932
-currentSum=557255493 | maxSum=999999932
-currentSum=556514146 | maxSum=999999932
-currentSum=555773361 | maxSum=999999932
-currentSum=555033365 | maxSum=999999932
-currentSum=554293637 | maxSum=999999932
-currentSum=553554101 | maxSum=999999932
-currentSum=552815253 | maxSum=999999932
-currentSum=552077119 | maxSum=999999932
-currentSum=551339353 | maxSum=999999932
-currentSum=550602167 | maxSum=999999932
-currentSum=549865120 | maxSum=999999932
-currentSum=549129158 | maxSum=999999932
-currentSum=548393715 | maxSum=999999932
-currentSum=547658321 | maxSum=999999932
-currentSum=546923026 | maxSum=999999932
-currentSum=546187843 | maxSum=999999932
-currentSum=545454069 | maxSum=999999932
-currentSum=544720576 | maxSum=999999932
-currentSum=543987278 | maxSum=999999932
-currentSum=543255059 | maxSum=999999932
-currentSum=542522956 | maxSum=999999932
-currentSum=541791525 | maxSum=999999932
-currentSum=541060179 | maxSum=999999932
-currentSum=540329052 | maxSum=999999932
-currentSum=539597942 | maxSum=999999932
-currentSum=538867462 | maxSum=999999932
-currentSum=538137095 | maxSum=999999932
-currentSum=537406864 | maxSum=999999932
-currentSum=536677097 | maxSum=999999932
-currentSum=535947738 | maxSum=999999932
-currentSum=535219975 | maxSum=999999932
-currentSum=534492265 | maxSum=999999932
-currentSum=533764845 | maxSum=999999932
-currentSum=533038441 | maxSum=999999932
-currentSum=532312999 | maxSum=999999932
-currentSum=531588362 | maxSum=999999932
-currentSum=530864150 | maxSum=999999932
-currentSum=530139943 | maxSum=999999932
-currentSum=529416046 | maxSum=999999932
-currentSum=528692184 | maxSum=999999932
-currentSum=527968445 | maxSum=999999932
-currentSum=527245016 | maxSum=999999932
-currentSum=526522107 | maxSum=999999932
-currentSum=525799925 | maxSum=999999932
-currentSum=525078284 | maxSum=999999932
-currentSum=524357209 | maxSum=999999932
-currentSum=523636266 | maxSum=999999932
-currentSum=522915440 | maxSum=999999932
-currentSum=522195168 | maxSum=999999932
-currentSum=521475321 | maxSum=999999932
-currentSum=520756158 | maxSum=999999932
-currentSum=520037120 | maxSum=999999932
-currentSum=519319199 | maxSum=999999932
-currentSum=518601504 | maxSum=999999932
-currentSum=517883956 | maxSum=999999932
-currentSum=517167154 | maxSum=999999932
-currentSum=516450785 | maxSum=999999932
-currentSum=515735536 | maxSum=999999932
-currentSum=515020566 | maxSum=999999932
-currentSum=514305690 | maxSum=999999932
-currentSum=513591711 | maxSum=999999932
-currentSum=512878124 | maxSum=999999932
-currentSum=512164745 | maxSum=999999932
-currentSum=511452168 | maxSum=999999932
-currentSum=510739986 | maxSum=999999932
-currentSum=510029248 | maxSum=999999932
-currentSum=509318671 | maxSum=999999932
-currentSum=508608370 | maxSum=999999932
-currentSum=507898100 | maxSum=999999932
-currentSum=507188479 | maxSum=999999932
-currentSum=506479252 | maxSum=999999932
-currentSum=505770755 | maxSum=999999932
-currentSum=505062693 | maxSum=999999932
-currentSum=504355025 | maxSum=999999932
-currentSum=503647808 | maxSum=999999932
-currentSum=502940642 | maxSum=999999932
-currentSum=502233538 | maxSum=999999932
-currentSum=501527414 | maxSum=999999932
-currentSum=500821852 | maxSum=999999932
-currentSum=500116324 | maxSum=999999932
-currentSum=499411273 | maxSum=999999932
-currentSum=498706284 | maxSum=999999932
-currentSum=498001915 | maxSum=999999932
-currentSum=497297550 | maxSum=999999932
-currentSum=496594295 | maxSum=999999932
-currentSum=495891189 | maxSum=999999932
-currentSum=495188409 | maxSum=999999932
-currentSum=494485673 | maxSum=999999932
-currentSum=493783174 | maxSum=999999932
-currentSum=493080865 | maxSum=999999932
-currentSum=492378836 | maxSum=999999932
-currentSum=491677311 | maxSum=999999932
-currentSum=490975896 | maxSum=999999932
-currentSum=490275199 | maxSum=999999932
-currentSum=489574843 | maxSum=999999932
-currentSum=488874787 | maxSum=999999932
-currentSum=488175406 | maxSum=999999932
-currentSum=487476068 | maxSum=999999932
-currentSum=486776784 | maxSum=999999932
-currentSum=486079504 | maxSum=999999932
-currentSum=485382950 | maxSum=999999932
-currentSum=484686687 | maxSum=999999932
-currentSum=483990535 | maxSum=999999932
-currentSum=483294556 | maxSum=999999932
-currentSum=482598892 | maxSum=999999932
-currentSum=481903229 | maxSum=999999932
-currentSum=481207973 | maxSum=999999932
-currentSum=480512959 | maxSum=999999932
-currentSum=479818139 | maxSum=999999932
-currentSum=479124066 | maxSum=999999932
-currentSum=478430360 | maxSum=999999932
-currentSum=477736925 | maxSum=999999932
-currentSum=477043574 | maxSum=999999932
-currentSum=476350354 | maxSum=999999932
-currentSum=475657794 | maxSum=999999932
-currentSum=474965649 | maxSum=999999932
-currentSum=474273600 | maxSum=999999932
-currentSum=473581751 | maxSum=999999932
-currentSum=472890499 | maxSum=999999932
-currentSum=472199455 | maxSum=999999932
-currentSum=471508549 | maxSum=999999932
-currentSum=470818295 | maxSum=999999932
-currentSum=470128638 | maxSum=999999932
-currentSum=469439282 | maxSum=999999932
-currentSum=468751305 | maxSum=999999932
-currentSum=468063977 | maxSum=999999932
-currentSum=467377191 | maxSum=999999932
-currentSum=466690553 | maxSum=999999932
-currentSum=466003994 | maxSum=999999932
-currentSum=465318200 | maxSum=999999932
-currentSum=464632952 | maxSum=999999932
-currentSum=463949078 | maxSum=999999932
-currentSum=463265336 | maxSum=999999932
-currentSum=462581871 | maxSum=999999932
-currentSum=461898663 | maxSum=999999932
-currentSum=461216558 | maxSum=999999932
-currentSum=460534782 | maxSum=999999932
-currentSum=459853278 | maxSum=999999932
-currentSum=459171781 | maxSum=999999932
-currentSum=458490327 | maxSum=999999932
-currentSum=457809500 | maxSum=999999932
-currentSum=457129935 | maxSum=999999932
-currentSum=456450712 | maxSum=999999932
-currentSum=455771549 | maxSum=999999932
-currentSum=455092404 | maxSum=999999932
-currentSum=454413355 | maxSum=999999932
-currentSum=453735567 | maxSum=999999932
-currentSum=453057948 | maxSum=999999932
-currentSum=452380619 | maxSum=999999932
-currentSum=451703712 | maxSum=999999932
-currentSum=451027512 | maxSum=999999932
-currentSum=450353382 | maxSum=999999932
-currentSum=449679360 | maxSum=999999932
-currentSum=449006434 | maxSum=999999932
-currentSum=448333741 | maxSum=999999932
-currentSum=447661593 | maxSum=999999932
-currentSum=446990454 | maxSum=999999932
-currentSum=446319847 | maxSum=999999932
-currentSum=445649309 | maxSum=999999932
-currentSum=444979271 | maxSum=999999932
-currentSum=444309245 | maxSum=999999932
-currentSum=443639627 | maxSum=999999932
-currentSum=442970685 | maxSum=999999932
-currentSum=442301780 | maxSum=999999932
-currentSum=441633093 | maxSum=999999932
-currentSum=440964981 | maxSum=999999932
-currentSum=440297388 | maxSum=999999932
-currentSum=439630774 | maxSum=999999932
-currentSum=438964264 | maxSum=999999932
-currentSum=438297944 | maxSum=999999932
-currentSum=437632071 | maxSum=999999932
-currentSum=436966400 | maxSum=999999932
-currentSum=436301254 | maxSum=999999932
-currentSum=435636157 | maxSum=999999932
-currentSum=434971574 | maxSum=999999932
-currentSum=434307837 | maxSum=999999932
-currentSum=433645966 | maxSum=999999932
-currentSum=432984156 | maxSum=999999932
-currentSum=432323479 | maxSum=999999932
-currentSum=431663072 | maxSum=999999932
-currentSum=431003000 | maxSum=999999932
-currentSum=430343773 | maxSum=999999932
-currentSum=429684957 | maxSum=999999932
-currentSum=429026969 | maxSum=999999932
-currentSum=428368994 | maxSum=999999932
-currentSum=427711232 | maxSum=999999932
-currentSum=427053935 | maxSum=999999932
-currentSum=426396691 | maxSum=999999932
-currentSum=425740740 | maxSum=999999932
-currentSum=425084901 | maxSum=999999932
-currentSum=424429176 | maxSum=999999932
-currentSum=423773705 | maxSum=999999932
-currentSum=423120120 | maxSum=999999932
-currentSum=422466644 | maxSum=999999932
-currentSum=421813715 | maxSum=999999932
-currentSum=421161181 | maxSum=999999932
-currentSum=420509613 | maxSum=999999932
-currentSum=419858230 | maxSum=999999932
-currentSum=419206985 | maxSum=999999932
-currentSum=418555883 | maxSum=999999932
-currentSum=417905022 | maxSum=999999932
-currentSum=417255158 | maxSum=999999932
-currentSum=416605466 | maxSum=999999932
-currentSum=415955947 | maxSum=999999932
-currentSum=415306554 | maxSum=999999932
-currentSum=414657939 | maxSum=999999932
-currentSum=414009430 | maxSum=999999932
-currentSum=413361926 | maxSum=999999932
-currentSum=412716045 | maxSum=999999932
-currentSum=412070436 | maxSum=999999932
-currentSum=411424971 | maxSum=999999932
-currentSum=410782508 | maxSum=999999932
-currentSum=410141067 | maxSum=999999932
-currentSum=409500049 | maxSum=999999932
-currentSum=408860019 | maxSum=999999932
-currentSum=408220251 | maxSum=999999932
-currentSum=407580956 | maxSum=999999932
-currentSum=406941807 | maxSum=999999932
-currentSum=406303036 | maxSum=999999932
-currentSum=405664434 | maxSum=999999932
-currentSum=405025935 | maxSum=999999932
-currentSum=404389139 | maxSum=999999932
-currentSum=403752535 | maxSum=999999932
-currentSum=403116354 | maxSum=999999932
-currentSum=402480244 | maxSum=999999932
-currentSum=401844330 | maxSum=999999932
-currentSum=401208509 | maxSum=999999932
-currentSum=400572802 | maxSum=999999932
-currentSum=399937427 | maxSum=999999932
-currentSum=399303166 | maxSum=999999932
-currentSum=398670063 | maxSum=999999932
-currentSum=398036973 | maxSum=999999932
-currentSum=397404366 | maxSum=999999932
-currentSum=396773053 | maxSum=999999932
-currentSum=396143425 | maxSum=999999932
-currentSum=395514882 | maxSum=999999932
-currentSum=394886793 | maxSum=999999932
-currentSum=394259656 | maxSum=999999932
-currentSum=393633453 | maxSum=999999932
-currentSum=393007622 | maxSum=999999932
-currentSum=392382021 | maxSum=999999932
-currentSum=391756590 | maxSum=999999932
-currentSum=391131426 | maxSum=999999932
-currentSum=390506291 | maxSum=999999932
-currentSum=389881308 | maxSum=999999932
-currentSum=389256423 | maxSum=999999932
-currentSum=388631995 | maxSum=999999932
-currentSum=388007996 | maxSum=999999932
-currentSum=387384006 | maxSum=999999932
-currentSum=386760557 | maxSum=999999932
-currentSum=386137850 | maxSum=999999932
-currentSum=385515296 | maxSum=999999932
-currentSum=384893991 | maxSum=999999932
-currentSum=384273081 | maxSum=999999932
-currentSum=383652386 | maxSum=999999932
-currentSum=383033159 | maxSum=999999932
-currentSum=382414259 | maxSum=999999932
-currentSum=381795769 | maxSum=999999932
-currentSum=381177492 | maxSum=999999932
-currentSum=380559552 | maxSum=999999932
-currentSum=379942044 | maxSum=999999932
-currentSum=379324880 | maxSum=999999932
-currentSum=378707805 | maxSum=999999932
-currentSum=378090868 | maxSum=999999932
-currentSum=377474704 | maxSum=999999932
-currentSum=376858783 | maxSum=999999932
-currentSum=376243089 | maxSum=999999932
-currentSum=375627590 | maxSum=999999932
-currentSum=375012672 | maxSum=999999932
-currentSum=374398859 | maxSum=999999932
-currentSum=373785826 | maxSum=999999932
-currentSum=373172820 | maxSum=999999932
-currentSum=372560215 | maxSum=999999932
-currentSum=371947713 | maxSum=999999932
-currentSum=371335638 | maxSum=999999932
-currentSum=370723709 | maxSum=999999932
-currentSum=370112174 | maxSum=999999932
-currentSum=369501318 | maxSum=999999932
-currentSum=368891462 | maxSum=999999932
-currentSum=368282619 | maxSum=999999932
-currentSum=367674410 | maxSum=999999932
-currentSum=367066266 | maxSum=999999932
-currentSum=366458488 | maxSum=999999932
-currentSum=365851123 | maxSum=999999932
-currentSum=365244032 | maxSum=999999932
-currentSum=364637187 | maxSum=999999932
-currentSum=364031739 | maxSum=999999932
-currentSum=363426638 | maxSum=999999932
-currentSum=362821991 | maxSum=999999932
-currentSum=362217702 | maxSum=999999932
-currentSum=361613450 | maxSum=999999932
-currentSum=361009633 | maxSum=999999932
-currentSum=360405927 | maxSum=999999932
-currentSum=359802242 | maxSum=999999932
-currentSum=359199052 | maxSum=999999932
-currentSum=358596268 | maxSum=999999932
-currentSum=357994268 | maxSum=999999932
-currentSum=357394513 | maxSum=999999932
-currentSum=356794889 | maxSum=999999932
-currentSum=356196056 | maxSum=999999932
-currentSum=355598475 | maxSum=999999932
-currentSum=355001077 | maxSum=999999932
-currentSum=354404170 | maxSum=999999932
-currentSum=353807369 | maxSum=999999932
-currentSum=353211067 | maxSum=999999932
-currentSum=352616100 | maxSum=999999932
-currentSum=352021318 | maxSum=999999932
-currentSum=351427844 | maxSum=999999932
-currentSum=350834374 | maxSum=999999932
-currentSum=350240905 | maxSum=999999932
-currentSum=349648171 | maxSum=999999932
-currentSum=349056118 | maxSum=999999932
-currentSum=348464260 | maxSum=999999932
-currentSum=347872845 | maxSum=999999932
-currentSum=347282453 | maxSum=999999932
-currentSum=346692222 | maxSum=999999932
-currentSum=346103493 | maxSum=999999932
-currentSum=345514805 | maxSum=999999932
-currentSum=344926246 | maxSum=999999932
-currentSum=344338042 | maxSum=999999932
-currentSum=343750911 | maxSum=999999932
-currentSum=343164785 | maxSum=999999932
-currentSum=342579553 | maxSum=999999932
-currentSum=341995020 | maxSum=999999932
-currentSum=341410585 | maxSum=999999932
-currentSum=340826530 | maxSum=999999932
-currentSum=340243690 | maxSum=999999932
-currentSum=339660874 | maxSum=999999932
-currentSum=339078679 | maxSum=999999932
-currentSum=338497086 | maxSum=999999932
-currentSum=337915692 | maxSum=999999932
-currentSum=337334513 | maxSum=999999932
-currentSum=336753634 | maxSum=999999932
-currentSum=336173225 | maxSum=999999932
-currentSum=335592936 | maxSum=999999932
-currentSum=335012786 | maxSum=999999932
-currentSum=334432638 | maxSum=999999932
-currentSum=333853223 | maxSum=999999932
-currentSum=333274095 | maxSum=999999932
-currentSum=332695188 | maxSum=999999932
-currentSum=332116332 | maxSum=999999932
-currentSum=331537554 | maxSum=999999932
-currentSum=330959025 | maxSum=999999932
-currentSum=330380931 | maxSum=999999932
-currentSum=329803284 | maxSum=999999932
-currentSum=329226109 | maxSum=999999932
-currentSum=328649001 | maxSum=999999932
-currentSum=328072132 | maxSum=999999932
-currentSum=327495571 | maxSum=999999932
-currentSum=326919622 | maxSum=999999932
-currentSum=326345018 | maxSum=999999932
-currentSum=325770482 | maxSum=999999932
-currentSum=325197282 | maxSum=999999932
-currentSum=324624570 | maxSum=999999932
-currentSum=324052427 | maxSum=999999932
-currentSum=323480518 | maxSum=999999932
-currentSum=322909055 | maxSum=999999932
-currentSum=322337989 | maxSum=999999932
-currentSum=321767025 | maxSum=999999932
-currentSum=321197147 | maxSum=999999932
-currentSum=320627491 | maxSum=999999932
-currentSum=320058471 | maxSum=999999932
-currentSum=319489470 | maxSum=999999932
-currentSum=318920887 | maxSum=999999932
-currentSum=318353540 | maxSum=999999932
-currentSum=317786642 | maxSum=999999932
-currentSum=317220135 | maxSum=999999932
-currentSum=316653652 | maxSum=999999932
-currentSum=316087211 | maxSum=999999932
-currentSum=315520949 | maxSum=999999932
-currentSum=314955277 | maxSum=999999932
-currentSum=314389616 | maxSum=999999932
-currentSum=313823986 | maxSum=999999932
-currentSum=313258443 | maxSum=999999932
-currentSum=312692965 | maxSum=999999932
-currentSum=312127756 | maxSum=999999932
-currentSum=311562963 | maxSum=999999932
-currentSum=310998305 | maxSum=999999932
-currentSum=310433889 | maxSum=999999932
-currentSum=309869523 | maxSum=999999932
-currentSum=309305722 | maxSum=999999932
-currentSum=308742013 | maxSum=999999932
-currentSum=308178908 | maxSum=999999932
-currentSum=307616221 | maxSum=999999932
-currentSum=307053834 | maxSum=999999932
-currentSum=306491508 | maxSum=999999932
-currentSum=305929195 | maxSum=999999932
-currentSum=305367250 | maxSum=999999932
-currentSum=304807113 | maxSum=999999932
-currentSum=304246981 | maxSum=999999932
-currentSum=303686861 | maxSum=999999932
-currentSum=303127267 | maxSum=999999932
-currentSum=302568593 | maxSum=999999932
-currentSum=302009960 | maxSum=999999932
-currentSum=301452941 | maxSum=999999932
-currentSum=300895958 | maxSum=999999932
-currentSum=300338981 | maxSum=999999932
-currentSum=299782219 | maxSum=999999932
-currentSum=299225529 | maxSum=999999932
-currentSum=298669362 | maxSum=999999932
-currentSum=298114495 | maxSum=999999932
-currentSum=297559810 | maxSum=999999932
-currentSum=297006453 | maxSum=999999932
-currentSum=296454762 | maxSum=999999932
-currentSum=295903212 | maxSum=999999932
-currentSum=295353040 | maxSum=999999932
-currentSum=294804812 | maxSum=999999932
-currentSum=294256804 | maxSum=999999932
-currentSum=293709662 | maxSum=999999932
-currentSum=293162989 | maxSum=999999932
-currentSum=292617763 | maxSum=999999932
-currentSum=292073539 | maxSum=999999932
-currentSum=291529865 | maxSum=999999932
-currentSum=290986696 | maxSum=999999932
-currentSum=290443928 | maxSum=999999932
-currentSum=289902155 | maxSum=999999932
-currentSum=289361614 | maxSum=999999932
-currentSum=288821970 | maxSum=999999932
-currentSum=288282788 | maxSum=999999932
-currentSum=287744568 | maxSum=999999932
-currentSum=287208252 | maxSum=999999932
-currentSum=286672197 | maxSum=999999932
-currentSum=286137869 | maxSum=999999932
-currentSum=285603668 | maxSum=999999932
-currentSum=285070027 | maxSum=999999932
-currentSum=284537047 | maxSum=999999932
-currentSum=284004500 | maxSum=999999932
-currentSum=283472048 | maxSum=999999932
-currentSum=282939655 | maxSum=999999932
-currentSum=282407281 | maxSum=999999932
-currentSum=281875474 | maxSum=999999932
-currentSum=281344885 | maxSum=999999932
-currentSum=280814376 | maxSum=999999932
-currentSum=280284366 | maxSum=999999932
-currentSum=279754412 | maxSum=999999932
-currentSum=279225063 | maxSum=999999932
-currentSum=278696699 | maxSum=999999932
-currentSum=278169372 | maxSum=999999932
-currentSum=277642631 | maxSum=999999932
-currentSum=277116411 | maxSum=999999932
-currentSum=276591458 | maxSum=999999932
-currentSum=276066624 | maxSum=999999932
-currentSum=275543092 | maxSum=999999932
-currentSum=275020334 | maxSum=999999932
-currentSum=274497699 | maxSum=999999932
-currentSum=273975807 | maxSum=999999932
-currentSum=273454900 | maxSum=999999932
-currentSum=272935313 | maxSum=999999932
-currentSum=272415873 | maxSum=999999932
-currentSum=271897430 | maxSum=999999932
-currentSum=271379062 | maxSum=999999932
-currentSum=270861230 | maxSum=999999932
-currentSum=270343691 | maxSum=999999932
-currentSum=269827086 | maxSum=999999932
-currentSum=269311402 | maxSum=999999932
-currentSum=268795740 | maxSum=999999932
-currentSum=268280966 | maxSum=999999932
-currentSum=267766252 | maxSum=999999932
-currentSum=267252188 | maxSum=999999932
-currentSum=266738712 | maxSum=999999932
-currentSum=266225544 | maxSum=999999932
-currentSum=265713153 | maxSum=999999932
-currentSum=265200791 | maxSum=999999932
-currentSum=264688478 | maxSum=999999932
-currentSum=264176482 | maxSum=999999932
-currentSum=263664781 | maxSum=999999932
-currentSum=263153497 | maxSum=999999932
-currentSum=262643135 | maxSum=999999932
-currentSum=262133487 | maxSum=999999932
-currentSum=261624204 | maxSum=999999932
-currentSum=261114922 | maxSum=999999932
-currentSum=260605878 | maxSum=999999932
-currentSum=260097570 | maxSum=999999932
-currentSum=259589383 | maxSum=999999932
-currentSum=259081464 | maxSum=999999932
-currentSum=258573694 | maxSum=999999932
-currentSum=258066660 | maxSum=999999932
-currentSum=257559929 | maxSum=999999932
-currentSum=257053941 | maxSum=999999932
-currentSum=256548636 | maxSum=999999932
-currentSum=256043845 | maxSum=999999932
-currentSum=255541826 | maxSum=999999932
-currentSum=255040840 | maxSum=999999932
-currentSum=254540640 | maxSum=999999932
-currentSum=254040641 | maxSum=999999932
-currentSum=253541210 | maxSum=999999932
-currentSum=253041940 | maxSum=999999932
-currentSum=252543520 | maxSum=999999932
-currentSum=252045253 | maxSum=999999932
-currentSum=251547470 | maxSum=999999932
-currentSum=251050855 | maxSum=999999932
-currentSum=250554555 | maxSum=999999932
-currentSum=250058333 | maxSum=999999932
-currentSum=249562331 | maxSum=999999932
-currentSum=249066332 | maxSum=999999932
-currentSum=248570650 | maxSum=999999932
-currentSum=248075441 | maxSum=999999932
-currentSum=247581011 | maxSum=999999932
-currentSum=247087406 | maxSum=999999932
-currentSum=246594000 | maxSum=999999932
-currentSum=246100797 | maxSum=999999932
-currentSum=245607905 | maxSum=999999932
-currentSum=245115116 | maxSum=999999932
-currentSum=244622769 | maxSum=999999932
-currentSum=244130520 | maxSum=999999932
-currentSum=243639004 | maxSum=999999932
-currentSum=243147872 | maxSum=999999932
-currentSum=242657036 | maxSum=999999932
-currentSum=242166891 | maxSum=999999932
-currentSum=241677130 | maxSum=999999932
-currentSum=241188522 | maxSum=999999932
-currentSum=240700618 | maxSum=999999932
-currentSum=240212944 | maxSum=999999932
-currentSum=239725318 | maxSum=999999932
-currentSum=239237812 | maxSum=999999932
-currentSum=238750479 | maxSum=999999932
-currentSum=238263215 | maxSum=999999932
-currentSum=237776049 | maxSum=999999932
-currentSum=237289179 | maxSum=999999932
-currentSum=236804028 | maxSum=999999932
-currentSum=236319263 | maxSum=999999932
-currentSum=235834795 | maxSum=999999932
-currentSum=235350619 | maxSum=999999932
-currentSum=234866705 | maxSum=999999932
-currentSum=234383104 | maxSum=999999932
-currentSum=233900391 | maxSum=999999932
-currentSum=233418269 | maxSum=999999932
-currentSum=232936324 | maxSum=999999932
-currentSum=232454532 | maxSum=999999932
-currentSum=231973340 | maxSum=999999932
-currentSum=231492742 | maxSum=999999932
-currentSum=231013257 | maxSum=999999932
-currentSum=230534083 | maxSum=999999932
-currentSum=230055005 | maxSum=999999932
-currentSum=229575979 | maxSum=999999932
-currentSum=229097294 | maxSum=999999932
-currentSum=228619705 | maxSum=999999932
-currentSum=228142191 | maxSum=999999932
-currentSum=227665030 | maxSum=999999932
-currentSum=227188060 | maxSum=999999932
-currentSum=226711132 | maxSum=999999932
-currentSum=226234276 | maxSum=999999932
-currentSum=225757439 | maxSum=999999932
-currentSum=225281302 | maxSum=999999932
-currentSum=224805465 | maxSum=999999932
-currentSum=224329651 | maxSum=999999932
-currentSum=223853921 | maxSum=999999932
-currentSum=223378435 | maxSum=999999932
-currentSum=222904422 | maxSum=999999932
-currentSum=222430954 | maxSum=999999932
-currentSum=221958203 | maxSum=999999932
-currentSum=221485754 | maxSum=999999932
-currentSum=221013316 | maxSum=999999932
-currentSum=220541333 | maxSum=999999932
-currentSum=220070253 | maxSum=999999932
-currentSum=219599797 | maxSum=999999932
-currentSum=219129696 | maxSum=999999932
-currentSum=218659700 | maxSum=999999932
-currentSum=218191411 | maxSum=999999932
-currentSum=217723786 | maxSum=999999932
-currentSum=217257438 | maxSum=999999932
-currentSum=216792157 | maxSum=999999932
-currentSum=216327186 | maxSum=999999932
-currentSum=215862479 | maxSum=999999932
-currentSum=215398202 | maxSum=999999932
-currentSum=214934080 | maxSum=999999932
-currentSum=214470318 | maxSum=999999932
-currentSum=214006629 | maxSum=999999932
-currentSum=213543065 | maxSum=999999932
-currentSum=213079716 | maxSum=999999932
-currentSum=212616419 | maxSum=999999932
-currentSum=212153181 | maxSum=999999932
-currentSum=211690894 | maxSum=999999932
-currentSum=211228978 | maxSum=999999932
-currentSum=210767233 | maxSum=999999932
-currentSum=210305943 | maxSum=999999932
-currentSum=209845407 | maxSum=999999932
-currentSum=209385887 | maxSum=999999932
-currentSum=208926438 | maxSum=999999932
-currentSum=208467006 | maxSum=999999932
-currentSum=208007932 | maxSum=999999932
-currentSum=207550289 | maxSum=999999932
-currentSum=207092999 | maxSum=999999932
-currentSum=206635890 | maxSum=999999932
-currentSum=206178832 | maxSum=999999932
-currentSum=205722049 | maxSum=999999932
-currentSum=205265357 | maxSum=999999932
-currentSum=204809422 | maxSum=999999932
-currentSum=204353698 | maxSum=999999932
-currentSum=203898595 | maxSum=999999932
-currentSum=203443962 | maxSum=999999932
-currentSum=202990897 | maxSum=999999932
-currentSum=202538598 | maxSum=999999932
-currentSum=202086558 | maxSum=999999932
-currentSum=201634900 | maxSum=999999932
-currentSum=201184079 | maxSum=999999932
-currentSum=200733364 | maxSum=999999932
-currentSum=200283653 | maxSum=999999932
-currentSum=199834169 | maxSum=999999932
-currentSum=199384873 | maxSum=999999932
-currentSum=198935636 | maxSum=999999932
-currentSum=198487123 | maxSum=999999932
-currentSum=198039602 | maxSum=999999932
-currentSum=197593378 | maxSum=999999932
-currentSum=197147529 | maxSum=999999932
-currentSum=196701688 | maxSum=999999932
-currentSum=196256717 | maxSum=999999932
-currentSum=195812512 | maxSum=999999932
-currentSum=195368310 | maxSum=999999932
-currentSum=194924567 | maxSum=999999932
-currentSum=194480961 | maxSum=999999932
-currentSum=194037767 | maxSum=999999932
-currentSum=193595050 | maxSum=999999932
-currentSum=193152582 | maxSum=999999932
-currentSum=192710157 | maxSum=999999932
-currentSum=192268064 | maxSum=999999932
-currentSum=191826604 | maxSum=999999932
-currentSum=191385684 | maxSum=999999932
-currentSum=190945081 | maxSum=999999932
-currentSum=190504567 | maxSum=999999932
-currentSum=190064618 | maxSum=999999932
-currentSum=189624978 | maxSum=999999932
-currentSum=189185441 | maxSum=999999932
-currentSum=188746015 | maxSum=999999932
-currentSum=188309574 | maxSum=999999932
-currentSum=187873553 | maxSum=999999932
-currentSum=187437816 | maxSum=999999932
-currentSum=187002092 | maxSum=999999932
-currentSum=186566943 | maxSum=999999932
-currentSum=186131855 | maxSum=999999932
-currentSum=185696784 | maxSum=999999932
-currentSum=185262161 | maxSum=999999932
-currentSum=184828789 | maxSum=999999932
-currentSum=184396416 | maxSum=999999932
-currentSum=183964298 | maxSum=999999932
-currentSum=183532535 | maxSum=999999932
-currentSum=183100843 | maxSum=999999932
-currentSum=182669721 | maxSum=999999932
-currentSum=182238942 | maxSum=999999932
-currentSum=181808998 | maxSum=999999932
-currentSum=181380586 | maxSum=999999932
-currentSum=180952304 | maxSum=999999932
-currentSum=180524069 | maxSum=999999932
-currentSum=180095889 | maxSum=999999932
-currentSum=179667898 | maxSum=999999932
-currentSum=179240038 | maxSum=999999932
-currentSum=178812589 | maxSum=999999932
-currentSum=178385705 | maxSum=999999932
-currentSum=177959484 | maxSum=999999932
-currentSum=177533277 | maxSum=999999932
-currentSum=177107109 | maxSum=999999932
-currentSum=176681258 | maxSum=999999932
-currentSum=176257162 | maxSum=999999932
-currentSum=175833155 | maxSum=999999932
-currentSum=175409296 | maxSum=999999932
-currentSum=174985856 | maxSum=999999932
-currentSum=174563626 | maxSum=999999932
-currentSum=174141515 | maxSum=999999932
-currentSum=173719517 | maxSum=999999932
-currentSum=173298815 | maxSum=999999932
-currentSum=172878243 | maxSum=999999932
-currentSum=172458020 | maxSum=999999932
-currentSum=172038065 | maxSum=999999932
-currentSum=171618921 | maxSum=999999932
-currentSum=171199804 | maxSum=999999932
-currentSum=170780952 | maxSum=999999932
-currentSum=170362528 | maxSum=999999932
-currentSum=169944656 | maxSum=999999932
-currentSum=169527126 | maxSum=999999932
-currentSum=169110284 | maxSum=999999932
-currentSum=168693517 | maxSum=999999932
-currentSum=168277544 | maxSum=999999932
-currentSum=167862461 | maxSum=999999932
-currentSum=167447399 | maxSum=999999932
-currentSum=167032498 | maxSum=999999932
-currentSum=166618706 | maxSum=999999932
-currentSum=166205495 | maxSum=999999932
-currentSum=165796058 | maxSum=999999932
-currentSum=165387077 | maxSum=999999932
-currentSum=164978630 | maxSum=999999932
-currentSum=164570833 | maxSum=999999932
-currentSum=164163258 | maxSum=999999932
-currentSum=163758375 | maxSum=999999932
-currentSum=163354418 | maxSum=999999932
-currentSum=162950910 | maxSum=999999932
-currentSum=162547479 | maxSum=999999932
-currentSum=162144798 | maxSum=999999932
-currentSum=161742528 | maxSum=999999932
-currentSum=161340836 | maxSum=999999932
-currentSum=160939211 | maxSum=999999932
-currentSum=160538034 | maxSum=999999932
-currentSum=160136859 | maxSum=999999932
-currentSum=159736652 | maxSum=999999932
-currentSum=159336712 | maxSum=999999932
-currentSum=158936912 | maxSum=999999932
-currentSum=158537327 | maxSum=999999932
-currentSum=158138418 | maxSum=999999932
-currentSum=157739512 | maxSum=999999932
-currentSum=157340870 | maxSum=999999932
-currentSum=156942351 | maxSum=999999932
-currentSum=156543918 | maxSum=999999932
-currentSum=156145980 | maxSum=999999932
-currentSum=155748367 | maxSum=999999932
-currentSum=155350774 | maxSum=999999932
-currentSum=154953204 | maxSum=999999932
-currentSum=154555754 | maxSum=999999932
-currentSum=154158321 | maxSum=999999932
-currentSum=153761348 | maxSum=999999932
-currentSum=153365764 | maxSum=999999932
-currentSum=152972176 | maxSum=999999932
-currentSum=152579076 | maxSum=999999932
-currentSum=152186948 | maxSum=999999932
-currentSum=151795338 | maxSum=999999932
-currentSum=151405769 | maxSum=999999932
-currentSum=151016685 | maxSum=999999932
-currentSum=150628063 | maxSum=999999932
-currentSum=150239484 | maxSum=999999932
-currentSum=149851271 | maxSum=999999932
-currentSum=149463743 | maxSum=999999932
-currentSum=149076541 | maxSum=999999932
-currentSum=148689545 | maxSum=999999932
-currentSum=148302680 | maxSum=999999932
-currentSum=147916139 | maxSum=999999932
-currentSum=147530910 | maxSum=999999932
-currentSum=147147230 | maxSum=999999932
-currentSum=146763637 | maxSum=999999932
-currentSum=146381002 | maxSum=999999932
-currentSum=145998397 | maxSum=999999932
-currentSum=145615982 | maxSum=999999932
-currentSum=145234018 | maxSum=999999932
-currentSum=144853355 | maxSum=999999932
-currentSum=144473001 | maxSum=999999932
-currentSum=144093169 | maxSum=999999932
-currentSum=143713493 | maxSum=999999932
-currentSum=143333862 | maxSum=999999932
-currentSum=142954458 | maxSum=999999932
-currentSum=142575206 | maxSum=999999932
-currentSum=142196744 | maxSum=999999932
-currentSum=141820276 | maxSum=999999932
-currentSum=141443830 | maxSum=999999932
-currentSum=141067683 | maxSum=999999932
-currentSum=140691756 | maxSum=999999932
-currentSum=140316061 | maxSum=999999932
-currentSum=139940820 | maxSum=999999932
-currentSum=139568241 | maxSum=999999932
-currentSum=139196130 | maxSum=999999932
-currentSum=138824572 | maxSum=999999932
-currentSum=138453663 | maxSum=999999932
-currentSum=138084177 | maxSum=999999932
-currentSum=137715226 | maxSum=999999932
-currentSum=137346330 | maxSum=999999932
-currentSum=136978076 | maxSum=999999932
-currentSum=136611065 | maxSum=999999932
-currentSum=136244371 | maxSum=999999932
-currentSum=135878358 | maxSum=999999932
-currentSum=135513444 | maxSum=999999932
-currentSum=135149324 | maxSum=999999932
-currentSum=134786794 | maxSum=999999932
-currentSum=134424392 | maxSum=999999932
-currentSum=134062453 | maxSum=999999932
-currentSum=133701739 | maxSum=999999932
-currentSum=133341233 | maxSum=999999932
-currentSum=132981646 | maxSum=999999932
-currentSum=132623789 | maxSum=999999932
-currentSum=132266482 | maxSum=999999932
-currentSum=131909560 | maxSum=999999932
-currentSum=131552731 | maxSum=999999932
-currentSum=131195981 | maxSum=999999932
-currentSum=130839545 | maxSum=999999932
-currentSum=130483710 | maxSum=999999932
-currentSum=130128491 | maxSum=999999932
-currentSum=129773433 | maxSum=999999932
-currentSum=129418874 | maxSum=999999932
-currentSum=129064929 | maxSum=999999932
-currentSum=128711934 | maxSum=999999932
-currentSum=128359146 | maxSum=999999932
-currentSum=128006638 | maxSum=999999932
-currentSum=127654426 | maxSum=999999932
-currentSum=127302905 | maxSum=999999932
-currentSum=126953095 | maxSum=999999932
-currentSum=126603335 | maxSum=999999932
-currentSum=126253785 | maxSum=999999932
-currentSum=125905146 | maxSum=999999932
-currentSum=125556774 | maxSum=999999932
-currentSum=125208602 | maxSum=999999932
-currentSum=124861316 | maxSum=999999932
-currentSum=124514311 | maxSum=999999932
-currentSum=124167401 | maxSum=999999932
-currentSum=123820871 | maxSum=999999932
-currentSum=123474581 | maxSum=999999932
-currentSum=123128706 | maxSum=999999932
-currentSum=122784130 | maxSum=999999932
-currentSum=122439560 | maxSum=999999932
-currentSum=122095302 | maxSum=999999932
-currentSum=121751312 | maxSum=999999932
-currentSum=121408007 | maxSum=999999932
-currentSum=121065234 | maxSum=999999932
-currentSum=120722594 | maxSum=999999932
-currentSum=120380516 | maxSum=999999932
-currentSum=120039663 | maxSum=999999932
-currentSum=119699481 | maxSum=999999932
-currentSum=119359395 | maxSum=999999932
-currentSum=119019442 | maxSum=999999932
-currentSum=118679893 | maxSum=999999932
-currentSum=118340865 | maxSum=999999932
-currentSum=118002836 | maxSum=999999932
-currentSum=117664825 | maxSum=999999932
-currentSum=117326872 | maxSum=999999932
-currentSum=116989413 | maxSum=999999932
-currentSum=116652709 | maxSum=999999932
-currentSum=116317419 | maxSum=999999932
-currentSum=115983736 | maxSum=999999932
-currentSum=115650974 | maxSum=999999932
-currentSum=115318880 | maxSum=999999932
-currentSum=114987092 | maxSum=999999932
-currentSum=114655506 | maxSum=999999932
-currentSum=114324579 | maxSum=999999932
-currentSum=113993752 | maxSum=999999932
-currentSum=113663738 | maxSum=999999932
-currentSum=113333892 | maxSum=999999932
-currentSum=113004396 | maxSum=999999932
-currentSum=112675181 | maxSum=999999932
-currentSum=112346216 | maxSum=999999932
-currentSum=112017327 | maxSum=999999932
-currentSum=111690166 | maxSum=999999932
-currentSum=111363257 | maxSum=999999932
-currentSum=111037059 | maxSum=999999932
-currentSum=110711163 | maxSum=999999932
-currentSum=110385614 | maxSum=999999932
-currentSum=110061255 | maxSum=999999932
-currentSum=109737265 | maxSum=999999932
-currentSum=109413982 | maxSum=999999932
-currentSum=109091377 | maxSum=999999932
-currentSum=108768875 | maxSum=999999932
-currentSum=108447307 | maxSum=999999932
-currentSum=108126176 | maxSum=999999932
-currentSum=107805911 | maxSum=999999932
-currentSum=107485845 | maxSum=999999932
-currentSum=107166645 | maxSum=999999932
-currentSum=106847732 | maxSum=999999932
-currentSum=106529046 | maxSum=999999932
-currentSum=106210401 | maxSum=999999932
-currentSum=105893138 | maxSum=999999932
-currentSum=105576137 | maxSum=999999932
-currentSum=105259217 | maxSum=999999932
-currentSum=104942369 | maxSum=999999932
-currentSum=104626086 | maxSum=999999932
-currentSum=104310467 | maxSum=999999932
-currentSum=103995506 | maxSum=999999932
-currentSum=103680886 | maxSum=999999932
-currentSum=103366823 | maxSum=999999932
-currentSum=103052851 | maxSum=999999932
-currentSum=102739115 | maxSum=999999932
-currentSum=102425946 | maxSum=999999932
-currentSum=102112837 | maxSum=999999932
-currentSum=101799844 | maxSum=999999932
-currentSum=101487996 | maxSum=999999932
-currentSum=101176825 | maxSum=999999932
-currentSum=100866138 | maxSum=999999932
-currentSum=100555843 | maxSum=999999932
-currentSum=100245776 | maxSum=999999932
-currentSum=99936154 | maxSum=999999932
-currentSum=99626625 | maxSum=999999932
-currentSum=99317129 | maxSum=999999932
-currentSum=99008550 | maxSum=999999932
-currentSum=98700742 | maxSum=999999932
-currentSum=98393073 | maxSum=999999932
-currentSum=98085603 | maxSum=999999932
-currentSum=97779225 | maxSum=999999932
-currentSum=97473135 | maxSum=999999932
-currentSum=97167677 | maxSum=999999932
-currentSum=96864181 | maxSum=999999932
-currentSum=96561500 | maxSum=999999932
-currentSum=96259231 | maxSum=999999932
-currentSum=95957081 | maxSum=999999932
-currentSum=95655010 | maxSum=999999932
-currentSum=95353356 | maxSum=999999932
-currentSum=95051967 | maxSum=999999932
-currentSum=94751066 | maxSum=999999932
-currentSum=94450919 | maxSum=999999932
-currentSum=94151261 | maxSum=999999932
-currentSum=93852105 | maxSum=999999932
-currentSum=93553224 | maxSum=999999932
-currentSum=93255022 | maxSum=999999932
-currentSum=92957400 | maxSum=999999932
-currentSum=92660604 | maxSum=999999932
-currentSum=92363975 | maxSum=999999932
-currentSum=92067473 | maxSum=999999932
-currentSum=91771980 | maxSum=999999932
-currentSum=91478601 | maxSum=999999932
-currentSum=91185307 | maxSum=999999932
-currentSum=90892573 | maxSum=999999932
-currentSum=90600045 | maxSum=999999932
-currentSum=90307858 | maxSum=999999932
-currentSum=90015732 | maxSum=999999932
-currentSum=89723677 | maxSum=999999932
-currentSum=89431853 | maxSum=999999932
-currentSum=89140098 | maxSum=999999932
-currentSum=88848379 | maxSum=999999932
-currentSum=88556852 | maxSum=999999932
-currentSum=88265432 | maxSum=999999932
-currentSum=87974599 | maxSum=999999932
-currentSum=87683805 | maxSum=999999932
-currentSum=87393634 | maxSum=999999932
-currentSum=87103653 | maxSum=999999932
-currentSum=86813914 | maxSum=999999932
-currentSum=86524197 | maxSum=999999932
-currentSum=86234864 | maxSum=999999932
-currentSum=85946424 | maxSum=999999932
-currentSum=85658437 | maxSum=999999932
-currentSum=85370573 | maxSum=999999932
-currentSum=85082886 | maxSum=999999932
-currentSum=84796129 | maxSum=999999932
-currentSum=84509885 | maxSum=999999932
-currentSum=84224069 | maxSum=999999932
-currentSum=83938441 | maxSum=999999932
-currentSum=83652920 | maxSum=999999932
-currentSum=83367956 | maxSum=999999932
-currentSum=83083829 | maxSum=999999932
-currentSum=82800577 | maxSum=999999932
-currentSum=82517466 | maxSum=999999932
-currentSum=82234813 | maxSum=999999932
-currentSum=81953329 | maxSum=999999932
-currentSum=81672532 | maxSum=999999932
-currentSum=81392331 | maxSum=999999932
-currentSum=81112252 | maxSum=999999932
-currentSum=80832255 | maxSum=999999932
-currentSum=80552418 | maxSum=999999932
-currentSum=80272601 | maxSum=999999932
-currentSum=79994015 | maxSum=999999932
-currentSum=79715447 | maxSum=999999932
-currentSum=79437035 | maxSum=999999932
-currentSum=79158726 | maxSum=999999932
-currentSum=78880590 | maxSum=999999932
-currentSum=78602457 | maxSum=999999932
-currentSum=78324474 | maxSum=999999932
-currentSum=78046527 | maxSum=999999932
-currentSum=77768730 | maxSum=999999932
-currentSum=77491178 | maxSum=999999932
-currentSum=77213722 | maxSum=999999932
-currentSum=76936301 | maxSum=999999932
-currentSum=76658938 | maxSum=999999932
-currentSum=76381583 | maxSum=999999932
-currentSum=76104725 | maxSum=999999932
-currentSum=75828491 | maxSum=999999932
-currentSum=75552936 | maxSum=999999932
-currentSum=75277989 | maxSum=999999932
-currentSum=75003258 | maxSum=999999932
-currentSum=74729304 | maxSum=999999932
-currentSum=74455821 | maxSum=999999932
-currentSum=74182977 | maxSum=999999932
-currentSum=73911144 | maxSum=999999932
-currentSum=73640191 | maxSum=999999932
-currentSum=73370688 | maxSum=999999932
-currentSum=73101947 | maxSum=999999932
-currentSum=72834167 | maxSum=999999932
-currentSum=72567021 | maxSum=999999932
-currentSum=72300656 | maxSum=999999932
-currentSum=72035863 | maxSum=999999932
-currentSum=71771153 | maxSum=999999932
-currentSum=71506577 | maxSum=999999932
-currentSum=71242900 | maxSum=999999932
-currentSum=70979234 | maxSum=999999932
-currentSum=70715864 | maxSum=999999932
-currentSum=70452984 | maxSum=999999932
-currentSum=70190132 | maxSum=999999932
-currentSum=69927552 | maxSum=999999932
-currentSum=69665255 | maxSum=999999932
-currentSum=69403263 | maxSum=999999932
-currentSum=69141562 | maxSum=999999932
-currentSum=68880208 | maxSum=999999932
-currentSum=68619422 | maxSum=999999932
-currentSum=68359124 | maxSum=999999932
-currentSum=68098851 | maxSum=999999932
-currentSum=67838853 | maxSum=999999932
-currentSum=67579507 | maxSum=999999932
-currentSum=67320207 | maxSum=999999932
-currentSum=67061549 | maxSum=999999932
-currentSum=66803323 | maxSum=999999932
-currentSum=66545852 | maxSum=999999932
-currentSum=66289014 | maxSum=999999932
-currentSum=66032227 | maxSum=999999932
-currentSum=65775474 | maxSum=999999932
-currentSum=65519273 | maxSum=999999932
-currentSum=65263163 | maxSum=999999932
-currentSum=65007276 | maxSum=999999932
-currentSum=64751516 | maxSum=999999932
-currentSum=64495895 | maxSum=999999932
-currentSum=64240444 | maxSum=999999932
-currentSum=63985270 | maxSum=999999932
-currentSum=63730418 | maxSum=999999932
-currentSum=63475721 | maxSum=999999932
-currentSum=63222590 | maxSum=999999932
-currentSum=62969967 | maxSum=999999932
-currentSum=62717388 | maxSum=999999932
-currentSum=62465340 | maxSum=999999932
-currentSum=62213773 | maxSum=999999932
-currentSum=61962639 | maxSum=999999932
-currentSum=61711667 | maxSum=999999932
-currentSum=61460749 | maxSum=999999932
-currentSum=61210293 | maxSum=999999932
-currentSum=60959962 | maxSum=999999932
-currentSum=60709779 | maxSum=999999932
-currentSum=60460163 | maxSum=999999932
-currentSum=60210623 | maxSum=999999932
-currentSum=59961844 | maxSum=999999932
-currentSum=59713556 | maxSum=999999932
-currentSum=59465644 | maxSum=999999932
-currentSum=59218011 | maxSum=999999932
-currentSum=58971331 | maxSum=999999932
-currentSum=58725003 | maxSum=999999932
-currentSum=58478747 | maxSum=999999932
-currentSum=58232522 | maxSum=999999932
-currentSum=57986587 | maxSum=999999932
-currentSum=57741356 | maxSum=999999932
-currentSum=57496398 | maxSum=999999932
-currentSum=57251585 | maxSum=999999932
-currentSum=57007218 | maxSum=999999932
-currentSum=56763069 | maxSum=999999932
-currentSum=56519056 | maxSum=999999932
-currentSum=56275538 | maxSum=999999932
-currentSum=56032767 | maxSum=999999932
-currentSum=55790221 | maxSum=999999932
-currentSum=55548434 | maxSum=999999932
-currentSum=55307087 | maxSum=999999932
-currentSum=55065744 | maxSum=999999932
-currentSum=54825519 | maxSum=999999932
-currentSum=54585406 | maxSum=999999932
-currentSum=54345311 | maxSum=999999932
-currentSum=54106292 | maxSum=999999932
-currentSum=53867590 | maxSum=999999932
-currentSum=53629003 | maxSum=999999932
-currentSum=53390419 | maxSum=999999932
-currentSum=53153718 | maxSum=999999932
-currentSum=52917093 | maxSum=999999932
-currentSum=52681313 | maxSum=999999932
-currentSum=52445647 | maxSum=999999932
-currentSum=52209984 | maxSum=999999932
-currentSum=51974381 | maxSum=999999932
-currentSum=51739217 | maxSum=999999932
-currentSum=51505113 | maxSum=999999932
-currentSum=51271310 | maxSum=999999932
-currentSum=51038021 | maxSum=999999932
-currentSum=50805610 | maxSum=999999932
-currentSum=50573248 | maxSum=999999932
-currentSum=50341077 | maxSum=999999932
-currentSum=50109775 | maxSum=999999932
-currentSum=49878576 | maxSum=999999932
-currentSum=49647611 | maxSum=999999932
-currentSum=49417277 | maxSum=999999932
-currentSum=49187146 | maxSum=999999932
-currentSum=48957121 | maxSum=999999932
-currentSum=48727428 | maxSum=999999932
-currentSum=48497906 | maxSum=999999932
-currentSum=48268597 | maxSum=999999932
-currentSum=48039994 | maxSum=999999932
-currentSum=47811668 | maxSum=999999932
-currentSum=47583794 | maxSum=999999932
-currentSum=47356848 | maxSum=999999932
-currentSum=47130356 | maxSum=999999932
-currentSum=46904533 | maxSum=999999932
-currentSum=46679839 | maxSum=999999932
-currentSum=46455443 | maxSum=999999932
-currentSum=46231262 | maxSum=999999932
-currentSum=46007129 | maxSum=999999932
-currentSum=45783570 | maxSum=999999932
-currentSum=45560564 | maxSum=999999932
-currentSum=45338090 | maxSum=999999932
-currentSum=45115630 | maxSum=999999932
-currentSum=44893493 | maxSum=999999932
-currentSum=44671501 | maxSum=999999932
-currentSum=44450175 | maxSum=999999932
-currentSum=44228893 | maxSum=999999932
-currentSum=44007981 | maxSum=999999932
-currentSum=43787538 | maxSum=999999932
-currentSum=43567206 | maxSum=999999932
-currentSum=43347471 | maxSum=999999932
-currentSum=43129539 | maxSum=999999932
-currentSum=42912268 | maxSum=999999932
-currentSum=42695336 | maxSum=999999932
-currentSum=42480112 | maxSum=999999932
-currentSum=42265880 | maxSum=999999932
-currentSum=42052342 | maxSum=999999932
-currentSum=41838845 | maxSum=999999932
-currentSum=41627872 | maxSum=999999932
-currentSum=41417273 | maxSum=999999932
-currentSum=41207955 | maxSum=999999932
-currentSum=40998860 | maxSum=999999932
-currentSum=40789915 | maxSum=999999932
-currentSum=40581062 | maxSum=999999932
-currentSum=40372438 | maxSum=999999932
-currentSum=40163891 | maxSum=999999932
-currentSum=39955877 | maxSum=999999932
-currentSum=39748398 | maxSum=999999932
-currentSum=39541741 | maxSum=999999932
-currentSum=39337810 | maxSum=999999932
-currentSum=39134212 | maxSum=999999932
-currentSum=38931650 | maxSum=999999932
-currentSum=38729660 | maxSum=999999932
-currentSum=38527980 | maxSum=999999932
-currentSum=38326771 | maxSum=999999932
-currentSum=38125824 | maxSum=999999932
-currentSum=37924928 | maxSum=999999932
-currentSum=37724540 | maxSum=999999932
-currentSum=37524620 | maxSum=999999932
-currentSum=37324910 | maxSum=999999932
-currentSum=37125411 | maxSum=999999932
-currentSum=36925993 | maxSum=999999932
-currentSum=36726630 | maxSum=999999932
-currentSum=36527457 | maxSum=999999932
-currentSum=36328378 | maxSum=999999932
-currentSum=36130511 | maxSum=999999932
-currentSum=35933766 | maxSum=999999932
-currentSum=35738864 | maxSum=999999932
-currentSum=35544670 | maxSum=999999932
-currentSum=35351300 | maxSum=999999932
-currentSum=35158848 | maxSum=999999932
-currentSum=34968125 | maxSum=999999932
-currentSum=34777518 | maxSum=999999932
-currentSum=34587162 | maxSum=999999932
-currentSum=34398308 | maxSum=999999932
-currentSum=34210099 | maxSum=999999932
-currentSum=34021975 | maxSum=999999932
-currentSum=33834594 | maxSum=999999932
-currentSum=33647302 | maxSum=999999932
-currentSum=33461599 | maxSum=999999932
-currentSum=33276856 | maxSum=999999932
-currentSum=33092375 | maxSum=999999932
-currentSum=32908153 | maxSum=999999932
-currentSum=32724402 | maxSum=999999932
-currentSum=32540778 | maxSum=999999932
-currentSum=32357754 | maxSum=999999932
-currentSum=32174993 | maxSum=999999932
-currentSum=31992462 | maxSum=999999932
-currentSum=31810155 | maxSum=999999932
-currentSum=31630653 | maxSum=999999932
-currentSum=31452362 | maxSum=999999932
-currentSum=31274377 | maxSum=999999932
-currentSum=31098387 | maxSum=999999932
-currentSum=30923890 | maxSum=999999932
-currentSum=30749450 | maxSum=999999932
-currentSum=30575417 | maxSum=999999932
-currentSum=30402218 | maxSum=999999932
-currentSum=30229106 | maxSum=999999932
-currentSum=30056421 | maxSum=999999932
-currentSum=29883833 | maxSum=999999932
-currentSum=29712062 | maxSum=999999932
-currentSum=29540672 | maxSum=999999932
-currentSum=29370066 | maxSum=999999932
-currentSum=29199620 | maxSum=999999932
-currentSum=29030139 | maxSum=999999932
-currentSum=28860692 | maxSum=999999932
-currentSum=28692004 | maxSum=999999932
-currentSum=28524200 | maxSum=999999932
-currentSum=28356735 | maxSum=999999932
-currentSum=28189753 | maxSum=999999932
-currentSum=28022813 | maxSum=999999932
-currentSum=27856691 | maxSum=999999932
-currentSum=27690800 | maxSum=999999932
-currentSum=27525100 | maxSum=999999932
-currentSum=27359640 | maxSum=999999932
-currentSum=27194509 | maxSum=999999932
-currentSum=27029772 | maxSum=999999932
-currentSum=26865585 | maxSum=999999932
-currentSum=26702502 | maxSum=999999932
-currentSum=26539453 | maxSum=999999932
-currentSum=26377086 | maxSum=999999932
-currentSum=26214975 | maxSum=999999932
-currentSum=26052895 | maxSum=999999932
-currentSum=25890985 | maxSum=999999932
-currentSum=25729484 | maxSum=999999932
-currentSum=25569011 | maxSum=999999932
-currentSum=25408695 | maxSum=999999932
-currentSum=25248381 | maxSum=999999932
-currentSum=25088103 | maxSum=999999932
-currentSum=24928268 | maxSum=999999932
-currentSum=24768724 | maxSum=999999932
-currentSum=24609576 | maxSum=999999932
-currentSum=24451368 | maxSum=999999932
-currentSum=24294872 | maxSum=999999932
-currentSum=24138527 | maxSum=999999932
-currentSum=23982250 | maxSum=999999932
-currentSum=23826386 | maxSum=999999932
-currentSum=23671048 | maxSum=999999932
-currentSum=23516258 | maxSum=999999932
-currentSum=23361486 | maxSum=999999932
-currentSum=23206924 | maxSum=999999932
-currentSum=23054233 | maxSum=999999932
-currentSum=22902466 | maxSum=999999932
-currentSum=22750747 | maxSum=999999932
-currentSum=22599539 | maxSum=999999932
-currentSum=22449419 | maxSum=999999932
-currentSum=22299557 | maxSum=999999932
-currentSum=22150361 | maxSum=999999932
-currentSum=22002716 | maxSum=999999932
-currentSum=21855674 | maxSum=999999932
-currentSum=21709057 | maxSum=999999932
-currentSum=21562593 | maxSum=999999932
-currentSum=21416226 | maxSum=999999932
-currentSum=21271080 | maxSum=999999932
-currentSum=21125978 | maxSum=999999932
-currentSum=20982504 | maxSum=999999932
-currentSum=20839314 | maxSum=999999932
-currentSum=20696972 | maxSum=999999932
-currentSum=20554667 | maxSum=999999932
-currentSum=20413802 | maxSum=999999932
-currentSum=20273935 | maxSum=999999932
-currentSum=20134994 | maxSum=999999932
-currentSum=19996204 | maxSum=999999932
-currentSum=19857574 | maxSum=999999932
-currentSum=19719318 | maxSum=999999932
-currentSum=19581472 | maxSum=999999932
-currentSum=19444044 | maxSum=999999932
-currentSum=19306758 | maxSum=999999932
-currentSum=19169533 | maxSum=999999932
-currentSum=19033176 | maxSum=999999932
-currentSum=18898497 | maxSum=999999932
-currentSum=18764619 | maxSum=999999932
-currentSum=18630932 | maxSum=999999932
-currentSum=18497411 | maxSum=999999932
-currentSum=18364445 | maxSum=999999932
-currentSum=18231663 | maxSum=999999932
-currentSum=18099199 | maxSum=999999932
-currentSum=17966770 | maxSum=999999932
-currentSum=17834367 | maxSum=999999932
-currentSum=17702276 | maxSum=999999932
-currentSum=17570356 | maxSum=999999932
-currentSum=17439416 | maxSum=999999932
-currentSum=17308686 | maxSum=999999932
-currentSum=17178241 | maxSum=999999932
-currentSum=17048598 | maxSum=999999932
-currentSum=16920454 | maxSum=999999932
-currentSum=16793079 | maxSum=999999932
-currentSum=16665775 | maxSum=999999932
-currentSum=16538789 | maxSum=999999932
-currentSum=16411856 | maxSum=999999932
-currentSum=16285289 | maxSum=999999932
-currentSum=16159528 | maxSum=999999932
-currentSum=16034115 | maxSum=999999932
-currentSum=15909859 | maxSum=999999932
-currentSum=15786636 | maxSum=999999932
-currentSum=15664242 | maxSum=999999932
-currentSum=15542430 | maxSum=999999932
-currentSum=15420827 | maxSum=999999932
-currentSum=15299513 | maxSum=999999932
-currentSum=15178427 | maxSum=999999932
-currentSum=15057432 | maxSum=999999932
-currentSum=14936617 | maxSum=999999932
-currentSum=14816215 | maxSum=999999932
-currentSum=14696048 | maxSum=999999932
-currentSum=14575901 | maxSum=999999932
-currentSum=14455904 | maxSum=999999932
-currentSum=14336224 | maxSum=999999932
-currentSum=14217004 | maxSum=999999932
-currentSum=14097981 | maxSum=999999932
-currentSum=13980622 | maxSum=999999932
-currentSum=13863270 | maxSum=999999932
-currentSum=13746249 | maxSum=999999932
-currentSum=13629459 | maxSum=999999932
-currentSum=13514142 | maxSum=999999932
-currentSum=13399116 | maxSum=999999932
-currentSum=13284489 | maxSum=999999932
-currentSum=13170087 | maxSum=999999932
-currentSum=13056368 | maxSum=999999932
-currentSum=12942708 | maxSum=999999932
-currentSum=12829308 | maxSum=999999932
-currentSum=12715911 | maxSum=999999932
-currentSum=12603625 | maxSum=999999932
-currentSum=12491740 | maxSum=999999932
-currentSum=12379925 | maxSum=999999932
-currentSum=12268295 | maxSum=999999932
-currentSum=12157579 | maxSum=999999932
-currentSum=12047848 | maxSum=999999932
-currentSum=11939179 | maxSum=999999932
-currentSum=11831342 | maxSum=999999932
-currentSum=11723721 | maxSum=999999932
-currentSum=11616197 | maxSum=999999932
-currentSum=11508971 | maxSum=999999932
-currentSum=11402069 | maxSum=999999932
-currentSum=11296111 | maxSum=999999932
-currentSum=11190651 | maxSum=999999932
-currentSum=11085211 | maxSum=999999932
-currentSum=10979921 | maxSum=999999932
-currentSum=10875033 | maxSum=999999932
-currentSum=10770427 | maxSum=999999932
-currentSum=10666196 | maxSum=999999932
-currentSum=10562092 | maxSum=999999932
-currentSum=10458210 | maxSum=999999932
-currentSum=10354934 | maxSum=999999932
-currentSum=10251685 | maxSum=999999932
-currentSum=10148970 | maxSum=999999932
-currentSum=10047006 | maxSum=999999932
-currentSum=9945072 | maxSum=999999932
-currentSum=9843382 | maxSum=999999932
-currentSum=9741917 | maxSum=999999932
-currentSum=9642959 | maxSum=999999932
-currentSum=9544662 | maxSum=999999932
-currentSum=9446688 | maxSum=999999932
-currentSum=9348844 | maxSum=999999932
-currentSum=9251057 | maxSum=999999932
-currentSum=9153433 | maxSum=999999932
-currentSum=9056131 | maxSum=999999932
-currentSum=8959299 | maxSum=999999932
-currentSum=8863122 | maxSum=999999932
-currentSum=8767308 | maxSum=999999932
-currentSum=8671583 | maxSum=999999932
-currentSum=8576207 | maxSum=999999932
-currentSum=8481387 | maxSum=999999932
-currentSum=8386647 | maxSum=999999932
-currentSum=8292085 | maxSum=999999932
-currentSum=8199697 | maxSum=999999932
-currentSum=8108485 | maxSum=999999932
-currentSum=8017562 | maxSum=999999932
-currentSum=7927697 | maxSum=999999932
-currentSum=7837875 | maxSum=999999932
-currentSum=7748506 | maxSum=999999932
-currentSum=7659541 | maxSum=999999932
-currentSum=7571465 | maxSum=999999932
-currentSum=7485449 | maxSum=999999932
-currentSum=7399514 | maxSum=999999932
-currentSum=7314332 | maxSum=999999932
-currentSum=7229790 | maxSum=999999932
-currentSum=7145390 | maxSum=999999932
-currentSum=7061123 | maxSum=999999932
-currentSum=6977070 | maxSum=999999932
-currentSum=6893352 | maxSum=999999932
-currentSum=6810497 | maxSum=999999932
-currentSum=6727819 | maxSum=999999932
-currentSum=6645186 | maxSum=999999932
-currentSum=6563888 | maxSum=999999932
-currentSum=6484149 | maxSum=999999932
-currentSum=6405052 | maxSum=999999932
-currentSum=6326044 | maxSum=999999932
-currentSum=6247095 | maxSum=999999932
-currentSum=6168333 | maxSum=999999932
-currentSum=6089819 | maxSum=999999932
-currentSum=6012088 | maxSum=999999932
-currentSum=5934588 | maxSum=999999932
-currentSum=5857718 | maxSum=999999932
-currentSum=5781302 | maxSum=999999932
-currentSum=5705185 | maxSum=999999932
-currentSum=5630256 | maxSum=999999932
-currentSum=5555335 | maxSum=999999932
-currentSum=5480647 | maxSum=999999932
-currentSum=5406155 | maxSum=999999932
-currentSum=5331805 | maxSum=999999932
-currentSum=5258382 | maxSum=999999932
-currentSum=5185130 | maxSum=999999932
-currentSum=5112146 | maxSum=999999932
-currentSum=5039303 | maxSum=999999932
-currentSum=4966678 | maxSum=999999932
-currentSum=4894321 | maxSum=999999932
-currentSum=4822138 | maxSum=999999932
-currentSum=4750136 | maxSum=999999932
-currentSum=4678143 | maxSum=999999932
-currentSum=4606243 | maxSum=999999932
-currentSum=4534448 | maxSum=999999932
-currentSum=4463135 | maxSum=999999932
-currentSum=4392410 | maxSum=999999932
-currentSum=4322956 | maxSum=999999932
-currentSum=4254388 | maxSum=999999932
-currentSum=4186989 | maxSum=999999932
-currentSum=4119802 | maxSum=999999932
-currentSum=4053106 | maxSum=999999932
-currentSum=3986442 | maxSum=999999932
-currentSum=3920104 | maxSum=999999932
-currentSum=3854763 | maxSum=999999932
-currentSum=3790794 | maxSum=999999932
-currentSum=3727187 | maxSum=999999932
-currentSum=3663645 | maxSum=999999932
-currentSum=3600438 | maxSum=999999932
-currentSum=3537852 | maxSum=999999932
-currentSum=3476068 | maxSum=999999932
-currentSum=3414534 | maxSum=999999932
-currentSum=3353159 | maxSum=999999932
-currentSum=3292370 | maxSum=999999932
-currentSum=3232377 | maxSum=999999932
-currentSum=3172684 | maxSum=999999932
-currentSum=3113788 | maxSum=999999932
-currentSum=3055082 | maxSum=999999932
-currentSum=2997857 | maxSum=999999932
-currentSum=2940969 | maxSum=999999932
-currentSum=2884116 | maxSum=999999932
-currentSum=2827852 | maxSum=999999932
-currentSum=2772857 | maxSum=999999932
-currentSum=2718191 | maxSum=999999932
-currentSum=2664022 | maxSum=999999932
-currentSum=2610099 | maxSum=999999932
-currentSum=2556782 | maxSum=999999932
-currentSum=2503686 | maxSum=999999932
-currentSum=2450600 | maxSum=999999932
-currentSum=2397822 | maxSum=999999932
-currentSum=2345114 | maxSum=999999932
-currentSum=2292485 | maxSum=999999932
-currentSum=2241008 | maxSum=999999932
-currentSum=2191552 | maxSum=999999932
-currentSum=2143043 | maxSum=999999932
-currentSum=2094767 | maxSum=999999932
-currentSum=2046666 | maxSum=999999932
-currentSum=1998889 | maxSum=999999932
-currentSum=1951289 | maxSum=999999932
-currentSum=1904696 | maxSum=999999932
-currentSum=1858417 | maxSum=999999932
-currentSum=1812599 | maxSum=999999932
-currentSum=1766987 | maxSum=999999932
-currentSum=1723076 | maxSum=999999932
-currentSum=1679961 | maxSum=999999932
-currentSum=1637697 | maxSum=999999932
-currentSum=1595461 | maxSum=999999932
-currentSum=1553578 | maxSum=999999932
-currentSum=1511730 | maxSum=999999932
-currentSum=1470007 | maxSum=999999932
-currentSum=1428619 | maxSum=999999932
-currentSum=1387963 | maxSum=999999932
-currentSum=1347797 | maxSum=999999932
-currentSum=1308727 | maxSum=999999932
-currentSum=1269859 | maxSum=999999932
-currentSum=1231329 | maxSum=999999932
-currentSum=1193500 | maxSum=999999932
-currentSum=1155807 | maxSum=999999932
-currentSum=1120771 | maxSum=999999932
-currentSum=1086415 | maxSum=999999932
-currentSum=1052139 | maxSum=999999932
-currentSum=1018429 | maxSum=999999932
-currentSum=985052 | maxSum=999999932
-currentSum=952063 | maxSum=999999932
-currentSum=919475 | maxSum=999999932
-currentSum=888180 | maxSum=999999932
-currentSum=857695 | maxSum=999999932
-currentSum=827291 | maxSum=999999932
-currentSum=796969 | maxSum=999999932
-currentSum=766824 | maxSum=999999932
-currentSum=737832 | maxSum=999999932
-currentSum=709363 | maxSum=999999932
-currentSum=681036 | maxSum=999999932
-currentSum=653161 | maxSum=999999932
-currentSum=625989 | maxSum=999999932
-currentSum=598906 | maxSum=999999932
-currentSum=571930 | maxSum=999999932
-currentSum=545639 | maxSum=999999932
-currentSum=519363 | maxSum=999999932
-currentSum=493322 | maxSum=999999932
-currentSum=467660 | maxSum=999999932
-currentSum=442796 | maxSum=999999932
-currentSum=419740 | maxSum=999999932
-currentSum=397295 | maxSum=999999932
-currentSum=375188 | maxSum=999999932
-currentSum=353384 | maxSum=999999932
-currentSum=331964 | maxSum=999999932
-currentSum=311433 | maxSum=999999932
-currentSum=290960 | maxSum=999999932
-currentSum=270585 | maxSum=999999932
-currentSum=252454 | maxSum=999999932
-currentSum=235856 | maxSum=999999932
-currentSum=219712 | maxSum=999999932
-currentSum=204079 | maxSum=999999932
-currentSum=188554 | maxSum=999999932
-currentSum=173668 | maxSum=999999932
-currentSum=159023 | maxSum=999999932
-currentSum=144634 | maxSum=999999932
-currentSum=131317 | maxSum=999999932
-currentSum=118405 | maxSum=999999932
-currentSum=106316 | maxSum=999999932
-currentSum=95621 | maxSum=999999932
-currentSum=85431 | maxSum=999999932
-currentSum=75527 | maxSum=999999932
-currentSum=65709 | maxSum=999999932
-currentSum=57167 | maxSum=999999932
-currentSum=48913 | maxSum=999999932
-currentSum=41322 | maxSum=999999932
-currentSum=34457 | maxSum=999999932
-currentSum=28224 | maxSum=999999932
-currentSum=22359 | maxSum=999999932
-currentSum=18591 | maxSum=999999932
-currentSum=15138 | maxSum=999999932
-currentSum=12114 | maxSum=999999932
-currentSum=9258 | maxSum=999999932
-currentSum=6518 | maxSum=999999932
-currentSum=4207 | maxSum=999999932
-currentSum=2383 | maxSum=999999932
+(slices[1999]) currentSum=999999725 | maxSum=0
+(slices[1998]) currentSum=999999856 | maxSum=999999725
+(slices[1997]) currentSum=999999910 | maxSum=999999856
+(slices[1996]) currentSum=999999770 | maxSum=999999910
+(slices[1995]) currentSum=999999849 | maxSum=999999910
+(slices[1994]) currentSum=999999917 | maxSum=999999910
+(slices[1993]) currentSum=999999932 | maxSum=999999917
+(slices[1992]) currentSum=999999619 | maxSum=999999932
+(slices[1991]) currentSum=999999921 | maxSum=999999932
+(slices[1990]) currentSum=999999877 | maxSum=999999932
+(slices[1989]) currentSum=999854624 | maxSum=999999932
+(slices[1988]) currentSum=998858833 | maxSum=999999932
+(slices[1987]) currentSum=997863285 | maxSum=999999932
+(slices[1986]) currentSum=996868004 | maxSum=999999932
+(slices[1985]) currentSum=995872844 | maxSum=999999932
+(slices[1984]) currentSum=994877826 | maxSum=999999932
+(slices[1983]) currentSum=993883660 | maxSum=999999932
+(slices[1982]) currentSum=992889814 | maxSum=999999932
+(slices[1981]) currentSum=991896143 | maxSum=999999932
+(slices[1980]) currentSum=990903027 | maxSum=999999932
+(slices[1979]) currentSum=989910028 | maxSum=999999932
+(slices[1978]) currentSum=988917135 | maxSum=999999932
+(slices[1977]) currentSum=987924857 | maxSum=999999932
+(slices[1976]) currentSum=986932789 | maxSum=999999932
+(slices[1975]) currentSum=985940813 | maxSum=999999932
+(slices[1974]) currentSum=984949422 | maxSum=999999932
+(slices[1973]) currentSum=983958220 | maxSum=999999932
+(slices[1972]) currentSum=982967062 | maxSum=999999932
+(slices[1971]) currentSum=981976054 | maxSum=999999932
+(slices[1970]) currentSum=980985951 | maxSum=999999932
+(slices[1969]) currentSum=979995951 | maxSum=999999932
+(slices[1968]) currentSum=979006916 | maxSum=999999932
+(slices[1967]) currentSum=978018153 | maxSum=999999932
+(slices[1966]) currentSum=977029566 | maxSum=999999932
+(slices[1965]) currentSum=976041048 | maxSum=999999932
+(slices[1964]) currentSum=975052787 | maxSum=999999932
+(slices[1963]) currentSum=974065401 | maxSum=999999932
+(slices[1962]) currentSum=973078147 | maxSum=999999932
+(slices[1961]) currentSum=972091320 | maxSum=999999932
+(slices[1960]) currentSum=971105227 | maxSum=999999932
+(slices[1959]) currentSum=970119209 | maxSum=999999932
+(slices[1958]) currentSum=969133221 | maxSum=999999932
+(slices[1957]) currentSum=968148309 | maxSum=999999932
+(slices[1956]) currentSum=967163590 | maxSum=999999932
+(slices[1955]) currentSum=966179000 | maxSum=999999932
+(slices[1954]) currentSum=965196796 | maxSum=999999932
+(slices[1953]) currentSum=964215557 | maxSum=999999932
+(slices[1952]) currentSum=963234549 | maxSum=999999932
+(slices[1951]) currentSum=962254388 | maxSum=999999932
+(slices[1950]) currentSum=961274315 | maxSum=999999932
+(slices[1949]) currentSum=960294634 | maxSum=999999932
+(slices[1948]) currentSum=959315561 | maxSum=999999932
+(slices[1947]) currentSum=958336917 | maxSum=999999932
+(slices[1946]) currentSum=957358453 | maxSum=999999932
+(slices[1945]) currentSum=956380236 | maxSum=999999932
+(slices[1944]) currentSum=955402228 | maxSum=999999932
+(slices[1943]) currentSum=954425160 | maxSum=999999932
+(slices[1942]) currentSum=953449078 | maxSum=999999932
+(slices[1941]) currentSum=952473977 | maxSum=999999932
+(slices[1940]) currentSum=951499696 | maxSum=999999932
+(slices[1939]) currentSum=950525499 | maxSum=999999932
+(slices[1938]) currentSum=949551412 | maxSum=999999932
+(slices[1937]) currentSum=948577353 | maxSum=999999932
+(slices[1936]) currentSum=947604567 | maxSum=999999932
+(slices[1935]) currentSum=946632992 | maxSum=999999932
+(slices[1934]) currentSum=945661575 | maxSum=999999932
+(slices[1933]) currentSum=944690791 | maxSum=999999932
+(slices[1932]) currentSum=943720205 | maxSum=999999932
+(slices[1931]) currentSum=942749812 | maxSum=999999932
+(slices[1930]) currentSum=941780366 | maxSum=999999932
+(slices[1929]) currentSum=940811525 | maxSum=999999932
+(slices[1928]) currentSum=939843360 | maxSum=999999932
+(slices[1927]) currentSum=938876067 | maxSum=999999932
+(slices[1926]) currentSum=937908920 | maxSum=999999932
+(slices[1925]) currentSum=936942221 | maxSum=999999932
+(slices[1924]) currentSum=935976230 | maxSum=999999932
+(slices[1923]) currentSum=935010515 | maxSum=999999932
+(slices[1922]) currentSum=934044966 | maxSum=999999932
+(slices[1921]) currentSum=933080626 | maxSum=999999932
+(slices[1920]) currentSum=932116366 | maxSum=999999932
+(slices[1919]) currentSum=931152268 | maxSum=999999932
+(slices[1918]) currentSum=930189107 | maxSum=999999932
+(slices[1917]) currentSum=929225990 | maxSum=999999932
+(slices[1916]) currentSum=928263902 | maxSum=999999932
+(slices[1915]) currentSum=927303280 | maxSum=999999932
+(slices[1914]) currentSum=926343514 | maxSum=999999932
+(slices[1913]) currentSum=925384491 | maxSum=999999932
+(slices[1912]) currentSum=924425991 | maxSum=999999932
+(slices[1911]) currentSum=923468080 | maxSum=999999932
+(slices[1910]) currentSum=922510229 | maxSum=999999932
+(slices[1909]) currentSum=921552686 | maxSum=999999932
+(slices[1908]) currentSum=920595359 | maxSum=999999932
+(slices[1907]) currentSum=919638138 | maxSum=999999932
+(slices[1906]) currentSum=918681128 | maxSum=999999932
+(slices[1905]) currentSum=917726226 | maxSum=999999932
+(slices[1904]) currentSum=916771508 | maxSum=999999932
+(slices[1903]) currentSum=915817644 | maxSum=999999932
+(slices[1902]) currentSum=914864031 | maxSum=999999932
+(slices[1901]) currentSum=913911345 | maxSum=999999932
+(slices[1900]) currentSum=912958756 | maxSum=999999932
+(slices[1899]) currentSum=912006432 | maxSum=999999932
+(slices[1898]) currentSum=911054247 | maxSum=999999932
+(slices[1897]) currentSum=910103213 | maxSum=999999932
+(slices[1896]) currentSum=909152256 | maxSum=999999932
+(slices[1895]) currentSum=908202804 | maxSum=999999932
+(slices[1894]) currentSum=907253439 | maxSum=999999932
+(slices[1893]) currentSum=906304597 | maxSum=999999932
+(slices[1892]) currentSum=905356471 | maxSum=999999932
+(slices[1891]) currentSum=904408583 | maxSum=999999932
+(slices[1890]) currentSum=903461224 | maxSum=999999932
+(slices[1889]) currentSum=902513886 | maxSum=999999932
+(slices[1888]) currentSum=901567040 | maxSum=999999932
+(slices[1887]) currentSum=900620329 | maxSum=999999932
+(slices[1886]) currentSum=899673999 | maxSum=999999932
+(slices[1885]) currentSum=898728451 | maxSum=999999932
+(slices[1884]) currentSum=897783414 | maxSum=999999932
+(slices[1883]) currentSum=896838407 | maxSum=999999932
+(slices[1882]) currentSum=895894081 | maxSum=999999932
+(slices[1881]) currentSum=894950263 | maxSum=999999932
+(slices[1880]) currentSum=894006899 | maxSum=999999932
+(slices[1879]) currentSum=893063649 | maxSum=999999932
+(slices[1878]) currentSum=892120948 | maxSum=999999932
+(slices[1877]) currentSum=891178307 | maxSum=999999932
+(slices[1876]) currentSum=890235683 | maxSum=999999932
+(slices[1875]) currentSum=889294197 | maxSum=999999932
+(slices[1874]) currentSum=888352723 | maxSum=999999932
+(slices[1873]) currentSum=887411882 | maxSum=999999932
+(slices[1872]) currentSum=886475425 | maxSum=999999932
+(slices[1871]) currentSum=885539353 | maxSum=999999932
+(slices[1870]) currentSum=884603784 | maxSum=999999932
+(slices[1869]) currentSum=883668382 | maxSum=999999932
+(slices[1868]) currentSum=882733378 | maxSum=999999932
+(slices[1867]) currentSum=881798443 | maxSum=999999932
+(slices[1866]) currentSum=880863665 | maxSum=999999932
+(slices[1865]) currentSum=879930081 | maxSum=999999932
+(slices[1864]) currentSum=878997099 | maxSum=999999932
+(slices[1863]) currentSum=878064421 | maxSum=999999932
+(slices[1862]) currentSum=877133824 | maxSum=999999932
+(slices[1861]) currentSum=876203415 | maxSum=999999932
+(slices[1860]) currentSum=875274183 | maxSum=999999932
+(slices[1859]) currentSum=874345655 | maxSum=999999932
+(slices[1858]) currentSum=873417141 | maxSum=999999932
+(slices[1857]) currentSum=872488667 | maxSum=999999932
+(slices[1856]) currentSum=871560849 | maxSum=999999932
+(slices[1855]) currentSum=870633141 | maxSum=999999932
+(slices[1854]) currentSum=869705903 | maxSum=999999932
+(slices[1853]) currentSum=868778770 | maxSum=999999932
+(slices[1852]) currentSum=867852715 | maxSum=999999932
+(slices[1851]) currentSum=866927419 | maxSum=999999932
+(slices[1850]) currentSum=866002911 | maxSum=999999932
+(slices[1849]) currentSum=865078629 | maxSum=999999932
+(slices[1848]) currentSum=864154925 | maxSum=999999932
+(slices[1847]) currentSum=863231240 | maxSum=999999932
+(slices[1846]) currentSum=862307754 | maxSum=999999932
+(slices[1845]) currentSum=861384621 | maxSum=999999932
+(slices[1844]) currentSum=860461711 | maxSum=999999932
+(slices[1843]) currentSum=859539291 | maxSum=999999932
+(slices[1842]) currentSum=858617200 | maxSum=999999932
+(slices[1841]) currentSum=857695168 | maxSum=999999932
+(slices[1840]) currentSum=856773711 | maxSum=999999932
+(slices[1839]) currentSum=855852878 | maxSum=999999932
+(slices[1838]) currentSum=854932168 | maxSum=999999932
+(slices[1837]) currentSum=854012476 | maxSum=999999932
+(slices[1836]) currentSum=853093390 | maxSum=999999932
+(slices[1835]) currentSum=852174401 | maxSum=999999932
+(slices[1834]) currentSum=851255952 | maxSum=999999932
+(slices[1833]) currentSum=850338699 | maxSum=999999932
+(slices[1832]) currentSum=849421684 | maxSum=999999932
+(slices[1831]) currentSum=848504978 | maxSum=999999932
+(slices[1830]) currentSum=847589815 | maxSum=999999932
+(slices[1829]) currentSum=846674799 | maxSum=999999932
+(slices[1828]) currentSum=845759936 | maxSum=999999932
+(slices[1827]) currentSum=844845126 | maxSum=999999932
+(slices[1826]) currentSum=843930542 | maxSum=999999932
+(slices[1825]) currentSum=843016843 | maxSum=999999932
+(slices[1824]) currentSum=842103553 | maxSum=999999932
+(slices[1823]) currentSum=841190361 | maxSum=999999932
+(slices[1822]) currentSum=840277506 | maxSum=999999932
+(slices[1821]) currentSum=839364778 | maxSum=999999932
+(slices[1820]) currentSum=838452781 | maxSum=999999932
+(slices[1819]) currentSum=837540789 | maxSum=999999932
+(slices[1818]) currentSum=836628895 | maxSum=999999932
+(slices[1817]) currentSum=835717247 | maxSum=999999932
+(slices[1816]) currentSum=834805669 | maxSum=999999932
+(slices[1815]) currentSum=833894971 | maxSum=999999932
+(slices[1814]) currentSum=832985961 | maxSum=999999932
+(slices[1813]) currentSum=832077337 | maxSum=999999932
+(slices[1812]) currentSum=831168750 | maxSum=999999932
+(slices[1811]) currentSum=830261408 | maxSum=999999932
+(slices[1810]) currentSum=829354269 | maxSum=999999932
+(slices[1809]) currentSum=828447294 | maxSum=999999932
+(slices[1808]) currentSum=827540592 | maxSum=999999932
+(slices[1807]) currentSum=826633937 | maxSum=999999932
+(slices[1806]) currentSum=825727547 | maxSum=999999932
+(slices[1805]) currentSum=824821460 | maxSum=999999932
+(slices[1804]) currentSum=823915412 | maxSum=999999932
+(slices[1803]) currentSum=823009563 | maxSum=999999932
+(slices[1802]) currentSum=822105830 | maxSum=999999932
+(slices[1801]) currentSum=821202197 | maxSum=999999932
+(slices[1800]) currentSum=820298581 | maxSum=999999932
+(slices[1799]) currentSum=819395001 | maxSum=999999932
+(slices[1798]) currentSum=818491608 | maxSum=999999932
+(slices[1797]) currentSum=817588368 | maxSum=999999932
+(slices[1796]) currentSum=816685386 | maxSum=999999932
+(slices[1795]) currentSum=815782743 | maxSum=999999932
+(slices[1794]) currentSum=814880180 | maxSum=999999932
+(slices[1793]) currentSum=813977812 | maxSum=999999932
+(slices[1792]) currentSum=813075524 | maxSum=999999932
+(slices[1791]) currentSum=812173523 | maxSum=999999932
+(slices[1790]) currentSum=811271550 | maxSum=999999932
+(slices[1789]) currentSum=810370106 | maxSum=999999932
+(slices[1788]) currentSum=809468693 | maxSum=999999932
+(slices[1787]) currentSum=808567557 | maxSum=999999932
+(slices[1786]) currentSum=807667206 | maxSum=999999932
+(slices[1785]) currentSum=806767051 | maxSum=999999932
+(slices[1784]) currentSum=805867602 | maxSum=999999932
+(slices[1783]) currentSum=804969203 | maxSum=999999932
+(slices[1782]) currentSum=804071558 | maxSum=999999932
+(slices[1781]) currentSum=803173961 | maxSum=999999932
+(slices[1780]) currentSum=802276906 | maxSum=999999932
+(slices[1779]) currentSum=801379990 | maxSum=999999932
+(slices[1778]) currentSum=800484023 | maxSum=999999932
+(slices[1777]) currentSum=799589067 | maxSum=999999932
+(slices[1776]) currentSum=798694229 | maxSum=999999932
+(slices[1775]) currentSum=797799835 | maxSum=999999932
+(slices[1774]) currentSum=796905643 | maxSum=999999932
+(slices[1773]) currentSum=796011848 | maxSum=999999932
+(slices[1772]) currentSum=795118657 | maxSum=999999932
+(slices[1771]) currentSum=794225521 | maxSum=999999932
+(slices[1770]) currentSum=793332773 | maxSum=999999932
+(slices[1769]) currentSum=792440434 | maxSum=999999932
+(slices[1768]) currentSum=791548786 | maxSum=999999932
+(slices[1767]) currentSum=790657721 | maxSum=999999932
+(slices[1766]) currentSum=789766826 | maxSum=999999932
+(slices[1765]) currentSum=788876854 | maxSum=999999932
+(slices[1764]) currentSum=787987258 | maxSum=999999932
+(slices[1763]) currentSum=787097980 | maxSum=999999932
+(slices[1762]) currentSum=786208721 | maxSum=999999932
+(slices[1761]) currentSum=785320008 | maxSum=999999932
+(slices[1760]) currentSum=784432753 | maxSum=999999932
+(slices[1759]) currentSum=783545875 | maxSum=999999932
+(slices[1758]) currentSum=782659459 | maxSum=999999932
+(slices[1757]) currentSum=781773320 | maxSum=999999932
+(slices[1756]) currentSum=780888627 | maxSum=999999932
+(slices[1755]) currentSum=780004782 | maxSum=999999932
+(slices[1754]) currentSum=779122177 | maxSum=999999932
+(slices[1753]) currentSum=778239849 | maxSum=999999932
+(slices[1752]) currentSum=777358464 | maxSum=999999932
+(slices[1751]) currentSum=776477753 | maxSum=999999932
+(slices[1750]) currentSum=775597707 | maxSum=999999932
+(slices[1749]) currentSum=774718596 | maxSum=999999932
+(slices[1748]) currentSum=773840388 | maxSum=999999932
+(slices[1747]) currentSum=772963699 | maxSum=999999932
+(slices[1746]) currentSum=772087082 | maxSum=999999932
+(slices[1745]) currentSum=771210706 | maxSum=999999932
+(slices[1744]) currentSum=770335188 | maxSum=999999932
+(slices[1743]) currentSum=769459866 | maxSum=999999932
+(slices[1742]) currentSum=768584679 | maxSum=999999932
+(slices[1741]) currentSum=767710000 | maxSum=999999932
+(slices[1740]) currentSum=766835705 | maxSum=999999932
+(slices[1739]) currentSum=765961430 | maxSum=999999932
+(slices[1738]) currentSum=765087189 | maxSum=999999932
+(slices[1737]) currentSum=764213789 | maxSum=999999932
+(slices[1736]) currentSum=763340444 | maxSum=999999932
+(slices[1735]) currentSum=762467319 | maxSum=999999932
+(slices[1734]) currentSum=761594703 | maxSum=999999932
+(slices[1733]) currentSum=760722317 | maxSum=999999932
+(slices[1732]) currentSum=759850202 | maxSum=999999932
+(slices[1731]) currentSum=758979067 | maxSum=999999932
+(slices[1730]) currentSum=758108099 | maxSum=999999932
+(slices[1729]) currentSum=757237134 | maxSum=999999932
+(slices[1728]) currentSum=756366270 | maxSum=999999932
+(slices[1727]) currentSum=755495862 | maxSum=999999932
+(slices[1726]) currentSum=754625684 | maxSum=999999932
+(slices[1725]) currentSum=753755940 | maxSum=999999932
+(slices[1724]) currentSum=752886255 | maxSum=999999932
+(slices[1723]) currentSum=752017242 | maxSum=999999932
+(slices[1722]) currentSum=751150406 | maxSum=999999932
+(slices[1721]) currentSum=750284510 | maxSum=999999932
+(slices[1720]) currentSum=749419461 | maxSum=999999932
+(slices[1719]) currentSum=748554661 | maxSum=999999932
+(slices[1718]) currentSum=747690332 | maxSum=999999932
+(slices[1717]) currentSum=746826055 | maxSum=999999932
+(slices[1716]) currentSum=745962130 | maxSum=999999932
+(slices[1715]) currentSum=745099712 | maxSum=999999932
+(slices[1714]) currentSum=744237385 | maxSum=999999932
+(slices[1713]) currentSum=743375284 | maxSum=999999932
+(slices[1712]) currentSum=742513511 | maxSum=999999932
+(slices[1711]) currentSum=741652138 | maxSum=999999932
+(slices[1710]) currentSum=740791471 | maxSum=999999932
+(slices[1709]) currentSum=739931012 | maxSum=999999932
+(slices[1708]) currentSum=739070567 | maxSum=999999932
+(slices[1707]) currentSum=738211417 | maxSum=999999932
+(slices[1706]) currentSum=737353187 | maxSum=999999932
+(slices[1705]) currentSum=736496341 | maxSum=999999932
+(slices[1704]) currentSum=735640037 | maxSum=999999932
+(slices[1703]) currentSum=734784324 | maxSum=999999932
+(slices[1702]) currentSum=733929677 | maxSum=999999932
+(slices[1701]) currentSum=733075829 | maxSum=999999932
+(slices[1700]) currentSum=732222693 | maxSum=999999932
+(slices[1699]) currentSum=731370095 | maxSum=999999932
+(slices[1698]) currentSum=730519221 | maxSum=999999932
+(slices[1697]) currentSum=729668626 | maxSum=999999932
+(slices[1696]) currentSum=728818420 | maxSum=999999932
+(slices[1695]) currentSum=727968237 | maxSum=999999932
+(slices[1694]) currentSum=727119437 | maxSum=999999932
+(slices[1693]) currentSum=726271928 | maxSum=999999932
+(slices[1692]) currentSum=725424605 | maxSum=999999932
+(slices[1691]) currentSum=724577833 | maxSum=999999932
+(slices[1690]) currentSum=723731447 | maxSum=999999932
+(slices[1689]) currentSum=722885091 | maxSum=999999932
+(slices[1688]) currentSum=722039076 | maxSum=999999932
+(slices[1687]) currentSum=721193283 | maxSum=999999932
+(slices[1686]) currentSum=720347545 | maxSum=999999932
+(slices[1685]) currentSum=719501830 | maxSum=999999932
+(slices[1684]) currentSum=718656817 | maxSum=999999932
+(slices[1683]) currentSum=717812109 | maxSum=999999932
+(slices[1682]) currentSum=716967907 | maxSum=999999932
+(slices[1681]) currentSum=716124138 | maxSum=999999932
+(slices[1680]) currentSum=715280416 | maxSum=999999932
+(slices[1679]) currentSum=714437067 | maxSum=999999932
+(slices[1678]) currentSum=713593846 | maxSum=999999932
+(slices[1677]) currentSum=712750839 | maxSum=999999932
+(slices[1676]) currentSum=711909584 | maxSum=999999932
+(slices[1675]) currentSum=711068647 | maxSum=999999932
+(slices[1674]) currentSum=710228250 | maxSum=999999932
+(slices[1673]) currentSum=709388717 | maxSum=999999932
+(slices[1672]) currentSum=708549924 | maxSum=999999932
+(slices[1671]) currentSum=707711151 | maxSum=999999932
+(slices[1670]) currentSum=706872959 | maxSum=999999932
+(slices[1669]) currentSum=706035243 | maxSum=999999932
+(slices[1668]) currentSum=705197890 | maxSum=999999932
+(slices[1667]) currentSum=704360927 | maxSum=999999932
+(slices[1666]) currentSum=703524289 | maxSum=999999932
+(slices[1665]) currentSum=702689334 | maxSum=999999932
+(slices[1664]) currentSum=701854467 | maxSum=999999932
+(slices[1663]) currentSum=701019622 | maxSum=999999932
+(slices[1662]) currentSum=700184879 | maxSum=999999932
+(slices[1661]) currentSum=699350848 | maxSum=999999932
+(slices[1660]) currentSum=698518506 | maxSum=999999932
+(slices[1659]) currentSum=697687005 | maxSum=999999932
+(slices[1658]) currentSum=696855823 | maxSum=999999932
+(slices[1657]) currentSum=696024756 | maxSum=999999932
+(slices[1656]) currentSum=695193821 | maxSum=999999932
+(slices[1655]) currentSum=694363215 | maxSum=999999932
+(slices[1654]) currentSum=693533481 | maxSum=999999932
+(slices[1653]) currentSum=692704279 | maxSum=999999932
+(slices[1652]) currentSum=691875138 | maxSum=999999932
+(slices[1651]) currentSum=691046706 | maxSum=999999932
+(slices[1650]) currentSum=690218297 | maxSum=999999932
+(slices[1649]) currentSum=689391294 | maxSum=999999932
+(slices[1648]) currentSum=688564325 | maxSum=999999932
+(slices[1647]) currentSum=687737544 | maxSum=999999932
+(slices[1646]) currentSum=686911396 | maxSum=999999932
+(slices[1645]) currentSum=686085364 | maxSum=999999932
+(slices[1644]) currentSum=685259691 | maxSum=999999932
+(slices[1643]) currentSum=684434434 | maxSum=999999932
+(slices[1642]) currentSum=683609370 | maxSum=999999932
+(slices[1641]) currentSum=682784601 | maxSum=999999932
+(slices[1640]) currentSum=681959921 | maxSum=999999932
+(slices[1639]) currentSum=681135943 | maxSum=999999932
+(slices[1638]) currentSum=680312625 | maxSum=999999932
+(slices[1637]) currentSum=679489841 | maxSum=999999932
+(slices[1636]) currentSum=678667633 | maxSum=999999932
+(slices[1635]) currentSum=677846168 | maxSum=999999932
+(slices[1634]) currentSum=677025465 | maxSum=999999932
+(slices[1633]) currentSum=676205023 | maxSum=999999932
+(slices[1632]) currentSum=675385484 | maxSum=999999932
+(slices[1631]) currentSum=674566251 | maxSum=999999932
+(slices[1630]) currentSum=673748189 | maxSum=999999932
+(slices[1629]) currentSum=672931689 | maxSum=999999932
+(slices[1628]) currentSum=672115406 | maxSum=999999932
+(slices[1627]) currentSum=671299237 | maxSum=999999932
+(slices[1626]) currentSum=670483377 | maxSum=999999932
+(slices[1625]) currentSum=669667753 | maxSum=999999932
+(slices[1624]) currentSum=668852251 | maxSum=999999932
+(slices[1623]) currentSum=668038506 | maxSum=999999932
+(slices[1622]) currentSum=667225032 | maxSum=999999932
+(slices[1621]) currentSum=666411608 | maxSum=999999932
+(slices[1620]) currentSum=665598340 | maxSum=999999932
+(slices[1619]) currentSum=664786019 | maxSum=999999932
+(slices[1618]) currentSum=663973984 | maxSum=999999932
+(slices[1617]) currentSum=663163042 | maxSum=999999932
+(slices[1616]) currentSum=662352371 | maxSum=999999932
+(slices[1615]) currentSum=661542112 | maxSum=999999932
+(slices[1614]) currentSum=660731986 | maxSum=999999932
+(slices[1613]) currentSum=659921931 | maxSum=999999932
+(slices[1612]) currentSum=659113303 | maxSum=999999932
+(slices[1611]) currentSum=658305801 | maxSum=999999932
+(slices[1610]) currentSum=657498561 | maxSum=999999932
+(slices[1609]) currentSum=656692576 | maxSum=999999932
+(slices[1608]) currentSum=655886706 | maxSum=999999932
+(slices[1607]) currentSum=655081020 | maxSum=999999932
+(slices[1606]) currentSum=654276218 | maxSum=999999932
+(slices[1605]) currentSum=653472017 | maxSum=999999932
+(slices[1604]) currentSum=652668931 | maxSum=999999932
+(slices[1603]) currentSum=651865867 | maxSum=999999932
+(slices[1602]) currentSum=651063032 | maxSum=999999932
+(slices[1601]) currentSum=650260656 | maxSum=999999932
+(slices[1600]) currentSum=649458696 | maxSum=999999932
+(slices[1599]) currentSum=648657068 | maxSum=999999932
+(slices[1598]) currentSum=647856436 | maxSum=999999932
+(slices[1597]) currentSum=647056208 | maxSum=999999932
+(slices[1596]) currentSum=646256228 | maxSum=999999932
+(slices[1595]) currentSum=645456390 | maxSum=999999932
+(slices[1594]) currentSum=644656789 | maxSum=999999932
+(slices[1593]) currentSum=643857525 | maxSum=999999932
+(slices[1592]) currentSum=643058499 | maxSum=999999932
+(slices[1591]) currentSum=642260241 | maxSum=999999932
+(slices[1590]) currentSum=641462641 | maxSum=999999932
+(slices[1589]) currentSum=640665149 | maxSum=999999932
+(slices[1588]) currentSum=639867793 | maxSum=999999932
+(slices[1587]) currentSum=639070607 | maxSum=999999932
+(slices[1586]) currentSum=638273649 | maxSum=999999932
+(slices[1585]) currentSum=637477308 | maxSum=999999932
+(slices[1584]) currentSum=636681590 | maxSum=999999932
+(slices[1583]) currentSum=635886546 | maxSum=999999932
+(slices[1582]) currentSum=635093307 | maxSum=999999932
+(slices[1581]) currentSum=634300251 | maxSum=999999932
+(slices[1580]) currentSum=633507705 | maxSum=999999932
+(slices[1579]) currentSum=632715374 | maxSum=999999932
+(slices[1578]) currentSum=631923371 | maxSum=999999932
+(slices[1577]) currentSum=631131383 | maxSum=999999932
+(slices[1576]) currentSum=630340462 | maxSum=999999932
+(slices[1575]) currentSum=629549626 | maxSum=999999932
+(slices[1574]) currentSum=628759405 | maxSum=999999932
+(slices[1573]) currentSum=627969279 | maxSum=999999932
+(slices[1572]) currentSum=627179869 | maxSum=999999932
+(slices[1571]) currentSum=626391279 | maxSum=999999932
+(slices[1570]) currentSum=625602841 | maxSum=999999932
+(slices[1569]) currentSum=624814495 | maxSum=999999932
+(slices[1568]) currentSum=624026819 | maxSum=999999932
+(slices[1567]) currentSum=623239325 | maxSum=999999932
+(slices[1566]) currentSum=622451922 | maxSum=999999932
+(slices[1565]) currentSum=621664940 | maxSum=999999932
+(slices[1564]) currentSum=620879005 | maxSum=999999932
+(slices[1563]) currentSum=620093546 | maxSum=999999932
+(slices[1562]) currentSum=619308100 | maxSum=999999932
+(slices[1561]) currentSum=618522710 | maxSum=999999932
+(slices[1560]) currentSum=617738184 | maxSum=999999932
+(slices[1559]) currentSum=616953824 | maxSum=999999932
+(slices[1558]) currentSum=616169517 | maxSum=999999932
+(slices[1557]) currentSum=615385640 | maxSum=999999932
+(slices[1556]) currentSum=614601799 | maxSum=999999932
+(slices[1555]) currentSum=613818448 | maxSum=999999932
+(slices[1554]) currentSum=613035356 | maxSum=999999932
+(slices[1553]) currentSum=612252481 | maxSum=999999932
+(slices[1552]) currentSum=611469886 | maxSum=999999932
+(slices[1551]) currentSum=610687666 | maxSum=999999932
+(slices[1550]) currentSum=609905729 | maxSum=999999932
+(slices[1549]) currentSum=609124309 | maxSum=999999932
+(slices[1548]) currentSum=608343081 | maxSum=999999932
+(slices[1547]) currentSum=607562151 | maxSum=999999932
+(slices[1546]) currentSum=606781259 | maxSum=999999932
+(slices[1545]) currentSum=606001429 | maxSum=999999932
+(slices[1544]) currentSum=605222140 | maxSum=999999932
+(slices[1543]) currentSum=604443122 | maxSum=999999932
+(slices[1542]) currentSum=603664591 | maxSum=999999932
+(slices[1541]) currentSum=602886215 | maxSum=999999932
+(slices[1540]) currentSum=602108173 | maxSum=999999932
+(slices[1539]) currentSum=601330375 | maxSum=999999932
+(slices[1538]) currentSum=600552752 | maxSum=999999932
+(slices[1537]) currentSum=599775465 | maxSum=999999932
+(slices[1536]) currentSum=598998768 | maxSum=999999932
+(slices[1535]) currentSum=598222678 | maxSum=999999932
+(slices[1534]) currentSum=597448144 | maxSum=999999932
+(slices[1533]) currentSum=596675253 | maxSum=999999932
+(slices[1532]) currentSum=595902859 | maxSum=999999932
+(slices[1531]) currentSum=595130562 | maxSum=999999932
+(slices[1530]) currentSum=594358800 | maxSum=999999932
+(slices[1529]) currentSum=593587273 | maxSum=999999932
+(slices[1528]) currentSum=592816459 | maxSum=999999932
+(slices[1527]) currentSum=592046089 | maxSum=999999932
+(slices[1526]) currentSum=591275824 | maxSum=999999932
+(slices[1525]) currentSum=590506333 | maxSum=999999932
+(slices[1524]) currentSum=589738348 | maxSum=999999932
+(slices[1523]) currentSum=588970837 | maxSum=999999932
+(slices[1522]) currentSum=588204250 | maxSum=999999932
+(slices[1521]) currentSum=587438209 | maxSum=999999932
+(slices[1520]) currentSum=586672770 | maxSum=999999932
+(slices[1519]) currentSum=585907540 | maxSum=999999932
+(slices[1518]) currentSum=585142945 | maxSum=999999932
+(slices[1517]) currentSum=584378403 | maxSum=999999932
+(slices[1516]) currentSum=583614418 | maxSum=999999932
+(slices[1515]) currentSum=582850780 | maxSum=999999932
+(slices[1514]) currentSum=582088835 | maxSum=999999932
+(slices[1513]) currentSum=581327465 | maxSum=999999932
+(slices[1512]) currentSum=580567632 | maxSum=999999932
+(slices[1511]) currentSum=579808185 | maxSum=999999932
+(slices[1510]) currentSum=579048775 | maxSum=999999932
+(slices[1509]) currentSum=578290234 | maxSum=999999932
+(slices[1508]) currentSum=577532646 | maxSum=999999932
+(slices[1507]) currentSum=576775427 | maxSum=999999932
+(slices[1506]) currentSum=576019055 | maxSum=999999932
+(slices[1505]) currentSum=575263056 | maxSum=999999932
+(slices[1504]) currentSum=574507274 | maxSum=999999932
+(slices[1503]) currentSum=573752170 | maxSum=999999932
+(slices[1502]) currentSum=572997402 | maxSum=999999932
+(slices[1501]) currentSum=572242712 | maxSum=999999932
+(slices[1500]) currentSum=571488284 | maxSum=999999932
+(slices[1499]) currentSum=570734020 | maxSum=999999932
+(slices[1498]) currentSum=569980340 | maxSum=999999932
+(slices[1497]) currentSum=569226984 | maxSum=999999932
+(slices[1496]) currentSum=568473681 | maxSum=999999932
+(slices[1495]) currentSum=567720390 | maxSum=999999932
+(slices[1494]) currentSum=566967552 | maxSum=999999932
+(slices[1493]) currentSum=566215031 | maxSum=999999932
+(slices[1492]) currentSum=565463567 | maxSum=999999932
+(slices[1491]) currentSum=564712535 | maxSum=999999932
+(slices[1490]) currentSum=563961684 | maxSum=999999932
+(slices[1489]) currentSum=563211886 | maxSum=999999932
+(slices[1488]) currentSum=562463629 | maxSum=999999932
+(slices[1487]) currentSum=561715997 | maxSum=999999932
+(slices[1486]) currentSum=560969526 | maxSum=999999932
+(slices[1485]) currentSum=560225214 | maxSum=999999932
+(slices[1484]) currentSum=559481948 | maxSum=999999932
+(slices[1483]) currentSum=558739486 | maxSum=999999932
+(slices[1482]) currentSum=557997210 | maxSum=999999932
+(slices[1481]) currentSum=557255493 | maxSum=999999932
+(slices[1480]) currentSum=556514146 | maxSum=999999932
+(slices[1479]) currentSum=555773361 | maxSum=999999932
+(slices[1478]) currentSum=555033365 | maxSum=999999932
+(slices[1477]) currentSum=554293637 | maxSum=999999932
+(slices[1476]) currentSum=553554101 | maxSum=999999932
+(slices[1475]) currentSum=552815253 | maxSum=999999932
+(slices[1474]) currentSum=552077119 | maxSum=999999932
+(slices[1473]) currentSum=551339353 | maxSum=999999932
+(slices[1472]) currentSum=550602167 | maxSum=999999932
+(slices[1471]) currentSum=549865120 | maxSum=999999932
+(slices[1470]) currentSum=549129158 | maxSum=999999932
+(slices[1469]) currentSum=548393715 | maxSum=999999932
+(slices[1468]) currentSum=547658321 | maxSum=999999932
+(slices[1467]) currentSum=546923026 | maxSum=999999932
+(slices[1466]) currentSum=546187843 | maxSum=999999932
+(slices[1465]) currentSum=545454069 | maxSum=999999932
+(slices[1464]) currentSum=544720576 | maxSum=999999932
+(slices[1463]) currentSum=543987278 | maxSum=999999932
+(slices[1462]) currentSum=543255059 | maxSum=999999932
+(slices[1461]) currentSum=542522956 | maxSum=999999932
+(slices[1460]) currentSum=541791525 | maxSum=999999932
+(slices[1459]) currentSum=541060179 | maxSum=999999932
+(slices[1458]) currentSum=540329052 | maxSum=999999932
+(slices[1457]) currentSum=539597942 | maxSum=999999932
+(slices[1456]) currentSum=538867462 | maxSum=999999932
+(slices[1455]) currentSum=538137095 | maxSum=999999932
+(slices[1454]) currentSum=537406864 | maxSum=999999932
+(slices[1453]) currentSum=536677097 | maxSum=999999932
+(slices[1452]) currentSum=535947738 | maxSum=999999932
+(slices[1451]) currentSum=535219975 | maxSum=999999932
+(slices[1450]) currentSum=534492265 | maxSum=999999932
+(slices[1449]) currentSum=533764845 | maxSum=999999932
+(slices[1448]) currentSum=533038441 | maxSum=999999932
+(slices[1447]) currentSum=532312999 | maxSum=999999932
+(slices[1446]) currentSum=531588362 | maxSum=999999932
+(slices[1445]) currentSum=530864150 | maxSum=999999932
+(slices[1444]) currentSum=530139943 | maxSum=999999932
+(slices[1443]) currentSum=529416046 | maxSum=999999932
+(slices[1442]) currentSum=528692184 | maxSum=999999932
+(slices[1441]) currentSum=527968445 | maxSum=999999932
+(slices[1440]) currentSum=527245016 | maxSum=999999932
+(slices[1439]) currentSum=526522107 | maxSum=999999932
+(slices[1438]) currentSum=525799925 | maxSum=999999932
+(slices[1437]) currentSum=525078284 | maxSum=999999932
+(slices[1436]) currentSum=524357209 | maxSum=999999932
+(slices[1435]) currentSum=523636266 | maxSum=999999932
+(slices[1434]) currentSum=522915440 | maxSum=999999932
+(slices[1433]) currentSum=522195168 | maxSum=999999932
+(slices[1432]) currentSum=521475321 | maxSum=999999932
+(slices[1431]) currentSum=520756158 | maxSum=999999932
+(slices[1430]) currentSum=520037120 | maxSum=999999932
+(slices[1429]) currentSum=519319199 | maxSum=999999932
+(slices[1428]) currentSum=518601504 | maxSum=999999932
+(slices[1427]) currentSum=517883956 | maxSum=999999932
+(slices[1426]) currentSum=517167154 | maxSum=999999932
+(slices[1425]) currentSum=516450785 | maxSum=999999932
+(slices[1424]) currentSum=515735536 | maxSum=999999932
+(slices[1423]) currentSum=515020566 | maxSum=999999932
+(slices[1422]) currentSum=514305690 | maxSum=999999932
+(slices[1421]) currentSum=513591711 | maxSum=999999932
+(slices[1420]) currentSum=512878124 | maxSum=999999932
+(slices[1419]) currentSum=512164745 | maxSum=999999932
+(slices[1418]) currentSum=511452168 | maxSum=999999932
+(slices[1417]) currentSum=510739986 | maxSum=999999932
+(slices[1416]) currentSum=510029248 | maxSum=999999932
+(slices[1415]) currentSum=509318671 | maxSum=999999932
+(slices[1414]) currentSum=508608370 | maxSum=999999932
+(slices[1413]) currentSum=507898100 | maxSum=999999932
+(slices[1412]) currentSum=507188479 | maxSum=999999932
+(slices[1411]) currentSum=506479252 | maxSum=999999932
+(slices[1410]) currentSum=505770755 | maxSum=999999932
+(slices[1409]) currentSum=505062693 | maxSum=999999932
+(slices[1408]) currentSum=504355025 | maxSum=999999932
+(slices[1407]) currentSum=503647808 | maxSum=999999932
+(slices[1406]) currentSum=502940642 | maxSum=999999932
+(slices[1405]) currentSum=502233538 | maxSum=999999932
+(slices[1404]) currentSum=501527414 | maxSum=999999932
+(slices[1403]) currentSum=500821852 | maxSum=999999932
+(slices[1402]) currentSum=500116324 | maxSum=999999932
+(slices[1401]) currentSum=499411273 | maxSum=999999932
+(slices[1400]) currentSum=498706284 | maxSum=999999932
+(slices[1399]) currentSum=498001915 | maxSum=999999932
+(slices[1398]) currentSum=497297550 | maxSum=999999932
+(slices[1397]) currentSum=496594295 | maxSum=999999932
+(slices[1396]) currentSum=495891189 | maxSum=999999932
+(slices[1395]) currentSum=495188409 | maxSum=999999932
+(slices[1394]) currentSum=494485673 | maxSum=999999932
+(slices[1393]) currentSum=493783174 | maxSum=999999932
+(slices[1392]) currentSum=493080865 | maxSum=999999932
+(slices[1391]) currentSum=492378836 | maxSum=999999932
+(slices[1390]) currentSum=491677311 | maxSum=999999932
+(slices[1389]) currentSum=490975896 | maxSum=999999932
+(slices[1388]) currentSum=490275199 | maxSum=999999932
+(slices[1387]) currentSum=489574843 | maxSum=999999932
+(slices[1386]) currentSum=488874787 | maxSum=999999932
+(slices[1385]) currentSum=488175406 | maxSum=999999932
+(slices[1384]) currentSum=487476068 | maxSum=999999932
+(slices[1383]) currentSum=486776784 | maxSum=999999932
+(slices[1382]) currentSum=486079504 | maxSum=999999932
+(slices[1381]) currentSum=485382950 | maxSum=999999932
+(slices[1380]) currentSum=484686687 | maxSum=999999932
+(slices[1379]) currentSum=483990535 | maxSum=999999932
+(slices[1378]) currentSum=483294556 | maxSum=999999932
+(slices[1377]) currentSum=482598892 | maxSum=999999932
+(slices[1376]) currentSum=481903229 | maxSum=999999932
+(slices[1375]) currentSum=481207973 | maxSum=999999932
+(slices[1374]) currentSum=480512959 | maxSum=999999932
+(slices[1373]) currentSum=479818139 | maxSum=999999932
+(slices[1372]) currentSum=479124066 | maxSum=999999932
+(slices[1371]) currentSum=478430360 | maxSum=999999932
+(slices[1370]) currentSum=477736925 | maxSum=999999932
+(slices[1369]) currentSum=477043574 | maxSum=999999932
+(slices[1368]) currentSum=476350354 | maxSum=999999932
+(slices[1367]) currentSum=475657794 | maxSum=999999932
+(slices[1366]) currentSum=474965649 | maxSum=999999932
+(slices[1365]) currentSum=474273600 | maxSum=999999932
+(slices[1364]) currentSum=473581751 | maxSum=999999932
+(slices[1363]) currentSum=472890499 | maxSum=999999932
+(slices[1362]) currentSum=472199455 | maxSum=999999932
+(slices[1361]) currentSum=471508549 | maxSum=999999932
+(slices[1360]) currentSum=470818295 | maxSum=999999932
+(slices[1359]) currentSum=470128638 | maxSum=999999932
+(slices[1358]) currentSum=469439282 | maxSum=999999932
+(slices[1357]) currentSum=468751305 | maxSum=999999932
+(slices[1356]) currentSum=468063977 | maxSum=999999932
+(slices[1355]) currentSum=467377191 | maxSum=999999932
+(slices[1354]) currentSum=466690553 | maxSum=999999932
+(slices[1353]) currentSum=466003994 | maxSum=999999932
+(slices[1352]) currentSum=465318200 | maxSum=999999932
+(slices[1351]) currentSum=464632952 | maxSum=999999932
+(slices[1350]) currentSum=463949078 | maxSum=999999932
+(slices[1349]) currentSum=463265336 | maxSum=999999932
+(slices[1348]) currentSum=462581871 | maxSum=999999932
+(slices[1347]) currentSum=461898663 | maxSum=999999932
+(slices[1346]) currentSum=461216558 | maxSum=999999932
+(slices[1345]) currentSum=460534782 | maxSum=999999932
+(slices[1344]) currentSum=459853278 | maxSum=999999932
+(slices[1343]) currentSum=459171781 | maxSum=999999932
+(slices[1342]) currentSum=458490327 | maxSum=999999932
+(slices[1341]) currentSum=457809500 | maxSum=999999932
+(slices[1340]) currentSum=457129935 | maxSum=999999932
+(slices[1339]) currentSum=456450712 | maxSum=999999932
+(slices[1338]) currentSum=455771549 | maxSum=999999932
+(slices[1337]) currentSum=455092404 | maxSum=999999932
+(slices[1336]) currentSum=454413355 | maxSum=999999932
+(slices[1335]) currentSum=453735567 | maxSum=999999932
+(slices[1334]) currentSum=453057948 | maxSum=999999932
+(slices[1333]) currentSum=452380619 | maxSum=999999932
+(slices[1332]) currentSum=451703712 | maxSum=999999932
+(slices[1331]) currentSum=451027512 | maxSum=999999932
+(slices[1330]) currentSum=450353382 | maxSum=999999932
+(slices[1329]) currentSum=449679360 | maxSum=999999932
+(slices[1328]) currentSum=449006434 | maxSum=999999932
+(slices[1327]) currentSum=448333741 | maxSum=999999932
+(slices[1326]) currentSum=447661593 | maxSum=999999932
+(slices[1325]) currentSum=446990454 | maxSum=999999932
+(slices[1324]) currentSum=446319847 | maxSum=999999932
+(slices[1323]) currentSum=445649309 | maxSum=999999932
+(slices[1322]) currentSum=444979271 | maxSum=999999932
+(slices[1321]) currentSum=444309245 | maxSum=999999932
+(slices[1320]) currentSum=443639627 | maxSum=999999932
+(slices[1319]) currentSum=442970685 | maxSum=999999932
+(slices[1318]) currentSum=442301780 | maxSum=999999932
+(slices[1317]) currentSum=441633093 | maxSum=999999932
+(slices[1316]) currentSum=440964981 | maxSum=999999932
+(slices[1315]) currentSum=440297388 | maxSum=999999932
+(slices[1314]) currentSum=439630774 | maxSum=999999932
+(slices[1313]) currentSum=438964264 | maxSum=999999932
+(slices[1312]) currentSum=438297944 | maxSum=999999932
+(slices[1311]) currentSum=437632071 | maxSum=999999932
+(slices[1310]) currentSum=436966400 | maxSum=999999932
+(slices[1309]) currentSum=436301254 | maxSum=999999932
+(slices[1308]) currentSum=435636157 | maxSum=999999932
+(slices[1307]) currentSum=434971574 | maxSum=999999932
+(slices[1306]) currentSum=434307837 | maxSum=999999932
+(slices[1305]) currentSum=433645966 | maxSum=999999932
+(slices[1304]) currentSum=432984156 | maxSum=999999932
+(slices[1303]) currentSum=432323479 | maxSum=999999932
+(slices[1302]) currentSum=431663072 | maxSum=999999932
+(slices[1301]) currentSum=431003000 | maxSum=999999932
+(slices[1300]) currentSum=430343773 | maxSum=999999932
+(slices[1299]) currentSum=429684957 | maxSum=999999932
+(slices[1298]) currentSum=429026969 | maxSum=999999932
+(slices[1297]) currentSum=428368994 | maxSum=999999932
+(slices[1296]) currentSum=427711232 | maxSum=999999932
+(slices[1295]) currentSum=427053935 | maxSum=999999932
+(slices[1294]) currentSum=426396691 | maxSum=999999932
+(slices[1293]) currentSum=425740740 | maxSum=999999932
+(slices[1292]) currentSum=425084901 | maxSum=999999932
+(slices[1291]) currentSum=424429176 | maxSum=999999932
+(slices[1290]) currentSum=423773705 | maxSum=999999932
+(slices[1289]) currentSum=423120120 | maxSum=999999932
+(slices[1288]) currentSum=422466644 | maxSum=999999932
+(slices[1287]) currentSum=421813715 | maxSum=999999932
+(slices[1286]) currentSum=421161181 | maxSum=999999932
+(slices[1285]) currentSum=420509613 | maxSum=999999932
+(slices[1284]) currentSum=419858230 | maxSum=999999932
+(slices[1283]) currentSum=419206985 | maxSum=999999932
+(slices[1282]) currentSum=418555883 | maxSum=999999932
+(slices[1281]) currentSum=417905022 | maxSum=999999932
+(slices[1280]) currentSum=417255158 | maxSum=999999932
+(slices[1279]) currentSum=416605466 | maxSum=999999932
+(slices[1278]) currentSum=415955947 | maxSum=999999932
+(slices[1277]) currentSum=415306554 | maxSum=999999932
+(slices[1276]) currentSum=414657939 | maxSum=999999932
+(slices[1275]) currentSum=414009430 | maxSum=999999932
+(slices[1274]) currentSum=413361926 | maxSum=999999932
+(slices[1273]) currentSum=412716045 | maxSum=999999932
+(slices[1272]) currentSum=412070436 | maxSum=999999932
+(slices[1271]) currentSum=411424971 | maxSum=999999932
+(slices[1270]) currentSum=410782508 | maxSum=999999932
+(slices[1269]) currentSum=410141067 | maxSum=999999932
+(slices[1268]) currentSum=409500049 | maxSum=999999932
+(slices[1267]) currentSum=408860019 | maxSum=999999932
+(slices[1266]) currentSum=408220251 | maxSum=999999932
+(slices[1265]) currentSum=407580956 | maxSum=999999932
+(slices[1264]) currentSum=406941807 | maxSum=999999932
+(slices[1263]) currentSum=406303036 | maxSum=999999932
+(slices[1262]) currentSum=405664434 | maxSum=999999932
+(slices[1261]) currentSum=405025935 | maxSum=999999932
+(slices[1260]) currentSum=404389139 | maxSum=999999932
+(slices[1259]) currentSum=403752535 | maxSum=999999932
+(slices[1258]) currentSum=403116354 | maxSum=999999932
+(slices[1257]) currentSum=402480244 | maxSum=999999932
+(slices[1256]) currentSum=401844330 | maxSum=999999932
+(slices[1255]) currentSum=401208509 | maxSum=999999932
+(slices[1254]) currentSum=400572802 | maxSum=999999932
+(slices[1253]) currentSum=399937427 | maxSum=999999932
+(slices[1252]) currentSum=399303166 | maxSum=999999932
+(slices[1251]) currentSum=398670063 | maxSum=999999932
+(slices[1250]) currentSum=398036973 | maxSum=999999932
+(slices[1249]) currentSum=397404366 | maxSum=999999932
+(slices[1248]) currentSum=396773053 | maxSum=999999932
+(slices[1247]) currentSum=396143425 | maxSum=999999932
+(slices[1246]) currentSum=395514882 | maxSum=999999932
+(slices[1245]) currentSum=394886793 | maxSum=999999932
+(slices[1244]) currentSum=394259656 | maxSum=999999932
+(slices[1243]) currentSum=393633453 | maxSum=999999932
+(slices[1242]) currentSum=393007622 | maxSum=999999932
+(slices[1241]) currentSum=392382021 | maxSum=999999932
+(slices[1240]) currentSum=391756590 | maxSum=999999932
+(slices[1239]) currentSum=391131426 | maxSum=999999932
+(slices[1238]) currentSum=390506291 | maxSum=999999932
+(slices[1237]) currentSum=389881308 | maxSum=999999932
+(slices[1236]) currentSum=389256423 | maxSum=999999932
+(slices[1235]) currentSum=388631995 | maxSum=999999932
+(slices[1234]) currentSum=388007996 | maxSum=999999932
+(slices[1233]) currentSum=387384006 | maxSum=999999932
+(slices[1232]) currentSum=386760557 | maxSum=999999932
+(slices[1231]) currentSum=386137850 | maxSum=999999932
+(slices[1230]) currentSum=385515296 | maxSum=999999932
+(slices[1229]) currentSum=384893991 | maxSum=999999932
+(slices[1228]) currentSum=384273081 | maxSum=999999932
+(slices[1227]) currentSum=383652386 | maxSum=999999932
+(slices[1226]) currentSum=383033159 | maxSum=999999932
+(slices[1225]) currentSum=382414259 | maxSum=999999932
+(slices[1224]) currentSum=381795769 | maxSum=999999932
+(slices[1223]) currentSum=381177492 | maxSum=999999932
+(slices[1222]) currentSum=380559552 | maxSum=999999932
+(slices[1221]) currentSum=379942044 | maxSum=999999932
+(slices[1220]) currentSum=379324880 | maxSum=999999932
+(slices[1219]) currentSum=378707805 | maxSum=999999932
+(slices[1218]) currentSum=378090868 | maxSum=999999932
+(slices[1217]) currentSum=377474704 | maxSum=999999932
+(slices[1216]) currentSum=376858783 | maxSum=999999932
+(slices[1215]) currentSum=376243089 | maxSum=999999932
+(slices[1214]) currentSum=375627590 | maxSum=999999932
+(slices[1213]) currentSum=375012672 | maxSum=999999932
+(slices[1212]) currentSum=374398859 | maxSum=999999932
+(slices[1211]) currentSum=373785826 | maxSum=999999932
+(slices[1210]) currentSum=373172820 | maxSum=999999932
+(slices[1209]) currentSum=372560215 | maxSum=999999932
+(slices[1208]) currentSum=371947713 | maxSum=999999932
+(slices[1207]) currentSum=371335638 | maxSum=999999932
+(slices[1206]) currentSum=370723709 | maxSum=999999932
+(slices[1205]) currentSum=370112174 | maxSum=999999932
+(slices[1204]) currentSum=369501318 | maxSum=999999932
+(slices[1203]) currentSum=368891462 | maxSum=999999932
+(slices[1202]) currentSum=368282619 | maxSum=999999932
+(slices[1201]) currentSum=367674410 | maxSum=999999932
+(slices[1200]) currentSum=367066266 | maxSum=999999932
+(slices[1199]) currentSum=366458488 | maxSum=999999932
+(slices[1198]) currentSum=365851123 | maxSum=999999932
+(slices[1197]) currentSum=365244032 | maxSum=999999932
+(slices[1196]) currentSum=364637187 | maxSum=999999932
+(slices[1195]) currentSum=364031739 | maxSum=999999932
+(slices[1194]) currentSum=363426638 | maxSum=999999932
+(slices[1193]) currentSum=362821991 | maxSum=999999932
+(slices[1192]) currentSum=362217702 | maxSum=999999932
+(slices[1191]) currentSum=361613450 | maxSum=999999932
+(slices[1190]) currentSum=361009633 | maxSum=999999932
+(slices[1189]) currentSum=360405927 | maxSum=999999932
+(slices[1188]) currentSum=359802242 | maxSum=999999932
+(slices[1187]) currentSum=359199052 | maxSum=999999932
+(slices[1186]) currentSum=358596268 | maxSum=999999932
+(slices[1185]) currentSum=357994268 | maxSum=999999932
+(slices[1184]) currentSum=357394513 | maxSum=999999932
+(slices[1183]) currentSum=356794889 | maxSum=999999932
+(slices[1182]) currentSum=356196056 | maxSum=999999932
+(slices[1181]) currentSum=355598475 | maxSum=999999932
+(slices[1180]) currentSum=355001077 | maxSum=999999932
+(slices[1179]) currentSum=354404170 | maxSum=999999932
+(slices[1178]) currentSum=353807369 | maxSum=999999932
+(slices[1177]) currentSum=353211067 | maxSum=999999932
+(slices[1176]) currentSum=352616100 | maxSum=999999932
+(slices[1175]) currentSum=352021318 | maxSum=999999932
+(slices[1174]) currentSum=351427844 | maxSum=999999932
+(slices[1173]) currentSum=350834374 | maxSum=999999932
+(slices[1172]) currentSum=350240905 | maxSum=999999932
+(slices[1171]) currentSum=349648171 | maxSum=999999932
+(slices[1170]) currentSum=349056118 | maxSum=999999932
+(slices[1169]) currentSum=348464260 | maxSum=999999932
+(slices[1168]) currentSum=347872845 | maxSum=999999932
+(slices[1167]) currentSum=347282453 | maxSum=999999932
+(slices[1166]) currentSum=346692222 | maxSum=999999932
+(slices[1165]) currentSum=346103493 | maxSum=999999932
+(slices[1164]) currentSum=345514805 | maxSum=999999932
+(slices[1163]) currentSum=344926246 | maxSum=999999932
+(slices[1162]) currentSum=344338042 | maxSum=999999932
+(slices[1161]) currentSum=343750911 | maxSum=999999932
+(slices[1160]) currentSum=343164785 | maxSum=999999932
+(slices[1159]) currentSum=342579553 | maxSum=999999932
+(slices[1158]) currentSum=341995020 | maxSum=999999932
+(slices[1157]) currentSum=341410585 | maxSum=999999932
+(slices[1156]) currentSum=340826530 | maxSum=999999932
+(slices[1155]) currentSum=340243690 | maxSum=999999932
+(slices[1154]) currentSum=339660874 | maxSum=999999932
+(slices[1153]) currentSum=339078679 | maxSum=999999932
+(slices[1152]) currentSum=338497086 | maxSum=999999932
+(slices[1151]) currentSum=337915692 | maxSum=999999932
+(slices[1150]) currentSum=337334513 | maxSum=999999932
+(slices[1149]) currentSum=336753634 | maxSum=999999932
+(slices[1148]) currentSum=336173225 | maxSum=999999932
+(slices[1147]) currentSum=335592936 | maxSum=999999932
+(slices[1146]) currentSum=335012786 | maxSum=999999932
+(slices[1145]) currentSum=334432638 | maxSum=999999932
+(slices[1144]) currentSum=333853223 | maxSum=999999932
+(slices[1143]) currentSum=333274095 | maxSum=999999932
+(slices[1142]) currentSum=332695188 | maxSum=999999932
+(slices[1141]) currentSum=332116332 | maxSum=999999932
+(slices[1140]) currentSum=331537554 | maxSum=999999932
+(slices[1139]) currentSum=330959025 | maxSum=999999932
+(slices[1138]) currentSum=330380931 | maxSum=999999932
+(slices[1137]) currentSum=329803284 | maxSum=999999932
+(slices[1136]) currentSum=329226109 | maxSum=999999932
+(slices[1135]) currentSum=328649001 | maxSum=999999932
+(slices[1134]) currentSum=328072132 | maxSum=999999932
+(slices[1133]) currentSum=327495571 | maxSum=999999932
+(slices[1132]) currentSum=326919622 | maxSum=999999932
+(slices[1131]) currentSum=326345018 | maxSum=999999932
+(slices[1130]) currentSum=325770482 | maxSum=999999932
+(slices[1129]) currentSum=325197282 | maxSum=999999932
+(slices[1128]) currentSum=324624570 | maxSum=999999932
+(slices[1127]) currentSum=324052427 | maxSum=999999932
+(slices[1126]) currentSum=323480518 | maxSum=999999932
+(slices[1125]) currentSum=322909055 | maxSum=999999932
+(slices[1124]) currentSum=322337989 | maxSum=999999932
+(slices[1123]) currentSum=321767025 | maxSum=999999932
+(slices[1122]) currentSum=321197147 | maxSum=999999932
+(slices[1121]) currentSum=320627491 | maxSum=999999932
+(slices[1120]) currentSum=320058471 | maxSum=999999932
+(slices[1119]) currentSum=319489470 | maxSum=999999932
+(slices[1118]) currentSum=318920887 | maxSum=999999932
+(slices[1117]) currentSum=318353540 | maxSum=999999932
+(slices[1116]) currentSum=317786642 | maxSum=999999932
+(slices[1115]) currentSum=317220135 | maxSum=999999932
+(slices[1114]) currentSum=316653652 | maxSum=999999932
+(slices[1113]) currentSum=316087211 | maxSum=999999932
+(slices[1112]) currentSum=315520949 | maxSum=999999932
+(slices[1111]) currentSum=314955277 | maxSum=999999932
+(slices[1110]) currentSum=314389616 | maxSum=999999932
+(slices[1109]) currentSum=313823986 | maxSum=999999932
+(slices[1108]) currentSum=313258443 | maxSum=999999932
+(slices[1107]) currentSum=312692965 | maxSum=999999932
+(slices[1106]) currentSum=312127756 | maxSum=999999932
+(slices[1105]) currentSum=311562963 | maxSum=999999932
+(slices[1104]) currentSum=310998305 | maxSum=999999932
+(slices[1103]) currentSum=310433889 | maxSum=999999932
+(slices[1102]) currentSum=309869523 | maxSum=999999932
+(slices[1101]) currentSum=309305722 | maxSum=999999932
+(slices[1100]) currentSum=308742013 | maxSum=999999932
+(slices[1099]) currentSum=308178908 | maxSum=999999932
+(slices[1098]) currentSum=307616221 | maxSum=999999932
+(slices[1097]) currentSum=307053834 | maxSum=999999932
+(slices[1096]) currentSum=306491508 | maxSum=999999932
+(slices[1095]) currentSum=305929195 | maxSum=999999932
+(slices[1094]) currentSum=305367250 | maxSum=999999932
+(slices[1093]) currentSum=304807113 | maxSum=999999932
+(slices[1092]) currentSum=304246981 | maxSum=999999932
+(slices[1091]) currentSum=303686861 | maxSum=999999932
+(slices[1090]) currentSum=303127267 | maxSum=999999932
+(slices[1089]) currentSum=302568593 | maxSum=999999932
+(slices[1088]) currentSum=302009960 | maxSum=999999932
+(slices[1087]) currentSum=301452941 | maxSum=999999932
+(slices[1086]) currentSum=300895958 | maxSum=999999932
+(slices[1085]) currentSum=300338981 | maxSum=999999932
+(slices[1084]) currentSum=299782219 | maxSum=999999932
+(slices[1083]) currentSum=299225529 | maxSum=999999932
+(slices[1082]) currentSum=298669362 | maxSum=999999932
+(slices[1081]) currentSum=298114495 | maxSum=999999932
+(slices[1080]) currentSum=297559810 | maxSum=999999932
+(slices[1079]) currentSum=297006453 | maxSum=999999932
+(slices[1078]) currentSum=296454762 | maxSum=999999932
+(slices[1077]) currentSum=295903212 | maxSum=999999932
+(slices[1076]) currentSum=295353040 | maxSum=999999932
+(slices[1075]) currentSum=294804812 | maxSum=999999932
+(slices[1074]) currentSum=294256804 | maxSum=999999932
+(slices[1073]) currentSum=293709662 | maxSum=999999932
+(slices[1072]) currentSum=293162989 | maxSum=999999932
+(slices[1071]) currentSum=292617763 | maxSum=999999932
+(slices[1070]) currentSum=292073539 | maxSum=999999932
+(slices[1069]) currentSum=291529865 | maxSum=999999932
+(slices[1068]) currentSum=290986696 | maxSum=999999932
+(slices[1067]) currentSum=290443928 | maxSum=999999932
+(slices[1066]) currentSum=289902155 | maxSum=999999932
+(slices[1065]) currentSum=289361614 | maxSum=999999932
+(slices[1064]) currentSum=288821970 | maxSum=999999932
+(slices[1063]) currentSum=288282788 | maxSum=999999932
+(slices[1062]) currentSum=287744568 | maxSum=999999932
+(slices[1061]) currentSum=287208252 | maxSum=999999932
+(slices[1060]) currentSum=286672197 | maxSum=999999932
+(slices[1059]) currentSum=286137869 | maxSum=999999932
+(slices[1058]) currentSum=285603668 | maxSum=999999932
+(slices[1057]) currentSum=285070027 | maxSum=999999932
+(slices[1056]) currentSum=284537047 | maxSum=999999932
+(slices[1055]) currentSum=284004500 | maxSum=999999932
+(slices[1054]) currentSum=283472048 | maxSum=999999932
+(slices[1053]) currentSum=282939655 | maxSum=999999932
+(slices[1052]) currentSum=282407281 | maxSum=999999932
+(slices[1051]) currentSum=281875474 | maxSum=999999932
+(slices[1050]) currentSum=281344885 | maxSum=999999932
+(slices[1049]) currentSum=280814376 | maxSum=999999932
+(slices[1048]) currentSum=280284366 | maxSum=999999932
+(slices[1047]) currentSum=279754412 | maxSum=999999932
+(slices[1046]) currentSum=279225063 | maxSum=999999932
+(slices[1045]) currentSum=278696699 | maxSum=999999932
+(slices[1044]) currentSum=278169372 | maxSum=999999932
+(slices[1043]) currentSum=277642631 | maxSum=999999932
+(slices[1042]) currentSum=277116411 | maxSum=999999932
+(slices[1041]) currentSum=276591458 | maxSum=999999932
+(slices[1040]) currentSum=276066624 | maxSum=999999932
+(slices[1039]) currentSum=275543092 | maxSum=999999932
+(slices[1038]) currentSum=275020334 | maxSum=999999932
+(slices[1037]) currentSum=274497699 | maxSum=999999932
+(slices[1036]) currentSum=273975807 | maxSum=999999932
+(slices[1035]) currentSum=273454900 | maxSum=999999932
+(slices[1034]) currentSum=272935313 | maxSum=999999932
+(slices[1033]) currentSum=272415873 | maxSum=999999932
+(slices[1032]) currentSum=271897430 | maxSum=999999932
+(slices[1031]) currentSum=271379062 | maxSum=999999932
+(slices[1030]) currentSum=270861230 | maxSum=999999932
+(slices[1029]) currentSum=270343691 | maxSum=999999932
+(slices[1028]) currentSum=269827086 | maxSum=999999932
+(slices[1027]) currentSum=269311402 | maxSum=999999932
+(slices[1026]) currentSum=268795740 | maxSum=999999932
+(slices[1025]) currentSum=268280966 | maxSum=999999932
+(slices[1024]) currentSum=267766252 | maxSum=999999932
+(slices[1023]) currentSum=267252188 | maxSum=999999932
+(slices[1022]) currentSum=266738712 | maxSum=999999932
+(slices[1021]) currentSum=266225544 | maxSum=999999932
+(slices[1020]) currentSum=265713153 | maxSum=999999932
+(slices[1019]) currentSum=265200791 | maxSum=999999932
+(slices[1018]) currentSum=264688478 | maxSum=999999932
+(slices[1017]) currentSum=264176482 | maxSum=999999932
+(slices[1016]) currentSum=263664781 | maxSum=999999932
+(slices[1015]) currentSum=263153497 | maxSum=999999932
+(slices[1014]) currentSum=262643135 | maxSum=999999932
+(slices[1013]) currentSum=262133487 | maxSum=999999932
+(slices[1012]) currentSum=261624204 | maxSum=999999932
+(slices[1011]) currentSum=261114922 | maxSum=999999932
+(slices[1010]) currentSum=260605878 | maxSum=999999932
+(slices[1009]) currentSum=260097570 | maxSum=999999932
+(slices[1008]) currentSum=259589383 | maxSum=999999932
+(slices[1007]) currentSum=259081464 | maxSum=999999932
+(slices[1006]) currentSum=258573694 | maxSum=999999932
+(slices[1005]) currentSum=258066660 | maxSum=999999932
+(slices[1004]) currentSum=257559929 | maxSum=999999932
+(slices[1003]) currentSum=257053941 | maxSum=999999932
+(slices[1002]) currentSum=256548636 | maxSum=999999932
+(slices[1001]) currentSum=256043845 | maxSum=999999932
+(slices[1000]) currentSum=255541826 | maxSum=999999932
+(slices[999]) currentSum=255040840 | maxSum=999999932
+(slices[998]) currentSum=254540640 | maxSum=999999932
+(slices[997]) currentSum=254040641 | maxSum=999999932
+(slices[996]) currentSum=253541210 | maxSum=999999932
+(slices[995]) currentSum=253041940 | maxSum=999999932
+(slices[994]) currentSum=252543520 | maxSum=999999932
+(slices[993]) currentSum=252045253 | maxSum=999999932
+(slices[992]) currentSum=251547470 | maxSum=999999932
+(slices[991]) currentSum=251050855 | maxSum=999999932
+(slices[990]) currentSum=250554555 | maxSum=999999932
+(slices[989]) currentSum=250058333 | maxSum=999999932
+(slices[988]) currentSum=249562331 | maxSum=999999932
+(slices[987]) currentSum=249066332 | maxSum=999999932
+(slices[986]) currentSum=248570650 | maxSum=999999932
+(slices[985]) currentSum=248075441 | maxSum=999999932
+(slices[984]) currentSum=247581011 | maxSum=999999932
+(slices[983]) currentSum=247087406 | maxSum=999999932
+(slices[982]) currentSum=246594000 | maxSum=999999932
+(slices[981]) currentSum=246100797 | maxSum=999999932
+(slices[980]) currentSum=245607905 | maxSum=999999932
+(slices[979]) currentSum=245115116 | maxSum=999999932
+(slices[978]) currentSum=244622769 | maxSum=999999932
+(slices[977]) currentSum=244130520 | maxSum=999999932
+(slices[976]) currentSum=243639004 | maxSum=999999932
+(slices[975]) currentSum=243147872 | maxSum=999999932
+(slices[974]) currentSum=242657036 | maxSum=999999932
+(slices[973]) currentSum=242166891 | maxSum=999999932
+(slices[972]) currentSum=241677130 | maxSum=999999932
+(slices[971]) currentSum=241188522 | maxSum=999999932
+(slices[970]) currentSum=240700618 | maxSum=999999932
+(slices[969]) currentSum=240212944 | maxSum=999999932
+(slices[968]) currentSum=239725318 | maxSum=999999932
+(slices[967]) currentSum=239237812 | maxSum=999999932
+(slices[966]) currentSum=238750479 | maxSum=999999932
+(slices[965]) currentSum=238263215 | maxSum=999999932
+(slices[964]) currentSum=237776049 | maxSum=999999932
+(slices[963]) currentSum=237289179 | maxSum=999999932
+(slices[962]) currentSum=236804028 | maxSum=999999932
+(slices[961]) currentSum=236319263 | maxSum=999999932
+(slices[960]) currentSum=235834795 | maxSum=999999932
+(slices[959]) currentSum=235350619 | maxSum=999999932
+(slices[958]) currentSum=234866705 | maxSum=999999932
+(slices[957]) currentSum=234383104 | maxSum=999999932
+(slices[956]) currentSum=233900391 | maxSum=999999932
+(slices[955]) currentSum=233418269 | maxSum=999999932
+(slices[954]) currentSum=232936324 | maxSum=999999932
+(slices[953]) currentSum=232454532 | maxSum=999999932
+(slices[952]) currentSum=231973340 | maxSum=999999932
+(slices[951]) currentSum=231492742 | maxSum=999999932
+(slices[950]) currentSum=231013257 | maxSum=999999932
+(slices[949]) currentSum=230534083 | maxSum=999999932
+(slices[948]) currentSum=230055005 | maxSum=999999932
+(slices[947]) currentSum=229575979 | maxSum=999999932
+(slices[946]) currentSum=229097294 | maxSum=999999932
+(slices[945]) currentSum=228619705 | maxSum=999999932
+(slices[944]) currentSum=228142191 | maxSum=999999932
+(slices[943]) currentSum=227665030 | maxSum=999999932
+(slices[942]) currentSum=227188060 | maxSum=999999932
+(slices[941]) currentSum=226711132 | maxSum=999999932
+(slices[940]) currentSum=226234276 | maxSum=999999932
+(slices[939]) currentSum=225757439 | maxSum=999999932
+(slices[938]) currentSum=225281302 | maxSum=999999932
+(slices[937]) currentSum=224805465 | maxSum=999999932
+(slices[936]) currentSum=224329651 | maxSum=999999932
+(slices[935]) currentSum=223853921 | maxSum=999999932
+(slices[934]) currentSum=223378435 | maxSum=999999932
+(slices[933]) currentSum=222904422 | maxSum=999999932
+(slices[932]) currentSum=222430954 | maxSum=999999932
+(slices[931]) currentSum=221958203 | maxSum=999999932
+(slices[930]) currentSum=221485754 | maxSum=999999932
+(slices[929]) currentSum=221013316 | maxSum=999999932
+(slices[928]) currentSum=220541333 | maxSum=999999932
+(slices[927]) currentSum=220070253 | maxSum=999999932
+(slices[926]) currentSum=219599797 | maxSum=999999932
+(slices[925]) currentSum=219129696 | maxSum=999999932
+(slices[924]) currentSum=218659700 | maxSum=999999932
+(slices[923]) currentSum=218191411 | maxSum=999999932
+(slices[922]) currentSum=217723786 | maxSum=999999932
+(slices[921]) currentSum=217257438 | maxSum=999999932
+(slices[920]) currentSum=216792157 | maxSum=999999932
+(slices[919]) currentSum=216327186 | maxSum=999999932
+(slices[918]) currentSum=215862479 | maxSum=999999932
+(slices[917]) currentSum=215398202 | maxSum=999999932
+(slices[916]) currentSum=214934080 | maxSum=999999932
+(slices[915]) currentSum=214470318 | maxSum=999999932
+(slices[914]) currentSum=214006629 | maxSum=999999932
+(slices[913]) currentSum=213543065 | maxSum=999999932
+(slices[912]) currentSum=213079716 | maxSum=999999932
+(slices[911]) currentSum=212616419 | maxSum=999999932
+(slices[910]) currentSum=212153181 | maxSum=999999932
+(slices[909]) currentSum=211690894 | maxSum=999999932
+(slices[908]) currentSum=211228978 | maxSum=999999932
+(slices[907]) currentSum=210767233 | maxSum=999999932
+(slices[906]) currentSum=210305943 | maxSum=999999932
+(slices[905]) currentSum=209845407 | maxSum=999999932
+(slices[904]) currentSum=209385887 | maxSum=999999932
+(slices[903]) currentSum=208926438 | maxSum=999999932
+(slices[902]) currentSum=208467006 | maxSum=999999932
+(slices[901]) currentSum=208007932 | maxSum=999999932
+(slices[900]) currentSum=207550289 | maxSum=999999932
+(slices[899]) currentSum=207092999 | maxSum=999999932
+(slices[898]) currentSum=206635890 | maxSum=999999932
+(slices[897]) currentSum=206178832 | maxSum=999999932
+(slices[896]) currentSum=205722049 | maxSum=999999932
+(slices[895]) currentSum=205265357 | maxSum=999999932
+(slices[894]) currentSum=204809422 | maxSum=999999932
+(slices[893]) currentSum=204353698 | maxSum=999999932
+(slices[892]) currentSum=203898595 | maxSum=999999932
+(slices[891]) currentSum=203443962 | maxSum=999999932
+(slices[890]) currentSum=202990897 | maxSum=999999932
+(slices[889]) currentSum=202538598 | maxSum=999999932
+(slices[888]) currentSum=202086558 | maxSum=999999932
+(slices[887]) currentSum=201634900 | maxSum=999999932
+(slices[886]) currentSum=201184079 | maxSum=999999932
+(slices[885]) currentSum=200733364 | maxSum=999999932
+(slices[884]) currentSum=200283653 | maxSum=999999932
+(slices[883]) currentSum=199834169 | maxSum=999999932
+(slices[882]) currentSum=199384873 | maxSum=999999932
+(slices[881]) currentSum=198935636 | maxSum=999999932
+(slices[880]) currentSum=198487123 | maxSum=999999932
+(slices[879]) currentSum=198039602 | maxSum=999999932
+(slices[878]) currentSum=197593378 | maxSum=999999932
+(slices[877]) currentSum=197147529 | maxSum=999999932
+(slices[876]) currentSum=196701688 | maxSum=999999932
+(slices[875]) currentSum=196256717 | maxSum=999999932
+(slices[874]) currentSum=195812512 | maxSum=999999932
+(slices[873]) currentSum=195368310 | maxSum=999999932
+(slices[872]) currentSum=194924567 | maxSum=999999932
+(slices[871]) currentSum=194480961 | maxSum=999999932
+(slices[870]) currentSum=194037767 | maxSum=999999932
+(slices[869]) currentSum=193595050 | maxSum=999999932
+(slices[868]) currentSum=193152582 | maxSum=999999932
+(slices[867]) currentSum=192710157 | maxSum=999999932
+(slices[866]) currentSum=192268064 | maxSum=999999932
+(slices[865]) currentSum=191826604 | maxSum=999999932
+(slices[864]) currentSum=191385684 | maxSum=999999932
+(slices[863]) currentSum=190945081 | maxSum=999999932
+(slices[862]) currentSum=190504567 | maxSum=999999932
+(slices[861]) currentSum=190064618 | maxSum=999999932
+(slices[860]) currentSum=189624978 | maxSum=999999932
+(slices[859]) currentSum=189185441 | maxSum=999999932
+(slices[858]) currentSum=188746015 | maxSum=999999932
+(slices[857]) currentSum=188309574 | maxSum=999999932
+(slices[856]) currentSum=187873553 | maxSum=999999932
+(slices[855]) currentSum=187437816 | maxSum=999999932
+(slices[854]) currentSum=187002092 | maxSum=999999932
+(slices[853]) currentSum=186566943 | maxSum=999999932
+(slices[852]) currentSum=186131855 | maxSum=999999932
+(slices[851]) currentSum=185696784 | maxSum=999999932
+(slices[850]) currentSum=185262161 | maxSum=999999932
+(slices[849]) currentSum=184828789 | maxSum=999999932
+(slices[848]) currentSum=184396416 | maxSum=999999932
+(slices[847]) currentSum=183964298 | maxSum=999999932
+(slices[846]) currentSum=183532535 | maxSum=999999932
+(slices[845]) currentSum=183100843 | maxSum=999999932
+(slices[844]) currentSum=182669721 | maxSum=999999932
+(slices[843]) currentSum=182238942 | maxSum=999999932
+(slices[842]) currentSum=181808998 | maxSum=999999932
+(slices[841]) currentSum=181380586 | maxSum=999999932
+(slices[840]) currentSum=180952304 | maxSum=999999932
+(slices[839]) currentSum=180524069 | maxSum=999999932
+(slices[838]) currentSum=180095889 | maxSum=999999932
+(slices[837]) currentSum=179667898 | maxSum=999999932
+(slices[836]) currentSum=179240038 | maxSum=999999932
+(slices[835]) currentSum=178812589 | maxSum=999999932
+(slices[834]) currentSum=178385705 | maxSum=999999932
+(slices[833]) currentSum=177959484 | maxSum=999999932
+(slices[832]) currentSum=177533277 | maxSum=999999932
+(slices[831]) currentSum=177107109 | maxSum=999999932
+(slices[830]) currentSum=176681258 | maxSum=999999932
+(slices[829]) currentSum=176257162 | maxSum=999999932
+(slices[828]) currentSum=175833155 | maxSum=999999932
+(slices[827]) currentSum=175409296 | maxSum=999999932
+(slices[826]) currentSum=174985856 | maxSum=999999932
+(slices[825]) currentSum=174563626 | maxSum=999999932
+(slices[824]) currentSum=174141515 | maxSum=999999932
+(slices[823]) currentSum=173719517 | maxSum=999999932
+(slices[822]) currentSum=173298815 | maxSum=999999932
+(slices[821]) currentSum=172878243 | maxSum=999999932
+(slices[820]) currentSum=172458020 | maxSum=999999932
+(slices[819]) currentSum=172038065 | maxSum=999999932
+(slices[818]) currentSum=171618921 | maxSum=999999932
+(slices[817]) currentSum=171199804 | maxSum=999999932
+(slices[816]) currentSum=170780952 | maxSum=999999932
+(slices[815]) currentSum=170362528 | maxSum=999999932
+(slices[814]) currentSum=169944656 | maxSum=999999932
+(slices[813]) currentSum=169527126 | maxSum=999999932
+(slices[812]) currentSum=169110284 | maxSum=999999932
+(slices[811]) currentSum=168693517 | maxSum=999999932
+(slices[810]) currentSum=168277544 | maxSum=999999932
+(slices[809]) currentSum=167862461 | maxSum=999999932
+(slices[808]) currentSum=167447399 | maxSum=999999932
+(slices[807]) currentSum=167032498 | maxSum=999999932
+(slices[806]) currentSum=166618706 | maxSum=999999932
+(slices[805]) currentSum=166205495 | maxSum=999999932
+(slices[804]) currentSum=165796058 | maxSum=999999932
+(slices[803]) currentSum=165387077 | maxSum=999999932
+(slices[802]) currentSum=164978630 | maxSum=999999932
+(slices[801]) currentSum=164570833 | maxSum=999999932
+(slices[800]) currentSum=164163258 | maxSum=999999932
+(slices[799]) currentSum=163758375 | maxSum=999999932
+(slices[798]) currentSum=163354418 | maxSum=999999932
+(slices[797]) currentSum=162950910 | maxSum=999999932
+(slices[796]) currentSum=162547479 | maxSum=999999932
+(slices[795]) currentSum=162144798 | maxSum=999999932
+(slices[794]) currentSum=161742528 | maxSum=999999932
+(slices[793]) currentSum=161340836 | maxSum=999999932
+(slices[792]) currentSum=160939211 | maxSum=999999932
+(slices[791]) currentSum=160538034 | maxSum=999999932
+(slices[790]) currentSum=160136859 | maxSum=999999932
+(slices[789]) currentSum=159736652 | maxSum=999999932
+(slices[788]) currentSum=159336712 | maxSum=999999932
+(slices[787]) currentSum=158936912 | maxSum=999999932
+(slices[786]) currentSum=158537327 | maxSum=999999932
+(slices[785]) currentSum=158138418 | maxSum=999999932
+(slices[784]) currentSum=157739512 | maxSum=999999932
+(slices[783]) currentSum=157340870 | maxSum=999999932
+(slices[782]) currentSum=156942351 | maxSum=999999932
+(slices[781]) currentSum=156543918 | maxSum=999999932
+(slices[780]) currentSum=156145980 | maxSum=999999932
+(slices[779]) currentSum=155748367 | maxSum=999999932
+(slices[778]) currentSum=155350774 | maxSum=999999932
+(slices[777]) currentSum=154953204 | maxSum=999999932
+(slices[776]) currentSum=154555754 | maxSum=999999932
+(slices[775]) currentSum=154158321 | maxSum=999999932
+(slices[774]) currentSum=153761348 | maxSum=999999932
+(slices[773]) currentSum=153365764 | maxSum=999999932
+(slices[772]) currentSum=152972176 | maxSum=999999932
+(slices[771]) currentSum=152579076 | maxSum=999999932
+(slices[770]) currentSum=152186948 | maxSum=999999932
+(slices[769]) currentSum=151795338 | maxSum=999999932
+(slices[768]) currentSum=151405769 | maxSum=999999932
+(slices[767]) currentSum=151016685 | maxSum=999999932
+(slices[766]) currentSum=150628063 | maxSum=999999932
+(slices[765]) currentSum=150239484 | maxSum=999999932
+(slices[764]) currentSum=149851271 | maxSum=999999932
+(slices[763]) currentSum=149463743 | maxSum=999999932
+(slices[762]) currentSum=149076541 | maxSum=999999932
+(slices[761]) currentSum=148689545 | maxSum=999999932
+(slices[760]) currentSum=148302680 | maxSum=999999932
+(slices[759]) currentSum=147916139 | maxSum=999999932
+(slices[758]) currentSum=147530910 | maxSum=999999932
+(slices[757]) currentSum=147147230 | maxSum=999999932
+(slices[756]) currentSum=146763637 | maxSum=999999932
+(slices[755]) currentSum=146381002 | maxSum=999999932
+(slices[754]) currentSum=145998397 | maxSum=999999932
+(slices[753]) currentSum=145615982 | maxSum=999999932
+(slices[752]) currentSum=145234018 | maxSum=999999932
+(slices[751]) currentSum=144853355 | maxSum=999999932
+(slices[750]) currentSum=144473001 | maxSum=999999932
+(slices[749]) currentSum=144093169 | maxSum=999999932
+(slices[748]) currentSum=143713493 | maxSum=999999932
+(slices[747]) currentSum=143333862 | maxSum=999999932
+(slices[746]) currentSum=142954458 | maxSum=999999932
+(slices[745]) currentSum=142575206 | maxSum=999999932
+(slices[744]) currentSum=142196744 | maxSum=999999932
+(slices[743]) currentSum=141820276 | maxSum=999999932
+(slices[742]) currentSum=141443830 | maxSum=999999932
+(slices[741]) currentSum=141067683 | maxSum=999999932
+(slices[740]) currentSum=140691756 | maxSum=999999932
+(slices[739]) currentSum=140316061 | maxSum=999999932
+(slices[738]) currentSum=139940820 | maxSum=999999932
+(slices[737]) currentSum=139568241 | maxSum=999999932
+(slices[736]) currentSum=139196130 | maxSum=999999932
+(slices[735]) currentSum=138824572 | maxSum=999999932
+(slices[734]) currentSum=138453663 | maxSum=999999932
+(slices[733]) currentSum=138084177 | maxSum=999999932
+(slices[732]) currentSum=137715226 | maxSum=999999932
+(slices[731]) currentSum=137346330 | maxSum=999999932
+(slices[730]) currentSum=136978076 | maxSum=999999932
+(slices[729]) currentSum=136611065 | maxSum=999999932
+(slices[728]) currentSum=136244371 | maxSum=999999932
+(slices[727]) currentSum=135878358 | maxSum=999999932
+(slices[726]) currentSum=135513444 | maxSum=999999932
+(slices[725]) currentSum=135149324 | maxSum=999999932
+(slices[724]) currentSum=134786794 | maxSum=999999932
+(slices[723]) currentSum=134424392 | maxSum=999999932
+(slices[722]) currentSum=134062453 | maxSum=999999932
+(slices[721]) currentSum=133701739 | maxSum=999999932
+(slices[720]) currentSum=133341233 | maxSum=999999932
+(slices[719]) currentSum=132981646 | maxSum=999999932
+(slices[718]) currentSum=132623789 | maxSum=999999932
+(slices[717]) currentSum=132266482 | maxSum=999999932
+(slices[716]) currentSum=131909560 | maxSum=999999932
+(slices[715]) currentSum=131552731 | maxSum=999999932
+(slices[714]) currentSum=131195981 | maxSum=999999932
+(slices[713]) currentSum=130839545 | maxSum=999999932
+(slices[712]) currentSum=130483710 | maxSum=999999932
+(slices[711]) currentSum=130128491 | maxSum=999999932
+(slices[710]) currentSum=129773433 | maxSum=999999932
+(slices[709]) currentSum=129418874 | maxSum=999999932
+(slices[708]) currentSum=129064929 | maxSum=999999932
+(slices[707]) currentSum=128711934 | maxSum=999999932
+(slices[706]) currentSum=128359146 | maxSum=999999932
+(slices[705]) currentSum=128006638 | maxSum=999999932
+(slices[704]) currentSum=127654426 | maxSum=999999932
+(slices[703]) currentSum=127302905 | maxSum=999999932
+(slices[702]) currentSum=126953095 | maxSum=999999932
+(slices[701]) currentSum=126603335 | maxSum=999999932
+(slices[700]) currentSum=126253785 | maxSum=999999932
+(slices[699]) currentSum=125905146 | maxSum=999999932
+(slices[698]) currentSum=125556774 | maxSum=999999932
+(slices[697]) currentSum=125208602 | maxSum=999999932
+(slices[696]) currentSum=124861316 | maxSum=999999932
+(slices[695]) currentSum=124514311 | maxSum=999999932
+(slices[694]) currentSum=124167401 | maxSum=999999932
+(slices[693]) currentSum=123820871 | maxSum=999999932
+(slices[692]) currentSum=123474581 | maxSum=999999932
+(slices[691]) currentSum=123128706 | maxSum=999999932
+(slices[690]) currentSum=122784130 | maxSum=999999932
+(slices[689]) currentSum=122439560 | maxSum=999999932
+(slices[688]) currentSum=122095302 | maxSum=999999932
+(slices[687]) currentSum=121751312 | maxSum=999999932
+(slices[686]) currentSum=121408007 | maxSum=999999932
+(slices[685]) currentSum=121065234 | maxSum=999999932
+(slices[684]) currentSum=120722594 | maxSum=999999932
+(slices[683]) currentSum=120380516 | maxSum=999999932
+(slices[682]) currentSum=120039663 | maxSum=999999932
+(slices[681]) currentSum=119699481 | maxSum=999999932
+(slices[680]) currentSum=119359395 | maxSum=999999932
+(slices[679]) currentSum=119019442 | maxSum=999999932
+(slices[678]) currentSum=118679893 | maxSum=999999932
+(slices[677]) currentSum=118340865 | maxSum=999999932
+(slices[676]) currentSum=118002836 | maxSum=999999932
+(slices[675]) currentSum=117664825 | maxSum=999999932
+(slices[674]) currentSum=117326872 | maxSum=999999932
+(slices[673]) currentSum=116989413 | maxSum=999999932
+(slices[672]) currentSum=116652709 | maxSum=999999932
+(slices[671]) currentSum=116317419 | maxSum=999999932
+(slices[670]) currentSum=115983736 | maxSum=999999932
+(slices[669]) currentSum=115650974 | maxSum=999999932
+(slices[668]) currentSum=115318880 | maxSum=999999932
+(slices[667]) currentSum=114987092 | maxSum=999999932
+(slices[666]) currentSum=114655506 | maxSum=999999932
+(slices[665]) currentSum=114324579 | maxSum=999999932
+(slices[664]) currentSum=113993752 | maxSum=999999932
+(slices[663]) currentSum=113663738 | maxSum=999999932
+(slices[662]) currentSum=113333892 | maxSum=999999932
+(slices[661]) currentSum=113004396 | maxSum=999999932
+(slices[660]) currentSum=112675181 | maxSum=999999932
+(slices[659]) currentSum=112346216 | maxSum=999999932
+(slices[658]) currentSum=112017327 | maxSum=999999932
+(slices[657]) currentSum=111690166 | maxSum=999999932
+(slices[656]) currentSum=111363257 | maxSum=999999932
+(slices[655]) currentSum=111037059 | maxSum=999999932
+(slices[654]) currentSum=110711163 | maxSum=999999932
+(slices[653]) currentSum=110385614 | maxSum=999999932
+(slices[652]) currentSum=110061255 | maxSum=999999932
+(slices[651]) currentSum=109737265 | maxSum=999999932
+(slices[650]) currentSum=109413982 | maxSum=999999932
+(slices[649]) currentSum=109091377 | maxSum=999999932
+(slices[648]) currentSum=108768875 | maxSum=999999932
+(slices[647]) currentSum=108447307 | maxSum=999999932
+(slices[646]) currentSum=108126176 | maxSum=999999932
+(slices[645]) currentSum=107805911 | maxSum=999999932
+(slices[644]) currentSum=107485845 | maxSum=999999932
+(slices[643]) currentSum=107166645 | maxSum=999999932
+(slices[642]) currentSum=106847732 | maxSum=999999932
+(slices[641]) currentSum=106529046 | maxSum=999999932
+(slices[640]) currentSum=106210401 | maxSum=999999932
+(slices[639]) currentSum=105893138 | maxSum=999999932
+(slices[638]) currentSum=105576137 | maxSum=999999932
+(slices[637]) currentSum=105259217 | maxSum=999999932
+(slices[636]) currentSum=104942369 | maxSum=999999932
+(slices[635]) currentSum=104626086 | maxSum=999999932
+(slices[634]) currentSum=104310467 | maxSum=999999932
+(slices[633]) currentSum=103995506 | maxSum=999999932
+(slices[632]) currentSum=103680886 | maxSum=999999932
+(slices[631]) currentSum=103366823 | maxSum=999999932
+(slices[630]) currentSum=103052851 | maxSum=999999932
+(slices[629]) currentSum=102739115 | maxSum=999999932
+(slices[628]) currentSum=102425946 | maxSum=999999932
+(slices[627]) currentSum=102112837 | maxSum=999999932
+(slices[626]) currentSum=101799844 | maxSum=999999932
+(slices[625]) currentSum=101487996 | maxSum=999999932
+(slices[624]) currentSum=101176825 | maxSum=999999932
+(slices[623]) currentSum=100866138 | maxSum=999999932
+(slices[622]) currentSum=100555843 | maxSum=999999932
+(slices[621]) currentSum=100245776 | maxSum=999999932
+(slices[620]) currentSum=99936154 | maxSum=999999932
+(slices[619]) currentSum=99626625 | maxSum=999999932
+(slices[618]) currentSum=99317129 | maxSum=999999932
+(slices[617]) currentSum=99008550 | maxSum=999999932
+(slices[616]) currentSum=98700742 | maxSum=999999932
+(slices[615]) currentSum=98393073 | maxSum=999999932
+(slices[614]) currentSum=98085603 | maxSum=999999932
+(slices[613]) currentSum=97779225 | maxSum=999999932
+(slices[612]) currentSum=97473135 | maxSum=999999932
+(slices[611]) currentSum=97167677 | maxSum=999999932
+(slices[610]) currentSum=96864181 | maxSum=999999932
+(slices[609]) currentSum=96561500 | maxSum=999999932
+(slices[608]) currentSum=96259231 | maxSum=999999932
+(slices[607]) currentSum=95957081 | maxSum=999999932
+(slices[606]) currentSum=95655010 | maxSum=999999932
+(slices[605]) currentSum=95353356 | maxSum=999999932
+(slices[604]) currentSum=95051967 | maxSum=999999932
+(slices[603]) currentSum=94751066 | maxSum=999999932
+(slices[602]) currentSum=94450919 | maxSum=999999932
+(slices[601]) currentSum=94151261 | maxSum=999999932
+(slices[600]) currentSum=93852105 | maxSum=999999932
+(slices[599]) currentSum=93553224 | maxSum=999999932
+(slices[598]) currentSum=93255022 | maxSum=999999932
+(slices[597]) currentSum=92957400 | maxSum=999999932
+(slices[596]) currentSum=92660604 | maxSum=999999932
+(slices[595]) currentSum=92363975 | maxSum=999999932
+(slices[594]) currentSum=92067473 | maxSum=999999932
+(slices[593]) currentSum=91771980 | maxSum=999999932
+(slices[592]) currentSum=91478601 | maxSum=999999932
+(slices[591]) currentSum=91185307 | maxSum=999999932
+(slices[590]) currentSum=90892573 | maxSum=999999932
+(slices[589]) currentSum=90600045 | maxSum=999999932
+(slices[588]) currentSum=90307858 | maxSum=999999932
+(slices[587]) currentSum=90015732 | maxSum=999999932
+(slices[586]) currentSum=89723677 | maxSum=999999932
+(slices[585]) currentSum=89431853 | maxSum=999999932
+(slices[584]) currentSum=89140098 | maxSum=999999932
+(slices[583]) currentSum=88848379 | maxSum=999999932
+(slices[582]) currentSum=88556852 | maxSum=999999932
+(slices[581]) currentSum=88265432 | maxSum=999999932
+(slices[580]) currentSum=87974599 | maxSum=999999932
+(slices[579]) currentSum=87683805 | maxSum=999999932
+(slices[578]) currentSum=87393634 | maxSum=999999932
+(slices[577]) currentSum=87103653 | maxSum=999999932
+(slices[576]) currentSum=86813914 | maxSum=999999932
+(slices[575]) currentSum=86524197 | maxSum=999999932
+(slices[574]) currentSum=86234864 | maxSum=999999932
+(slices[573]) currentSum=85946424 | maxSum=999999932
+(slices[572]) currentSum=85658437 | maxSum=999999932
+(slices[571]) currentSum=85370573 | maxSum=999999932
+(slices[570]) currentSum=85082886 | maxSum=999999932
+(slices[569]) currentSum=84796129 | maxSum=999999932
+(slices[568]) currentSum=84509885 | maxSum=999999932
+(slices[567]) currentSum=84224069 | maxSum=999999932
+(slices[566]) currentSum=83938441 | maxSum=999999932
+(slices[565]) currentSum=83652920 | maxSum=999999932
+(slices[564]) currentSum=83367956 | maxSum=999999932
+(slices[563]) currentSum=83083829 | maxSum=999999932
+(slices[562]) currentSum=82800577 | maxSum=999999932
+(slices[561]) currentSum=82517466 | maxSum=999999932
+(slices[560]) currentSum=82234813 | maxSum=999999932
+(slices[559]) currentSum=81953329 | maxSum=999999932
+(slices[558]) currentSum=81672532 | maxSum=999999932
+(slices[557]) currentSum=81392331 | maxSum=999999932
+(slices[556]) currentSum=81112252 | maxSum=999999932
+(slices[555]) currentSum=80832255 | maxSum=999999932
+(slices[554]) currentSum=80552418 | maxSum=999999932
+(slices[553]) currentSum=80272601 | maxSum=999999932
+(slices[552]) currentSum=79994015 | maxSum=999999932
+(slices[551]) currentSum=79715447 | maxSum=999999932
+(slices[550]) currentSum=79437035 | maxSum=999999932
+(slices[549]) currentSum=79158726 | maxSum=999999932
+(slices[548]) currentSum=78880590 | maxSum=999999932
+(slices[547]) currentSum=78602457 | maxSum=999999932
+(slices[546]) currentSum=78324474 | maxSum=999999932
+(slices[545]) currentSum=78046527 | maxSum=999999932
+(slices[544]) currentSum=77768730 | maxSum=999999932
+(slices[543]) currentSum=77491178 | maxSum=999999932
+(slices[542]) currentSum=77213722 | maxSum=999999932
+(slices[541]) currentSum=76936301 | maxSum=999999932
+(slices[540]) currentSum=76658938 | maxSum=999999932
+(slices[539]) currentSum=76381583 | maxSum=999999932
+(slices[538]) currentSum=76104725 | maxSum=999999932
+(slices[537]) currentSum=75828491 | maxSum=999999932
+(slices[536]) currentSum=75552936 | maxSum=999999932
+(slices[535]) currentSum=75277989 | maxSum=999999932
+(slices[534]) currentSum=75003258 | maxSum=999999932
+(slices[533]) currentSum=74729304 | maxSum=999999932
+(slices[532]) currentSum=74455821 | maxSum=999999932
+(slices[531]) currentSum=74182977 | maxSum=999999932
+(slices[530]) currentSum=73911144 | maxSum=999999932
+(slices[529]) currentSum=73640191 | maxSum=999999932
+(slices[528]) currentSum=73370688 | maxSum=999999932
+(slices[527]) currentSum=73101947 | maxSum=999999932
+(slices[526]) currentSum=72834167 | maxSum=999999932
+(slices[525]) currentSum=72567021 | maxSum=999999932
+(slices[524]) currentSum=72300656 | maxSum=999999932
+(slices[523]) currentSum=72035863 | maxSum=999999932
+(slices[522]) currentSum=71771153 | maxSum=999999932
+(slices[521]) currentSum=71506577 | maxSum=999999932
+(slices[520]) currentSum=71242900 | maxSum=999999932
+(slices[519]) currentSum=70979234 | maxSum=999999932
+(slices[518]) currentSum=70715864 | maxSum=999999932
+(slices[517]) currentSum=70452984 | maxSum=999999932
+(slices[516]) currentSum=70190132 | maxSum=999999932
+(slices[515]) currentSum=69927552 | maxSum=999999932
+(slices[514]) currentSum=69665255 | maxSum=999999932
+(slices[513]) currentSum=69403263 | maxSum=999999932
+(slices[512]) currentSum=69141562 | maxSum=999999932
+(slices[511]) currentSum=68880208 | maxSum=999999932
+(slices[510]) currentSum=68619422 | maxSum=999999932
+(slices[509]) currentSum=68359124 | maxSum=999999932
+(slices[508]) currentSum=68098851 | maxSum=999999932
+(slices[507]) currentSum=67838853 | maxSum=999999932
+(slices[506]) currentSum=67579507 | maxSum=999999932
+(slices[505]) currentSum=67320207 | maxSum=999999932
+(slices[504]) currentSum=67061549 | maxSum=999999932
+(slices[503]) currentSum=66803323 | maxSum=999999932
+(slices[502]) currentSum=66545852 | maxSum=999999932
+(slices[501]) currentSum=66289014 | maxSum=999999932
+(slices[500]) currentSum=66032227 | maxSum=999999932
+(slices[499]) currentSum=65775474 | maxSum=999999932
+(slices[498]) currentSum=65519273 | maxSum=999999932
+(slices[497]) currentSum=65263163 | maxSum=999999932
+(slices[496]) currentSum=65007276 | maxSum=999999932
+(slices[495]) currentSum=64751516 | maxSum=999999932
+(slices[494]) currentSum=64495895 | maxSum=999999932
+(slices[493]) currentSum=64240444 | maxSum=999999932
+(slices[492]) currentSum=63985270 | maxSum=999999932
+(slices[491]) currentSum=63730418 | maxSum=999999932
+(slices[490]) currentSum=63475721 | maxSum=999999932
+(slices[489]) currentSum=63222590 | maxSum=999999932
+(slices[488]) currentSum=62969967 | maxSum=999999932
+(slices[487]) currentSum=62717388 | maxSum=999999932
+(slices[486]) currentSum=62465340 | maxSum=999999932
+(slices[485]) currentSum=62213773 | maxSum=999999932
+(slices[484]) currentSum=61962639 | maxSum=999999932
+(slices[483]) currentSum=61711667 | maxSum=999999932
+(slices[482]) currentSum=61460749 | maxSum=999999932
+(slices[481]) currentSum=61210293 | maxSum=999999932
+(slices[480]) currentSum=60959962 | maxSum=999999932
+(slices[479]) currentSum=60709779 | maxSum=999999932
+(slices[478]) currentSum=60460163 | maxSum=999999932
+(slices[477]) currentSum=60210623 | maxSum=999999932
+(slices[476]) currentSum=59961844 | maxSum=999999932
+(slices[475]) currentSum=59713556 | maxSum=999999932
+(slices[474]) currentSum=59465644 | maxSum=999999932
+(slices[473]) currentSum=59218011 | maxSum=999999932
+(slices[472]) currentSum=58971331 | maxSum=999999932
+(slices[471]) currentSum=58725003 | maxSum=999999932
+(slices[470]) currentSum=58478747 | maxSum=999999932
+(slices[469]) currentSum=58232522 | maxSum=999999932
+(slices[468]) currentSum=57986587 | maxSum=999999932
+(slices[467]) currentSum=57741356 | maxSum=999999932
+(slices[466]) currentSum=57496398 | maxSum=999999932
+(slices[465]) currentSum=57251585 | maxSum=999999932
+(slices[464]) currentSum=57007218 | maxSum=999999932
+(slices[463]) currentSum=56763069 | maxSum=999999932
+(slices[462]) currentSum=56519056 | maxSum=999999932
+(slices[461]) currentSum=56275538 | maxSum=999999932
+(slices[460]) currentSum=56032767 | maxSum=999999932
+(slices[459]) currentSum=55790221 | maxSum=999999932
+(slices[458]) currentSum=55548434 | maxSum=999999932
+(slices[457]) currentSum=55307087 | maxSum=999999932
+(slices[456]) currentSum=55065744 | maxSum=999999932
+(slices[455]) currentSum=54825519 | maxSum=999999932
+(slices[454]) currentSum=54585406 | maxSum=999999932
+(slices[453]) currentSum=54345311 | maxSum=999999932
+(slices[452]) currentSum=54106292 | maxSum=999999932
+(slices[451]) currentSum=53867590 | maxSum=999999932
+(slices[450]) currentSum=53629003 | maxSum=999999932
+(slices[449]) currentSum=53390419 | maxSum=999999932
+(slices[448]) currentSum=53153718 | maxSum=999999932
+(slices[447]) currentSum=52917093 | maxSum=999999932
+(slices[446]) currentSum=52681313 | maxSum=999999932
+(slices[445]) currentSum=52445647 | maxSum=999999932
+(slices[444]) currentSum=52209984 | maxSum=999999932
+(slices[443]) currentSum=51974381 | maxSum=999999932
+(slices[442]) currentSum=51739217 | maxSum=999999932
+(slices[441]) currentSum=51505113 | maxSum=999999932
+(slices[440]) currentSum=51271310 | maxSum=999999932
+(slices[439]) currentSum=51038021 | maxSum=999999932
+(slices[438]) currentSum=50805610 | maxSum=999999932
+(slices[437]) currentSum=50573248 | maxSum=999999932
+(slices[436]) currentSum=50341077 | maxSum=999999932
+(slices[435]) currentSum=50109775 | maxSum=999999932
+(slices[434]) currentSum=49878576 | maxSum=999999932
+(slices[433]) currentSum=49647611 | maxSum=999999932
+(slices[432]) currentSum=49417277 | maxSum=999999932
+(slices[431]) currentSum=49187146 | maxSum=999999932
+(slices[430]) currentSum=48957121 | maxSum=999999932
+(slices[429]) currentSum=48727428 | maxSum=999999932
+(slices[428]) currentSum=48497906 | maxSum=999999932
+(slices[427]) currentSum=48268597 | maxSum=999999932
+(slices[426]) currentSum=48039994 | maxSum=999999932
+(slices[425]) currentSum=47811668 | maxSum=999999932
+(slices[424]) currentSum=47583794 | maxSum=999999932
+(slices[423]) currentSum=47356848 | maxSum=999999932
+(slices[422]) currentSum=47130356 | maxSum=999999932
+(slices[421]) currentSum=46904533 | maxSum=999999932
+(slices[420]) currentSum=46679839 | maxSum=999999932
+(slices[419]) currentSum=46455443 | maxSum=999999932
+(slices[418]) currentSum=46231262 | maxSum=999999932
+(slices[417]) currentSum=46007129 | maxSum=999999932
+(slices[416]) currentSum=45783570 | maxSum=999999932
+(slices[415]) currentSum=45560564 | maxSum=999999932
+(slices[414]) currentSum=45338090 | maxSum=999999932
+(slices[413]) currentSum=45115630 | maxSum=999999932
+(slices[412]) currentSum=44893493 | maxSum=999999932
+(slices[411]) currentSum=44671501 | maxSum=999999932
+(slices[410]) currentSum=44450175 | maxSum=999999932
+(slices[409]) currentSum=44228893 | maxSum=999999932
+(slices[408]) currentSum=44007981 | maxSum=999999932
+(slices[407]) currentSum=43787538 | maxSum=999999932
+(slices[406]) currentSum=43567206 | maxSum=999999932
+(slices[405]) currentSum=43347471 | maxSum=999999932
+(slices[404]) currentSum=43129539 | maxSum=999999932
+(slices[403]) currentSum=42912268 | maxSum=999999932
+(slices[402]) currentSum=42695336 | maxSum=999999932
+(slices[401]) currentSum=42480112 | maxSum=999999932
+(slices[400]) currentSum=42265880 | maxSum=999999932
+(slices[399]) currentSum=42052342 | maxSum=999999932
+(slices[398]) currentSum=41838845 | maxSum=999999932
+(slices[397]) currentSum=41627872 | maxSum=999999932
+(slices[396]) currentSum=41417273 | maxSum=999999932
+(slices[395]) currentSum=41207955 | maxSum=999999932
+(slices[394]) currentSum=40998860 | maxSum=999999932
+(slices[393]) currentSum=40789915 | maxSum=999999932
+(slices[392]) currentSum=40581062 | maxSum=999999932
+(slices[391]) currentSum=40372438 | maxSum=999999932
+(slices[390]) currentSum=40163891 | maxSum=999999932
+(slices[389]) currentSum=39955877 | maxSum=999999932
+(slices[388]) currentSum=39748398 | maxSum=999999932
+(slices[387]) currentSum=39541741 | maxSum=999999932
+(slices[386]) currentSum=39337810 | maxSum=999999932
+(slices[385]) currentSum=39134212 | maxSum=999999932
+(slices[384]) currentSum=38931650 | maxSum=999999932
+(slices[383]) currentSum=38729660 | maxSum=999999932
+(slices[382]) currentSum=38527980 | maxSum=999999932
+(slices[381]) currentSum=38326771 | maxSum=999999932
+(slices[380]) currentSum=38125824 | maxSum=999999932
+(slices[379]) currentSum=37924928 | maxSum=999999932
+(slices[378]) currentSum=37724540 | maxSum=999999932
+(slices[377]) currentSum=37524620 | maxSum=999999932
+(slices[376]) currentSum=37324910 | maxSum=999999932
+(slices[375]) currentSum=37125411 | maxSum=999999932
+(slices[374]) currentSum=36925993 | maxSum=999999932
+(slices[373]) currentSum=36726630 | maxSum=999999932
+(slices[372]) currentSum=36527457 | maxSum=999999932
+(slices[371]) currentSum=36328378 | maxSum=999999932
+(slices[370]) currentSum=36130511 | maxSum=999999932
+(slices[369]) currentSum=35933766 | maxSum=999999932
+(slices[368]) currentSum=35738864 | maxSum=999999932
+(slices[367]) currentSum=35544670 | maxSum=999999932
+(slices[366]) currentSum=35351300 | maxSum=999999932
+(slices[365]) currentSum=35158848 | maxSum=999999932
+(slices[364]) currentSum=34968125 | maxSum=999999932
+(slices[363]) currentSum=34777518 | maxSum=999999932
+(slices[362]) currentSum=34587162 | maxSum=999999932
+(slices[361]) currentSum=34398308 | maxSum=999999932
+(slices[360]) currentSum=34210099 | maxSum=999999932
+(slices[359]) currentSum=34021975 | maxSum=999999932
+(slices[358]) currentSum=33834594 | maxSum=999999932
+(slices[357]) currentSum=33647302 | maxSum=999999932
+(slices[356]) currentSum=33461599 | maxSum=999999932
+(slices[355]) currentSum=33276856 | maxSum=999999932
+(slices[354]) currentSum=33092375 | maxSum=999999932
+(slices[353]) currentSum=32908153 | maxSum=999999932
+(slices[352]) currentSum=32724402 | maxSum=999999932
+(slices[351]) currentSum=32540778 | maxSum=999999932
+(slices[350]) currentSum=32357754 | maxSum=999999932
+(slices[349]) currentSum=32174993 | maxSum=999999932
+(slices[348]) currentSum=31992462 | maxSum=999999932
+(slices[347]) currentSum=31810155 | maxSum=999999932
+(slices[346]) currentSum=31630653 | maxSum=999999932
+(slices[345]) currentSum=31452362 | maxSum=999999932
+(slices[344]) currentSum=31274377 | maxSum=999999932
+(slices[343]) currentSum=31098387 | maxSum=999999932
+(slices[342]) currentSum=30923890 | maxSum=999999932
+(slices[341]) currentSum=30749450 | maxSum=999999932
+(slices[340]) currentSum=30575417 | maxSum=999999932
+(slices[339]) currentSum=30402218 | maxSum=999999932
+(slices[338]) currentSum=30229106 | maxSum=999999932
+(slices[337]) currentSum=30056421 | maxSum=999999932
+(slices[336]) currentSum=29883833 | maxSum=999999932
+(slices[335]) currentSum=29712062 | maxSum=999999932
+(slices[334]) currentSum=29540672 | maxSum=999999932
+(slices[333]) currentSum=29370066 | maxSum=999999932
+(slices[332]) currentSum=29199620 | maxSum=999999932
+(slices[331]) currentSum=29030139 | maxSum=999999932
+(slices[330]) currentSum=28860692 | maxSum=999999932
+(slices[329]) currentSum=28692004 | maxSum=999999932
+(slices[328]) currentSum=28524200 | maxSum=999999932
+(slices[327]) currentSum=28356735 | maxSum=999999932
+(slices[326]) currentSum=28189753 | maxSum=999999932
+(slices[325]) currentSum=28022813 | maxSum=999999932
+(slices[324]) currentSum=27856691 | maxSum=999999932
+(slices[323]) currentSum=27690800 | maxSum=999999932
+(slices[322]) currentSum=27525100 | maxSum=999999932
+(slices[321]) currentSum=27359640 | maxSum=999999932
+(slices[320]) currentSum=27194509 | maxSum=999999932
+(slices[319]) currentSum=27029772 | maxSum=999999932
+(slices[318]) currentSum=26865585 | maxSum=999999932
+(slices[317]) currentSum=26702502 | maxSum=999999932
+(slices[316]) currentSum=26539453 | maxSum=999999932
+(slices[315]) currentSum=26377086 | maxSum=999999932
+(slices[314]) currentSum=26214975 | maxSum=999999932
+(slices[313]) currentSum=26052895 | maxSum=999999932
+(slices[312]) currentSum=25890985 | maxSum=999999932
+(slices[311]) currentSum=25729484 | maxSum=999999932
+(slices[310]) currentSum=25569011 | maxSum=999999932
+(slices[309]) currentSum=25408695 | maxSum=999999932
+(slices[308]) currentSum=25248381 | maxSum=999999932
+(slices[307]) currentSum=25088103 | maxSum=999999932
+(slices[306]) currentSum=24928268 | maxSum=999999932
+(slices[305]) currentSum=24768724 | maxSum=999999932
+(slices[304]) currentSum=24609576 | maxSum=999999932
+(slices[303]) currentSum=24451368 | maxSum=999999932
+(slices[302]) currentSum=24294872 | maxSum=999999932
+(slices[301]) currentSum=24138527 | maxSum=999999932
+(slices[300]) currentSum=23982250 | maxSum=999999932
+(slices[299]) currentSum=23826386 | maxSum=999999932
+(slices[298]) currentSum=23671048 | maxSum=999999932
+(slices[297]) currentSum=23516258 | maxSum=999999932
+(slices[296]) currentSum=23361486 | maxSum=999999932
+(slices[295]) currentSum=23206924 | maxSum=999999932
+(slices[294]) currentSum=23054233 | maxSum=999999932
+(slices[293]) currentSum=22902466 | maxSum=999999932
+(slices[292]) currentSum=22750747 | maxSum=999999932
+(slices[291]) currentSum=22599539 | maxSum=999999932
+(slices[290]) currentSum=22449419 | maxSum=999999932
+(slices[289]) currentSum=22299557 | maxSum=999999932
+(slices[288]) currentSum=22150361 | maxSum=999999932
+(slices[287]) currentSum=22002716 | maxSum=999999932
+(slices[286]) currentSum=21855674 | maxSum=999999932
+(slices[285]) currentSum=21709057 | maxSum=999999932
+(slices[284]) currentSum=21562593 | maxSum=999999932
+(slices[283]) currentSum=21416226 | maxSum=999999932
+(slices[282]) currentSum=21271080 | maxSum=999999932
+(slices[281]) currentSum=21125978 | maxSum=999999932
+(slices[280]) currentSum=20982504 | maxSum=999999932
+(slices[279]) currentSum=20839314 | maxSum=999999932
+(slices[278]) currentSum=20696972 | maxSum=999999932
+(slices[277]) currentSum=20554667 | maxSum=999999932
+(slices[276]) currentSum=20413802 | maxSum=999999932
+(slices[275]) currentSum=20273935 | maxSum=999999932
+(slices[274]) currentSum=20134994 | maxSum=999999932
+(slices[273]) currentSum=19996204 | maxSum=999999932
+(slices[272]) currentSum=19857574 | maxSum=999999932
+(slices[271]) currentSum=19719318 | maxSum=999999932
+(slices[270]) currentSum=19581472 | maxSum=999999932
+(slices[269]) currentSum=19444044 | maxSum=999999932
+(slices[268]) currentSum=19306758 | maxSum=999999932
+(slices[267]) currentSum=19169533 | maxSum=999999932
+(slices[266]) currentSum=19033176 | maxSum=999999932
+(slices[265]) currentSum=18898497 | maxSum=999999932
+(slices[264]) currentSum=18764619 | maxSum=999999932
+(slices[263]) currentSum=18630932 | maxSum=999999932
+(slices[262]) currentSum=18497411 | maxSum=999999932
+(slices[261]) currentSum=18364445 | maxSum=999999932
+(slices[260]) currentSum=18231663 | maxSum=999999932
+(slices[259]) currentSum=18099199 | maxSum=999999932
+(slices[258]) currentSum=17966770 | maxSum=999999932
+(slices[257]) currentSum=17834367 | maxSum=999999932
+(slices[256]) currentSum=17702276 | maxSum=999999932
+(slices[255]) currentSum=17570356 | maxSum=999999932
+(slices[254]) currentSum=17439416 | maxSum=999999932
+(slices[253]) currentSum=17308686 | maxSum=999999932
+(slices[252]) currentSum=17178241 | maxSum=999999932
+(slices[251]) currentSum=17048598 | maxSum=999999932
+(slices[250]) currentSum=16920454 | maxSum=999999932
+(slices[249]) currentSum=16793079 | maxSum=999999932
+(slices[248]) currentSum=16665775 | maxSum=999999932
+(slices[247]) currentSum=16538789 | maxSum=999999932
+(slices[246]) currentSum=16411856 | maxSum=999999932
+(slices[245]) currentSum=16285289 | maxSum=999999932
+(slices[244]) currentSum=16159528 | maxSum=999999932
+(slices[243]) currentSum=16034115 | maxSum=999999932
+(slices[242]) currentSum=15909859 | maxSum=999999932
+(slices[241]) currentSum=15786636 | maxSum=999999932
+(slices[240]) currentSum=15664242 | maxSum=999999932
+(slices[239]) currentSum=15542430 | maxSum=999999932
+(slices[238]) currentSum=15420827 | maxSum=999999932
+(slices[237]) currentSum=15299513 | maxSum=999999932
+(slices[236]) currentSum=15178427 | maxSum=999999932
+(slices[235]) currentSum=15057432 | maxSum=999999932
+(slices[234]) currentSum=14936617 | maxSum=999999932
+(slices[233]) currentSum=14816215 | maxSum=999999932
+(slices[232]) currentSum=14696048 | maxSum=999999932
+(slices[231]) currentSum=14575901 | maxSum=999999932
+(slices[230]) currentSum=14455904 | maxSum=999999932
+(slices[229]) currentSum=14336224 | maxSum=999999932
+(slices[228]) currentSum=14217004 | maxSum=999999932
+(slices[227]) currentSum=14097981 | maxSum=999999932
+(slices[226]) currentSum=13980622 | maxSum=999999932
+(slices[225]) currentSum=13863270 | maxSum=999999932
+(slices[224]) currentSum=13746249 | maxSum=999999932
+(slices[223]) currentSum=13629459 | maxSum=999999932
+(slices[222]) currentSum=13514142 | maxSum=999999932
+(slices[221]) currentSum=13399116 | maxSum=999999932
+(slices[220]) currentSum=13284489 | maxSum=999999932
+(slices[219]) currentSum=13170087 | maxSum=999999932
+(slices[218]) currentSum=13056368 | maxSum=999999932
+(slices[217]) currentSum=12942708 | maxSum=999999932
+(slices[216]) currentSum=12829308 | maxSum=999999932
+(slices[215]) currentSum=12715911 | maxSum=999999932
+(slices[214]) currentSum=12603625 | maxSum=999999932
+(slices[213]) currentSum=12491740 | maxSum=999999932
+(slices[212]) currentSum=12379925 | maxSum=999999932
+(slices[211]) currentSum=12268295 | maxSum=999999932
+(slices[210]) currentSum=12157579 | maxSum=999999932
+(slices[209]) currentSum=12047848 | maxSum=999999932
+(slices[208]) currentSum=11939179 | maxSum=999999932
+(slices[207]) currentSum=11831342 | maxSum=999999932
+(slices[206]) currentSum=11723721 | maxSum=999999932
+(slices[205]) currentSum=11616197 | maxSum=999999932
+(slices[204]) currentSum=11508971 | maxSum=999999932
+(slices[203]) currentSum=11402069 | maxSum=999999932
+(slices[202]) currentSum=11296111 | maxSum=999999932
+(slices[201]) currentSum=11190651 | maxSum=999999932
+(slices[200]) currentSum=11085211 | maxSum=999999932
+(slices[199]) currentSum=10979921 | maxSum=999999932
+(slices[198]) currentSum=10875033 | maxSum=999999932
+(slices[197]) currentSum=10770427 | maxSum=999999932
+(slices[196]) currentSum=10666196 | maxSum=999999932
+(slices[195]) currentSum=10562092 | maxSum=999999932
+(slices[194]) currentSum=10458210 | maxSum=999999932
+(slices[193]) currentSum=10354934 | maxSum=999999932
+(slices[192]) currentSum=10251685 | maxSum=999999932
+(slices[191]) currentSum=10148970 | maxSum=999999932
+(slices[190]) currentSum=10047006 | maxSum=999999932
+(slices[189]) currentSum=9945072 | maxSum=999999932
+(slices[188]) currentSum=9843382 | maxSum=999999932
+(slices[187]) currentSum=9741917 | maxSum=999999932
+(slices[186]) currentSum=9642959 | maxSum=999999932
+(slices[185]) currentSum=9544662 | maxSum=999999932
+(slices[184]) currentSum=9446688 | maxSum=999999932
+(slices[183]) currentSum=9348844 | maxSum=999999932
+(slices[182]) currentSum=9251057 | maxSum=999999932
+(slices[181]) currentSum=9153433 | maxSum=999999932
+(slices[180]) currentSum=9056131 | maxSum=999999932
+(slices[179]) currentSum=8959299 | maxSum=999999932
+(slices[178]) currentSum=8863122 | maxSum=999999932
+(slices[177]) currentSum=8767308 | maxSum=999999932
+(slices[176]) currentSum=8671583 | maxSum=999999932
+(slices[175]) currentSum=8576207 | maxSum=999999932
+(slices[174]) currentSum=8481387 | maxSum=999999932
+(slices[173]) currentSum=8386647 | maxSum=999999932
+(slices[172]) currentSum=8292085 | maxSum=999999932
+(slices[171]) currentSum=8199697 | maxSum=999999932
+(slices[170]) currentSum=8108485 | maxSum=999999932
+(slices[169]) currentSum=8017562 | maxSum=999999932
+(slices[168]) currentSum=7927697 | maxSum=999999932
+(slices[167]) currentSum=7837875 | maxSum=999999932
+(slices[166]) currentSum=7748506 | maxSum=999999932
+(slices[165]) currentSum=7659541 | maxSum=999999932
+(slices[164]) currentSum=7571465 | maxSum=999999932
+(slices[163]) currentSum=7485449 | maxSum=999999932
+(slices[162]) currentSum=7399514 | maxSum=999999932
+(slices[161]) currentSum=7314332 | maxSum=999999932
+(slices[160]) currentSum=7229790 | maxSum=999999932
+(slices[159]) currentSum=7145390 | maxSum=999999932
+(slices[158]) currentSum=7061123 | maxSum=999999932
+(slices[157]) currentSum=6977070 | maxSum=999999932
+(slices[156]) currentSum=6893352 | maxSum=999999932
+(slices[155]) currentSum=6810497 | maxSum=999999932
+(slices[154]) currentSum=6727819 | maxSum=999999932
+(slices[153]) currentSum=6645186 | maxSum=999999932
+(slices[152]) currentSum=6563888 | maxSum=999999932
+(slices[151]) currentSum=6484149 | maxSum=999999932
+(slices[150]) currentSum=6405052 | maxSum=999999932
+(slices[149]) currentSum=6326044 | maxSum=999999932
+(slices[148]) currentSum=6247095 | maxSum=999999932
+(slices[147]) currentSum=6168333 | maxSum=999999932
+(slices[146]) currentSum=6089819 | maxSum=999999932
+(slices[145]) currentSum=6012088 | maxSum=999999932
+(slices[144]) currentSum=5934588 | maxSum=999999932
+(slices[143]) currentSum=5857718 | maxSum=999999932
+(slices[142]) currentSum=5781302 | maxSum=999999932
+(slices[141]) currentSum=5705185 | maxSum=999999932
+(slices[140]) currentSum=5630256 | maxSum=999999932
+(slices[139]) currentSum=5555335 | maxSum=999999932
+(slices[138]) currentSum=5480647 | maxSum=999999932
+(slices[137]) currentSum=5406155 | maxSum=999999932
+(slices[136]) currentSum=5331805 | maxSum=999999932
+(slices[135]) currentSum=5258382 | maxSum=999999932
+(slices[134]) currentSum=5185130 | maxSum=999999932
+(slices[133]) currentSum=5112146 | maxSum=999999932
+(slices[132]) currentSum=5039303 | maxSum=999999932
+(slices[131]) currentSum=4966678 | maxSum=999999932
+(slices[130]) currentSum=4894321 | maxSum=999999932
+(slices[129]) currentSum=4822138 | maxSum=999999932
+(slices[128]) currentSum=4750136 | maxSum=999999932
+(slices[127]) currentSum=4678143 | maxSum=999999932
+(slices[126]) currentSum=4606243 | maxSum=999999932
+(slices[125]) currentSum=4534448 | maxSum=999999932
+(slices[124]) currentSum=4463135 | maxSum=999999932
+(slices[123]) currentSum=4392410 | maxSum=999999932
+(slices[122]) currentSum=4322956 | maxSum=999999932
+(slices[121]) currentSum=4254388 | maxSum=999999932
+(slices[120]) currentSum=4186989 | maxSum=999999932
+(slices[119]) currentSum=4119802 | maxSum=999999932
+(slices[118]) currentSum=4053106 | maxSum=999999932
+(slices[117]) currentSum=3986442 | maxSum=999999932
+(slices[116]) currentSum=3920104 | maxSum=999999932
+(slices[115]) currentSum=3854763 | maxSum=999999932
+(slices[114]) currentSum=3790794 | maxSum=999999932
+(slices[113]) currentSum=3727187 | maxSum=999999932
+(slices[112]) currentSum=3663645 | maxSum=999999932
+(slices[111]) currentSum=3600438 | maxSum=999999932
+(slices[110]) currentSum=3537852 | maxSum=999999932
+(slices[109]) currentSum=3476068 | maxSum=999999932
+(slices[108]) currentSum=3414534 | maxSum=999999932
+(slices[107]) currentSum=3353159 | maxSum=999999932
+(slices[106]) currentSum=3292370 | maxSum=999999932
+(slices[105]) currentSum=3232377 | maxSum=999999932
+(slices[104]) currentSum=3172684 | maxSum=999999932
+(slices[103]) currentSum=3113788 | maxSum=999999932
+(slices[102]) currentSum=3055082 | maxSum=999999932
+(slices[101]) currentSum=2997857 | maxSum=999999932
+(slices[100]) currentSum=2940969 | maxSum=999999932
+(slices[99]) currentSum=2884116 | maxSum=999999932
+(slices[98]) currentSum=2827852 | maxSum=999999932
+(slices[97]) currentSum=2772857 | maxSum=999999932
+(slices[96]) currentSum=2718191 | maxSum=999999932
+(slices[95]) currentSum=2664022 | maxSum=999999932
+(slices[94]) currentSum=2610099 | maxSum=999999932
+(slices[93]) currentSum=2556782 | maxSum=999999932
+(slices[92]) currentSum=2503686 | maxSum=999999932
+(slices[91]) currentSum=2450600 | maxSum=999999932
+(slices[90]) currentSum=2397822 | maxSum=999999932
+(slices[89]) currentSum=2345114 | maxSum=999999932
+(slices[88]) currentSum=2292485 | maxSum=999999932
+(slices[87]) currentSum=2241008 | maxSum=999999932
+(slices[86]) currentSum=2191552 | maxSum=999999932
+(slices[85]) currentSum=2143043 | maxSum=999999932
+(slices[84]) currentSum=2094767 | maxSum=999999932
+(slices[83]) currentSum=2046666 | maxSum=999999932
+(slices[82]) currentSum=1998889 | maxSum=999999932
+(slices[81]) currentSum=1951289 | maxSum=999999932
+(slices[80]) currentSum=1904696 | maxSum=999999932
+(slices[79]) currentSum=1858417 | maxSum=999999932
+(slices[78]) currentSum=1812599 | maxSum=999999932
+(slices[77]) currentSum=1766987 | maxSum=999999932
+(slices[76]) currentSum=1723076 | maxSum=999999932
+(slices[75]) currentSum=1679961 | maxSum=999999932
+(slices[74]) currentSum=1637697 | maxSum=999999932
+(slices[73]) currentSum=1595461 | maxSum=999999932
+(slices[72]) currentSum=1553578 | maxSum=999999932
+(slices[71]) currentSum=1511730 | maxSum=999999932
+(slices[70]) currentSum=1470007 | maxSum=999999932
+(slices[69]) currentSum=1428619 | maxSum=999999932
+(slices[68]) currentSum=1387963 | maxSum=999999932
+(slices[67]) currentSum=1347797 | maxSum=999999932
+(slices[66]) currentSum=1308727 | maxSum=999999932
+(slices[65]) currentSum=1269859 | maxSum=999999932
+(slices[64]) currentSum=1231329 | maxSum=999999932
+(slices[63]) currentSum=1193500 | maxSum=999999932
+(slices[62]) currentSum=1155807 | maxSum=999999932
+(slices[61]) currentSum=1120771 | maxSum=999999932
+(slices[60]) currentSum=1086415 | maxSum=999999932
+(slices[59]) currentSum=1052139 | maxSum=999999932
+(slices[58]) currentSum=1018429 | maxSum=999999932
+(slices[57]) currentSum=985052 | maxSum=999999932
+(slices[56]) currentSum=952063 | maxSum=999999932
+(slices[55]) currentSum=919475 | maxSum=999999932
+(slices[54]) currentSum=888180 | maxSum=999999932
+(slices[53]) currentSum=857695 | maxSum=999999932
+(slices[52]) currentSum=827291 | maxSum=999999932
+(slices[51]) currentSum=796969 | maxSum=999999932
+(slices[50]) currentSum=766824 | maxSum=999999932
+(slices[49]) currentSum=737832 | maxSum=999999932
+(slices[48]) currentSum=709363 | maxSum=999999932
+(slices[47]) currentSum=681036 | maxSum=999999932
+(slices[46]) currentSum=653161 | maxSum=999999932
+(slices[45]) currentSum=625989 | maxSum=999999932
+(slices[44]) currentSum=598906 | maxSum=999999932
+(slices[43]) currentSum=571930 | maxSum=999999932
+(slices[42]) currentSum=545639 | maxSum=999999932
+(slices[41]) currentSum=519363 | maxSum=999999932
+(slices[40]) currentSum=493322 | maxSum=999999932
+(slices[39]) currentSum=467660 | maxSum=999999932
+(slices[38]) currentSum=442796 | maxSum=999999932
+(slices[37]) currentSum=419740 | maxSum=999999932
+(slices[36]) currentSum=397295 | maxSum=999999932
+(slices[35]) currentSum=375188 | maxSum=999999932
+(slices[34]) currentSum=353384 | maxSum=999999932
+(slices[33]) currentSum=331964 | maxSum=999999932
+(slices[32]) currentSum=311433 | maxSum=999999932
+(slices[31]) currentSum=290960 | maxSum=999999932
+(slices[30]) currentSum=270585 | maxSum=999999932
+(slices[29]) currentSum=252454 | maxSum=999999932
+(slices[28]) currentSum=235856 | maxSum=999999932
+(slices[27]) currentSum=219712 | maxSum=999999932
+(slices[26]) currentSum=204079 | maxSum=999999932
+(slices[25]) currentSum=188554 | maxSum=999999932
+(slices[24]) currentSum=173668 | maxSum=999999932
+(slices[23]) currentSum=159023 | maxSum=999999932
+(slices[22]) currentSum=144634 | maxSum=999999932
+(slices[21]) currentSum=131317 | maxSum=999999932
+(slices[20]) currentSum=118405 | maxSum=999999932
+(slices[19]) currentSum=106316 | maxSum=999999932
+(slices[18]) currentSum=95621 | maxSum=999999932
+(slices[17]) currentSum=85431 | maxSum=999999932
+(slices[16]) currentSum=75527 | maxSum=999999932
+(slices[15]) currentSum=65709 | maxSum=999999932
+(slices[14]) currentSum=57167 | maxSum=999999932
+(slices[13]) currentSum=48913 | maxSum=999999932
+(slices[12]) currentSum=41322 | maxSum=999999932
+(slices[11]) currentSum=34457 | maxSum=999999932
+(slices[10]) currentSum=28224 | maxSum=999999932
+(slices[9]) currentSum=22359 | maxSum=999999932
+(slices[8]) currentSum=18591 | maxSum=999999932
+(slices[7]) currentSum=15138 | maxSum=999999932
+(slices[6]) currentSum=12114 | maxSum=999999932
+(slices[5]) currentSum=9258 | maxSum=999999932
+(slices[4]) currentSum=6518 | maxSum=999999932
+(slices[3]) currentSum=4207 | maxSum=999999932
+(slices[2]) currentSum=2383 | maxSum=999999932

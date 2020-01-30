@@ -54,7 +54,7 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
         }
 
         // Save step on the logfile.
-        fprintf(fLog, "currentSum=%lld | maxSum=%lld\n", currentSum, maxSum);
+        fprintf(fLog, "(slices[%lld]) currentSum=%lld | maxSum=%lld\n", start, currentSum, maxSum);
 
         // If the answer now found is bigger than the maximum answer, replaces it.
         if(currentSum>maxSum) {
@@ -101,40 +101,62 @@ int main() {
     // Shows menu and manages options that doesn't exist.
     while(choice<0 || choice >5) {
         system("clear");
-        printf("  1- Example\n  2- Small\n  3- Medium\n  4- Quite Big\n  5- Also Big\n\n  0- All of them.\n\nChoose input file to run: ");
+        printf("AVAILABLE DATASETS:\n\n  1- Example.\n  2- Small.\n  3- Medium.\n  4- Quite Big.\n  5- Also Big.\n\n  0- All of them.\n\n--------------------\nChoose input file to run: ");
         scanf("%d", &choice);
     }
 
     // Handles available options.
     switch(choice) {
         case 1:
+            printf("\nRunning example dataset..........");
             runFromFile("input/inputE.in", "output/outputE.out", "logs/logOutputE.out");
+            printf("[OK]\n");
         break;
         case 2:
+            printf("\nRunning small dataset............");
             runFromFile("input/inputS.in", "output/outputS.out", "logs/logOutputS.out");
+            printf("[OK]\n");
         break;
         case 3:
-
+            printf("\nRunning medium dataset...........");
             runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputM.out"); 
+            printf("[OK]\n");
         break;
         case 4:
-
+            printf("\nRunning quite big dataset........");
             runFromFile("input/inputQB.in", "output/outputQB.out", "logs/logOutputQB.out");
+            printf("[OK]\n");
         break;
         case 5:
+            printf("\nRunning also big dataset.........");
             runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputAB.out");
+            printf("OK\n");
         break;
 
         // Option 0 was created to update all logs and output files if an update in the algorithm was done.
         case 0:
+            printf("\nRunning example dataset..........");
             runFromFile("input/inputE.in", "output/outputE.out", "logs/logOutputE.out");
+            printf("[OK]\n");
+
+            printf("Running small dataset............");
             runFromFile("input/inputS.in", "output/outputS.out", "logs/logOutputS.out");
-            runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputM.out");    
-            runFromFile("input/inputQB.in", "output/outputQB.out", "logs/logOutputQB.out");    
+            printf("[OK]\n");
+
+            printf("Running medium dataset...........");
+            runFromFile("input/inputM.in", "output/outputM.out", "logs/logOutputM.out"); 
+            printf("[OK]\n");
+
+            printf("Running quite big dataset........");
+            runFromFile("input/inputQB.in", "output/outputQB.out", "logs/logOutputQB.out");
+            printf("[OK]\n");
+
+            printf("Running also big dataset.........");
             runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputAB.out");
+            printf("[OK]\n");
         break;
     }
 
-    printf("\nOutput file generated.\nLog generated.\nTask completed.\n");
+    printf("\nTask fully completed.\n");
     return 0;
 }
