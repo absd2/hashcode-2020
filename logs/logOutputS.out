@@ -1,8 +1,8 @@
 currentSum=99 | maxSum=0
 currentSum=99 | maxSum=99
-currentSum=97 | maxSum=99
-currentSum=97 | maxSum=99
-currentSum=98 | maxSum=99
-currentSum=80 | maxSum=99
-currentSum=51 | maxSum=99
-currentSum=33 | maxSum=99
+currentSum=100 | maxSum=99
+currentSum=97 | maxSum=100
+currentSum=98 | maxSum=100
+currentSum=80 | maxSum=100
+currentSum=51 | maxSum=100
+currentSum=33 | maxSum=100

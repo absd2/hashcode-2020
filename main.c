@@ -43,7 +43,7 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
     while(start>1) {
         // Looks for an answers by searching from the very last element to the back, and moves the beggining point one step to the left every iteration.
         for(i=start; i>=0; i--) {
-            if(slices[i]+currentSum<maxSlices) {
+            if(slices[i]+currentSum<=maxSlices) {
                 currentSum+=slices[i];
                 
                 currentAnswers++;
