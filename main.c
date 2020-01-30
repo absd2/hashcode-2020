@@ -99,13 +99,14 @@ void runFromFile(char *inputFilename, char *outputFilename, char *logFilename) {
 int main() {
     int choice;
     
-    // Menu.
+    // Shows menu and manages options that doesn't exist.
     while(choice<0 || choice >5) {
         system("clear");
         printf("  1- Example\n  2- Small\n  3- Medium\n  4- Quite Big\n  5- Also Big\n\n  0- All of them.\n\nChoose input file to run: ");
         scanf("%d", &choice);
     }
 
+    // Handles available options.
     switch(choice) {
         case 1:
             runFromFile("input/inputE.in", "output/outputE.out", "logs/logOutputE.out");
@@ -125,6 +126,7 @@ int main() {
             runFromFile("input/inputAB.in", "output/outputAB.out", "logs/logOutputAB.out");
         break;
 
+        // Option 0 was created to update all logs and output files if an update in the algorithm was done.
         case 0:
             runFromFile("input/inputE.in", "output/outputE.out", "logs/logOutputE.out");
             runFromFile("input/inputS.in", "output/outputS.out", "logs/logOutputS.out");
